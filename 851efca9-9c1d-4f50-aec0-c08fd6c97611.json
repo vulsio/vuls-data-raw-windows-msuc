@@ -1,0 +1,41 @@
+{
+  "update_id": "851efca9-9c1d-4f50-aec0-c08fd6c97611",
+  "title": "2017-11 Cumulative Update for Windows 10 Version 1511 for x64-based Systems (KB4052232)",
+  "description": "Install this update to resolve issues in Windows. For a complete listing of the issues that are included in this update, see the associated Microsoft Knowledge Base article for more information. After you install this item, you may have to restart your computer.",
+  "architecture": "AMD64",
+  "classification": "Updates",
+  "supported_products": "Windows10",
+  "supported_languages": "all",
+  "security_bulliten": "n/a",
+  "msrc_severity": "n/a",
+  "kb_article": "4052232",
+  "more_info": "https://support.microsoft.com/help/4052232",
+  "support_url": "https://support.microsoft.com/help/4052232",
+  "supersededby": [
+    {
+      "title": "2018-03 Cumulative Update for Windows 10 Version 1511 for x64-based Systems (KB4088779)",
+      "update_id": "c19a8868-ac70-44b1-9b6f-2d4dc02cf9ba"
+    },
+    {
+      "title": "2018-04 Cumulative Update for Windows 10 Version 1511 for x64-based Systems (KB4093109)",
+      "update_id": "98ac416f-e0b8-4ced-9de8-d229b75b4d7a"
+    },
+    {
+      "title": "2018-01 Cumulative Update for Windows 10 Version 1511 for x64-based Systems (KB4075200)",
+      "update_id": "c6213de0-2a46-4e7b-8288-dabb48751e53"
+    },
+    {
+      "title": "2018-02 Cumulative Update for Windows 10 Version 1511 for x64-based Systems (KB4074591)",
+      "update_id": "041d42cd-eb65-4d43-a835-f5d2f502cc2d"
+    }
+  ],
+  "supersedes": [
+    "Cumulative Update for Windows 10 Version 1511 for x64-based Systems (KB3200068)"
+  ],
+  "reboot_behavior": "Can request restart",
+  "user_input": "No",
+  "connectivity": "No",
+  "uninstall_notes": "ThissoftwareupdatecanberemovedbyselectingViewinstalledupdatesintheProgramsandFeaturesControlPanel.",
+  "uninstall_steps": "n/a",
+  "last_modified": "11/2/2017"
+}
