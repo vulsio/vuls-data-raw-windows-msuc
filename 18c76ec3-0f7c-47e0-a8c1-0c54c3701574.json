@@ -1,0 +1,38 @@
+{
+  "update_id": "18c76ec3-0f7c-47e0-a8c1-0c54c3701574",
+  "title": "2020-11 Dynamic Cumulative Update for Windows 10 Version 20H2 for x64-based Systems (KB4594440)",
+  "description": "Install this update to resolve issues in Windows. For a complete listing of the issues that are included in this update, see the associated Microsoft Knowledge Base article for more information. After you install this item, you may have to restart your computer.",
+  "architecture": "n/a",
+  "classification": "Updates",
+  "supported_products": "Windows10andlaterGDR-DU",
+  "supported_languages": "all",
+  "security_bulliten": "n/a",
+  "msrc_severity": "n/a",
+  "kb_article": "4594440",
+  "more_info": "https://support.microsoft.com/help/4594440",
+  "support_url": "https://support.microsoft.com/help/4594440",
+  "supersededby": [
+    {
+      "title": "2022-08 Dynamic Cumulative Update for Windows 10 Version 20H2 for x64-based Systems (KB5016616)",
+      "update_id": "1f687c65-d108-4fcd-aba0-3942ce9a8c1f"
+    },
+    {
+      "title": "2022-03 Dynamic Cumulative Update for Windows 10 Version 20H2 for x64-based Systems (KB5011487)",
+      "update_id": "2146c83d-ffca-4a79-8db0-e3e4e11e1349"
+    },
+    {
+      "title": "2022-04 Dynamic Cumulative Update for Windows 10 Version 20H2 for x64-based Systems (KB5012599)",
+      "update_id": "22997370-35ee-4967-8b49-f7e98ee0bffb"
+    },
+    {
+      "title": "2022-05 Dynamic Cumulative Update for Windows 10 Version 20H2 for x64-based Systems (KB5013942)",
+      "update_id": "1f6f0231-6a35-451a-9271-2ea0f8d6f549"
+    }
+  ],
+  "reboot_behavior": "Can request restart",
+  "user_input": "No",
+  "connectivity": "No",
+  "uninstall_notes": "ThissoftwareupdatecanberemovedbyselectingViewinstalledupdatesintheProgramsandFeaturesControlPanel.",
+  "uninstall_steps": "n/a",
+  "last_modified": "11/19/2020"
+}

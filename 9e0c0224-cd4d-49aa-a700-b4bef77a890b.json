@@ -1,0 +1,38 @@
+{
+  "update_id": "9e0c0224-cd4d-49aa-a700-b4bef77a890b",
+  "title": "2020-11 Dynamic Cumulative Update for Windows 10 Version 20H2 for ARM64-based Systems (KB4594440)",
+  "description": "Install this update to resolve issues in Windows. For a complete listing of the issues that are included in this update, see the associated Microsoft Knowledge Base article for more information. After you install this item, you may have to restart your computer.",
+  "architecture": "n/a",
+  "classification": "Updates",
+  "supported_products": "Windows10andlaterGDR-DU",
+  "supported_languages": "all",
+  "security_bulliten": "n/a",
+  "msrc_severity": "n/a",
+  "kb_article": "4594440",
+  "more_info": "https://support.microsoft.com/help/4594440",
+  "support_url": "https://support.microsoft.com/help/4594440",
+  "supersededby": [
+    {
+      "title": "2022-05 Dynamic Cumulative Update for Windows 10 Version 20H2 for ARM64-based Systems (KB5013942)",
+      "update_id": "8c51d1b0-14b2-40ef-bca2-594eabbd7a25"
+    },
+    {
+      "title": "2022-03 Dynamic Cumulative Update for Windows 10 Version 20H2 for ARM64-based Systems (KB5011487)",
+      "update_id": "99b544cc-9918-4bf8-ac51-c3b293133c8e"
+    },
+    {
+      "title": "2022-08 Dynamic Cumulative Update for Windows 10 Version 20H2 for ARM64-based Systems (KB5016616)",
+      "update_id": "84bb3279-74e5-44ae-bce2-e15c82d55cc3"
+    },
+    {
+      "title": "2022-04 Dynamic Cumulative Update for Windows 10 Version 20H2 for ARM64-based Systems (KB5012599)",
+      "update_id": "21c63ba1-b32d-4d94-bb61-f03f0a00dc09"
+    }
+  ],
+  "reboot_behavior": "Can request restart",
+  "user_input": "No",
+  "connectivity": "No",
+  "uninstall_notes": "ThissoftwareupdatecanberemovedbyselectingViewinstalledupdatesintheProgramsandFeaturesControlPanel.",
+  "uninstall_steps": "n/a",
+  "last_modified": "11/19/2020"
+}

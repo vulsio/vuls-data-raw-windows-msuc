@@ -1,0 +1,30 @@
+{
+  "update_id": "c8e5c910-b457-405d-9371-9801424d1e82",
+  "title": "2020-11 Dynamic Cumulative Update for Windows 10 Version 2004 for x86-based Systems (KB4594440)",
+  "description": "Install this update to resolve issues in Windows. For a complete listing of the issues that are included in this update, see the associated Microsoft Knowledge Base article for more information. After you install this item, you may have to restart your computer.",
+  "architecture": "n/a",
+  "classification": "Updates",
+  "supported_products": "Windows10andlaterGDR-DU",
+  "supported_languages": "all",
+  "security_bulliten": "n/a",
+  "msrc_severity": "n/a",
+  "kb_article": "4594440",
+  "more_info": "https://support.microsoft.com/help/4594440",
+  "support_url": "https://support.microsoft.com/help/4594440",
+  "supersededby": [
+    {
+      "title": "2021-11 Dynamic Cumulative Update for Windows 10 Version 2004 for x86-based Systems (KB5007186)",
+      "update_id": "d0db29b3-db78-4c0b-b387-105f4f1051f7"
+    },
+    {
+      "title": "2021-12 Dynamic Cumulative Update for Windows 10 Version 2004 for x86-based Systems (KB5008212)",
+      "update_id": "49217432-cda1-4cb0-838f-a31b083be3a5"
+    }
+  ],
+  "reboot_behavior": "Can request restart",
+  "user_input": "No",
+  "connectivity": "No",
+  "uninstall_notes": "ThissoftwareupdatecanberemovedbyselectingViewinstalledupdatesintheProgramsandFeaturesControlPanel.",
+  "uninstall_steps": "n/a",
+  "last_modified": "11/19/2020"
+}
