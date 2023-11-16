@@ -69,10 +69,6 @@
       "update_id": "cc61ea03-c78d-4e13-8e89-13aea84ecf48"
     },
     {
-      "title": "2019-04 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4493437)",
-      "update_id": "bfe757b7-6572-47be-a9b0-cb7e8708e67b"
-    },
-    {
       "title": "2020-02 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4537762)",
       "update_id": "d31c92db-ef15-475c-a50c-ee0f3b03888e"
     },
@@ -95,6 +91,10 @@
     {
       "title": "2018-07 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4340917)",
       "update_id": "f272ab6b-3bab-483b-8ae7-9509c7f6bbb9"
+    },
+    {
+      "title": "2019-04 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4493437)",
+      "update_id": "bfe757b7-6572-47be-a9b0-cb7e8708e67b"
     }
   ],
   "supersedes": [
