@@ -17,16 +17,16 @@
       "update_id": "02ea4c2a-d966-40ae-9b14-5b172cd82328"
     },
     {
-      "title": "2021-05 Cumulative Update Preview for Windows Server, version 2004 for x64-based Systems (KB5003214)",
-      "update_id": "02c0e7eb-c3c8-4952-bba1-5b4500aee310"
-    },
-    {
       "title": "2021-10 Cumulative Update Preview for Windows Server, version 2004 for x64-based Systems (KB5006738)",
       "update_id": "2cff4ef0-a1ae-4ee7-b49a-d0711ef51e8f"
     },
     {
       "title": "2021-08 Cumulative Update Preview for Windows Server, version 2004 for x64-based Systems (KB5005101)",
       "update_id": "1b6e9ed0-d5a1-4e0e-b42d-91f1eb15bda1"
+    },
+    {
+      "title": "2021-05 Cumulative Update Preview for Windows Server, version 2004 for x64-based Systems (KB5003214)",
+      "update_id": "02c0e7eb-c3c8-4952-bba1-5b4500aee310"
     },
     {
       "title": "2021-06 Cumulative Update for Windows Server, version 2004 for x64-based Systems (KB5004476)",
