@@ -29,12 +29,12 @@
 			"update_id": "6342ad5d-98b3-49d9-8f95-b93249a3f4c9"
 		},
 		{
-			"title": "2023-09 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5030220)",
-			"update_id": "bff189a6-b562-4c86-acc5-8f50b2baf18e"
-		},
-		{
 			"title": "2023-05 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5026382)",
 			"update_id": "1b46fb74-fe6b-4487-ac5c-a1a69580bd3b"
+		},
+		{
+			"title": "2023-09 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5030220)",
+			"update_id": "bff189a6-b562-4c86-acc5-8f50b2baf18e"
 		},
 		{
 			"title": "2023-07 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5028186)",
@@ -76,13 +76,13 @@
 		"2018-01 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB4077735)",
 		"2019-02 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB4491101)",
 		"2021-03 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5001631)",
-		"Cumulative Update for Windows 10 for x64-based Systems (KB3205436)",
 		"2019-05 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB4505051)",
 		"2019-08 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB4517276)",
-		"2018-07 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB4345455)",
+		"Cumulative Update for Windows 10 for x64-based Systems (KB3205436)",
 		"2020-06 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB4567518)",
-		"2022-01 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5010789)",
+		"2018-07 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB4345455)",
 		"2022-10 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5020440)",
+		"2022-01 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5010789)",
 		"2022-10 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5018425)"
 	],
 	"reboot_behavior": "Can request restart",
