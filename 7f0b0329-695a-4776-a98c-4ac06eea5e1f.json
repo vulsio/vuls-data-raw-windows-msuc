@@ -45,12 +45,12 @@
 			"update_id": "0148bcc0-f881-4b22-b133-e318fe0f8efd"
 		},
 		{
-			"title": "2021-02 Cumulative Update Preview for Windows 10 Version 2004 for x86-based Systems (KB4601382)",
-			"update_id": "4bd3a331-98dc-45e1-8c48-9d5d738e925e"
-		},
-		{
 			"title": "2021-06 Cumulative Update for Windows 10 Version 2004 for x86-based Systems (KB5004760)",
 			"update_id": "4a81d497-0545-46f5-bee9-fe0dcb33e7df"
+		},
+		{
+			"title": "2021-02 Cumulative Update Preview for Windows 10 Version 2004 for x86-based Systems (KB4601382)",
+			"update_id": "4bd3a331-98dc-45e1-8c48-9d5d738e925e"
 		},
 		{
 			"title": "2021-03 Cumulative Update for Windows 10 Version 2004 for x86-based Systems (KB5001649)",
