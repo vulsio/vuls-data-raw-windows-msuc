@@ -13,12 +13,12 @@
 	"support_url": "https://support.microsoft.com/help/4577063",
 	"supersededby": [
 		{
-			"title": "2020-11 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB4586853)",
-			"update_id": "4d74d6fa-ceeb-4e75-9eba-2e166be76a9b"
-		},
-		{
 			"title": "2021-06 Cumulative Update for Windows Server, version 2004 for ARM64-based Systems (KB5004476)",
 			"update_id": "14e81e91-6788-484e-b9d0-a6445c1add7a"
+		},
+		{
+			"title": "2020-11 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB4586853)",
+			"update_id": "4d74d6fa-ceeb-4e75-9eba-2e166be76a9b"
 		},
 		{
 			"title": "2021-05 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB5003214)",
@@ -69,6 +69,10 @@
 			"update_id": "9dab6fc9-8d41-429a-a379-885f1bfcf2ab"
 		},
 		{
+			"title": "2021-01 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB4598291)",
+			"update_id": "ae2455f1-4c25-468a-9fef-e1dd3519a99e"
+		},
+		{
 			"title": "2021-08 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB5005101)",
 			"update_id": "bec64206-f59c-436d-883c-df618d45a535"
 		},
@@ -81,18 +85,14 @@
 			"update_id": "b8811c9a-d165-4c11-b04b-5fa00c45338a"
 		},
 		{
-			"title": "2021-01 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB4598291)",
-			"update_id": "ae2455f1-4c25-468a-9fef-e1dd3519a99e"
-		},
-		{
 			"title": "2021-09 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB5005611)",
 			"update_id": "f63ef584-2c48-49b1-894f-70e797eb913e"
 		}
 	],
 	"supersedes": [
 		"2020-06 Cumulative Update for Windows Server, version 2004 for ARM64-based Systems (KB4567523)",
-		"2020-07 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB4568831)",
-		"2020-08 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB4571744)"
+		"2020-08 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB4571744)",
+		"2020-07 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB4568831)"
 	],
 	"reboot_behavior": "Can request restart",
 	"user_input": "No",
