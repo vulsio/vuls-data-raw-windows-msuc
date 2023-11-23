@@ -37,12 +37,12 @@
 			"update_id": "563fd40b-560b-4dc3-b504-b776c2df7557"
 		},
 		{
-			"title": "2019-01 Cumulative Update for Windows 10 Version 1703 for x86-based Systems (KB4480959)",
-			"update_id": "58f124af-85f7-4d19-bdca-8faaf93b3e26"
-		},
-		{
 			"title": "2019-09 Cumulative Update for Windows 10 Version 1703 for x86-based Systems (KB4516059)",
 			"update_id": "192ff0cb-36dd-4327-91a8-a753969f3cfb"
+		},
+		{
+			"title": "2019-01 Cumulative Update for Windows 10 Version 1703 for x86-based Systems (KB4480959)",
+			"update_id": "58f124af-85f7-4d19-bdca-8faaf93b3e26"
 		},
 		{
 			"title": "2019-05 Cumulative Update for Windows 10 Version 1703 for x86-based Systems (KB4499162)",
