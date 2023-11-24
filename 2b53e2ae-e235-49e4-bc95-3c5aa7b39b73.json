@@ -29,6 +29,10 @@
 			"update_id": "3923a7a9-80f6-4337-8c4e-bbaf4dcfc4d6"
 		},
 		{
+			"title": "2022-12 Dynamic Cumulative Update for Windows 10 Version 22H2 for x86-based Systems (KB5021233)",
+			"update_id": "853f33c1-3a0c-4982-af6a-d145cb7ba631"
+		},
+		{
 			"title": "2023-10 Dynamic Cumulative Update for Windows 10 Version 22H2 for x86-based Systems (KB5031356)",
 			"update_id": "41b654b3-162b-48ec-9ed1-6c691404b8cc"
 		},
@@ -59,10 +63,6 @@
 		{
 			"title": "2023-01 Dynamic Cumulative Update for Windows 10 Version 22H2 for x86-based Systems (KB5022282)",
 			"update_id": "dc289d64-469b-42f7-b22f-4b0cb6fa949e"
-		},
-		{
-			"title": "2022-12 Dynamic Cumulative Update for Windows 10 Version 22H2 for x86-based Systems (KB5021233)",
-			"update_id": "853f33c1-3a0c-4982-af6a-d145cb7ba631"
 		}
 	],
 	"reboot_behavior": "Can request restart",
