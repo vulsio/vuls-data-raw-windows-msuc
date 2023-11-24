@@ -12,8 +12,8 @@
 	"more_info": "https://support.microsoft.com/help/4093109",
 	"support_url": "https://support.microsoft.com/help/4093109",
 	"supersedes": [
-		"2018-02 Cumulative Update for Windows 10 Version 1511 for x64-based Systems (KB4074591)",
 		"Cumulative Update for Windows 10 Version 1511 for x64-based Systems (KB3200068)",
+		"2018-02 Cumulative Update for Windows 10 Version 1511 for x64-based Systems (KB4074591)",
 		"2018-03 Cumulative Update for Windows 10 Version 1511 for x64-based Systems (KB4088779)",
 		"2018-01 Cumulative Update for Windows 10 Version 1511 for x64-based Systems (KB4075200)",
 		"2017-11 Cumulative Update for Windows 10 Version 1511 for x64-based Systems (KB4052232)"
