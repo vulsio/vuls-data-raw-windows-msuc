@@ -13,12 +13,12 @@
 	"support_url": "https://support.microsoft.com/help/5010793",
 	"supersededby": [
 		{
-			"title": "2022-09 Cumulative Update Preview for Windows 10 Version 21H2 for ARM64-based Systems (KB5017380)",
-			"update_id": "1059f22f-691f-4828-92f5-a5db7470e011"
-		},
-		{
 			"title": "2023-06 Cumulative Update for Windows 10 Version 21H2 for ARM64-based Systems (KB5027215)",
 			"update_id": "23e03acd-a3c6-49eb-8106-5face73e1ddd"
+		},
+		{
+			"title": "2022-09 Cumulative Update Preview for Windows 10 Version 21H2 for ARM64-based Systems (KB5017380)",
+			"update_id": "1059f22f-691f-4828-92f5-a5db7470e011"
 		},
 		{
 			"title": "2022-06 Cumulative Update Preview for Windows 10 Version 21H2 for ARM64-based Systems (KB5014666)",
