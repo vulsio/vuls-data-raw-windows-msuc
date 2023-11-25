@@ -85,12 +85,12 @@
 			"update_id": "d866d08e-6cef-41f5-9a2a-30a08d89bfc5"
 		},
 		{
-			"title": "2022-10 Cumulative Update Preview for Windows 10 Version 21H1 for x86-based Systems (KB5018482)",
-			"update_id": "ea5490d8-8f12-40cd-a654-d9c83c514725"
-		},
-		{
 			"title": "2022-05 Cumulative Update for Windows 10 Version 21H1 for x86-based Systems (KB5015020)",
 			"update_id": "f042858b-9771-465b-8294-84c3b01d63a6"
+		},
+		{
+			"title": "2022-10 Cumulative Update Preview for Windows 10 Version 21H1 for x86-based Systems (KB5018482)",
+			"update_id": "ea5490d8-8f12-40cd-a654-d9c83c514725"
 		},
 		{
 			"title": "2022-01 Cumulative Update for Windows 10 Version 21H1 for x86-based Systems (KB5010793)",
