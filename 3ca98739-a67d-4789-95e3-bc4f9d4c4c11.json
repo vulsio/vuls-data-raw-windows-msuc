@@ -13,12 +13,12 @@
 	"support_url": "https://support.microsoft.com/help/5010415",
 	"supersededby": [
 		{
-			"title": "2022-05 Cumulative Update Preview for Windows 10 Version 21H2 for x64-based Systems (KB5014023)",
-			"update_id": "03ac0e9a-da4c-45a6-8cbd-08bc79e58f9d"
-		},
-		{
 			"title": "2023-09 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5030211)",
 			"update_id": "453112b9-83bb-403c-9263-018ffe515016"
+		},
+		{
+			"title": "2022-05 Cumulative Update Preview for Windows 10 Version 21H2 for x64-based Systems (KB5014023)",
+			"update_id": "03ac0e9a-da4c-45a6-8cbd-08bc79e58f9d"
 		},
 		{
 			"title": "2023-02 Cumulative Update Preview for Windows 10 Version 21H2 for x64-based Systems (KB5022906)",
