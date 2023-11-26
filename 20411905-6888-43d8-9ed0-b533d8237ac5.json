@@ -13,12 +13,12 @@
 	"support_url": "https://support.microsoft.com/help/4567523",
 	"supersededby": [
 		{
-			"title": "2020-08 Cumulative Update Preview for Windows 10 Version 2004 for ARM64-based Systems (KB4571744)",
-			"update_id": "2ba5fb15-79c7-4836-a606-d06b73025366"
-		},
-		{
 			"title": "2020-07 Cumulative Update Preview for Windows 10 Version 2004 for ARM64-based Systems (KB4568831)",
 			"update_id": "13cece1a-d23b-4577-a15b-c1a78c0e4ebc"
+		},
+		{
+			"title": "2020-08 Cumulative Update Preview for Windows 10 Version 2004 for ARM64-based Systems (KB4571744)",
+			"update_id": "2ba5fb15-79c7-4836-a606-d06b73025366"
 		},
 		{
 			"title": "2021-05 Cumulative Update Preview for Windows 10 Version 2004 for ARM64-based Systems (KB5003214)",
