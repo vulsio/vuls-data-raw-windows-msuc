@@ -49,10 +49,6 @@
 			"update_id": "45900d11-0824-4820-bc42-fd4b3b5d9267"
 		},
 		{
-			"title": "2022-04 Cumulative Update Preview for Windows 10 Version 21H1 for x64-based Systems (KB5011831)",
-			"update_id": "323915ba-3a92-49a4-8a84-0cd81fb2c34f"
-		},
-		{
 			"title": "2021-10 Cumulative Update Preview for Windows 10 Version 21H1 for x64-based Systems (KB5006738)",
 			"update_id": "33b35fc1-df67-4e3f-a0fb-b3c2158729c2"
 		},
@@ -71,6 +67,10 @@
 		{
 			"title": "2021-06 Cumulative Update for Windows 10 Version 21H1 for x64-based Systems (KB5004760)",
 			"update_id": "8c7ccc0c-a482-4988-97f2-c98d81c56cf9"
+		},
+		{
+			"title": "2022-04 Cumulative Update Preview for Windows 10 Version 21H1 for x64-based Systems (KB5011831)",
+			"update_id": "323915ba-3a92-49a4-8a84-0cd81fb2c34f"
 		},
 		{
 			"title": "2022-10 Cumulative Update for Windows 10 Version 21H1 for x64-based Systems (KB5020953)",
