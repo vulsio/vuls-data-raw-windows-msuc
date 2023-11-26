@@ -35,9 +35,9 @@
 	],
 	"supersedes": [
 		"2022-09 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5017328)",
-		"2021-12 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5008215)",
-		"2023-02 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5022836)",
 		"2022-10 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5018418)",
+		"2023-02 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5022836)",
+		"2021-12 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5008215)",
 		"2021-11 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5007215)",
 		"2023-03 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5023698)",
 		"2022-03 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5011493)",
