@@ -57,10 +57,6 @@
 			"update_id": "9440803e-fdb8-46e4-b5a7-fe6a32d01352"
 		},
 		{
-			"title": "2023-01 Cumulative Update Preview for Windows 10 Version 21H2 for x64-based Systems (KB5019275)",
-			"update_id": "80dac57d-1df7-47d7-9236-7c6064fad741"
-		},
-		{
 			"title": "2023-06 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5027215)",
 			"update_id": "9b36e45f-715d-4f39-97e3-91166ffc1ab8"
 		},
@@ -71,6 +67,10 @@
 		{
 			"title": "2023-08 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5029244)",
 			"update_id": "88d004ff-2072-4722-a760-fc3e59fefb63"
+		},
+		{
+			"title": "2023-01 Cumulative Update Preview for Windows 10 Version 21H2 for x64-based Systems (KB5019275)",
+			"update_id": "80dac57d-1df7-47d7-9236-7c6064fad741"
 		},
 		{
 			"title": "2022-09 Cumulative Update Preview for Windows 10 Version 21H2 for x64-based Systems (KB5017380)",
