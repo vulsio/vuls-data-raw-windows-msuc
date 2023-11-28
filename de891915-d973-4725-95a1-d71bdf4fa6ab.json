@@ -36,12 +36,12 @@
 		"2019-04 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4493437)",
 		"2019-01 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4480976)",
 		"2019-03 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4489894)",
-		"2018-09 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4458469)",
 		"2018-06 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4338548)",
+		"2018-09 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4458469)",
 		"2019-07 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4507466)",
-		"2018-06 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4284848)",
+		"2019-10 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4519978)",
 		"2018-05 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4100403)",
-		"2019-10 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4519978)"
+		"2018-06 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4284848)"
 	],
 	"reboot_behavior": "Can request restart",
 	"user_input": "No",
