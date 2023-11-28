@@ -98,9 +98,9 @@
 		}
 	],
 	"supersedes": [
-		"2021-12 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5008215)",
 		"2021-11 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5007215)",
 		"2022-01 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5009566)",
+		"2021-12 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5008215)",
 		"2021-10 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5006674)"
 	],
 	"reboot_behavior": "Can request restart",
