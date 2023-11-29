@@ -13,24 +13,24 @@
 	"support_url": "https://support.microsoft.com/help/4594442",
 	"supersededby": [
 		{
-			"title": "2022-01 Cumulative Update for Windows 10 Version 1809 for x64-based Systems (KB5010196)",
-			"update_id": "123786ed-3ad4-4eca-b837-a0be4c22c48c"
+			"title": "2022-09 Cumulative Update for Windows 10 Version 1809 for x64-based Systems (KB5017315)",
+			"update_id": "01c4477d-7f68-4b45-844a-b4e1d855b2b1"
 		},
 		{
 			"title": "2022-01 Cumulative Update for Windows 10 Version 1809 for x64-based Systems (KB5010791)",
 			"update_id": "069356f3-1797-4f4a-9fd9-a9bfe1801953"
 		},
 		{
-			"title": "2022-09 Cumulative Update for Windows 10 Version 1809 for x64-based Systems (KB5017315)",
-			"update_id": "01c4477d-7f68-4b45-844a-b4e1d855b2b1"
-		},
-		{
-			"title": "2022-06 Cumulative Update Preview for Windows 10 Version 1809 for x64-based Systems (KB5014669)",
-			"update_id": "22a93f42-a748-4d97-935d-ed71a4b56d3d"
+			"title": "2022-01 Cumulative Update for Windows 10 Version 1809 for x64-based Systems (KB5010196)",
+			"update_id": "123786ed-3ad4-4eca-b837-a0be4c22c48c"
 		},
 		{
 			"title": "2021-03 Cumulative Update for Windows 10 Version 1809 for x64-based Systems (KB5001568)",
 			"update_id": "0b86b06f-aac1-4bdd-ac1c-374ec5d3e5b3"
+		},
+		{
+			"title": "2022-06 Cumulative Update Preview for Windows 10 Version 1809 for x64-based Systems (KB5014669)",
+			"update_id": "22a93f42-a748-4d97-935d-ed71a4b56d3d"
 		},
 		{
 			"title": "2023-02 Cumulative Update for Windows 10 Version 1809 for x64-based Systems (KB5022840)",
@@ -97,12 +97,12 @@
 			"update_id": "65524898-6480-4cda-ab42-fa3d770c6ff3"
 		},
 		{
-			"title": "2021-07 Cumulative Update Preview for Windows 10 Version 1809 for x64-based Systems (KB5004308)",
-			"update_id": "6d1580f2-409a-45ad-8e39-31ca8f9a5ffc"
-		},
-		{
 			"title": "2021-04 Cumulative Update Preview for Windows 10 Version 1809 for x64-based Systems (KB5001384)",
 			"update_id": "64efdda3-bb6c-4eff-85f3-8179db146091"
+		},
+		{
+			"title": "2021-07 Cumulative Update Preview for Windows 10 Version 1809 for x64-based Systems (KB5004308)",
+			"update_id": "6d1580f2-409a-45ad-8e39-31ca8f9a5ffc"
 		},
 		{
 			"title": "2022-09 Cumulative Update Preview for Windows 10 Version 1809 for x64-based Systems (KB5017379)",
@@ -204,10 +204,10 @@
 	"supersedes": [
 		"2019-10 Cumulative Update for Windows 10 Version 1809 for x64-based Systems (KB4520062)",
 		"2019-01 Cumulative Update for Windows 10 Version 1809 for x64-based Systems (KB4476976)",
+		"2018-11 Cumulative Update for Windows 10 Version 1809 for x64-based Systems (KB4469342)",
 		"2018-10 Cumulative Update for Windows 10 Version 1809 for x64-based Systems (KB4464455)",
 		"2020-02 Cumulative Update for Windows 10 Version 1809 for x64-based Systems (KB4537818)",
 		"2020-01 Cumulative Update for Windows 10 Version 1809 for x64-based Systems (KB4534321)",
-		"2018-11 Cumulative Update for Windows 10 Version 1809 for x64-based Systems (KB4469342)",
 		"2020-07 Cumulative Update Preview for Windows 10 Version 1809 for x64-based Systems (KB4559003)",
 		"2020-09 Cumulative Update Preview for Windows 10 Version 1809 for x64-based Systems (KB4577069)",
 		"2020-10 Cumulative Update Preview for Windows 10 Version 1809 for x64-based Systems (KB4580390)",
@@ -222,8 +222,8 @@
 		"2020-04 Cumulative Update for Windows 10 Version 1809 for x64-based Systems (KB4550969)",
 		"2019-08 Cumulative Update for Windows 10 Version 1809 for x64-based Systems (KB4512534)",
 		"2019-03 Cumulative Update for Windows 10 Version 1809 for x64-based Systems (KB4490481)",
-		"2020-03 Cumulative Update for Windows 10 Version 1809 for x64-based Systems (KB4541331)",
 		"2019-02 Cumulative Update for Windows 10 Version 1809 for x64-based Systems (KB4482887)",
+		"2020-03 Cumulative Update for Windows 10 Version 1809 for x64-based Systems (KB4541331)",
 		"2019-05 Cumulative Update for Windows 10 Version 1809 for x64-based Systems (KB4501835)",
 		"2019-07 Cumulative Update for Windows 10 Version 1809 for x64-based Systems (KB4505658)"
 	],
