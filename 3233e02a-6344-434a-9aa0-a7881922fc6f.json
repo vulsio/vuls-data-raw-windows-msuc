@@ -25,6 +25,10 @@
 			"update_id": "1b467b48-0134-401f-b81b-bc7bbd093138"
 		},
 		{
+			"title": "2022-11 Cumulative Update for Windows 10 Version 20H2 for x64-based Systems (KB5019959)",
+			"update_id": "08f5fb90-8bbe-438b-ab6d-bc468cb5f36e"
+		},
+		{
 			"title": "2021-06 Cumulative Update for Windows 10 Version 20H2 for x64-based Systems (KB5004476)",
 			"update_id": "06e3fc11-4baa-47b7-b77f-5bbd228a7317"
 		},
@@ -35,10 +39,6 @@
 		{
 			"title": "2021-08 Cumulative Update Preview for Windows 10 Version 20H2 for x64-based Systems (KB5005101)",
 			"update_id": "0f2d7e37-31a5-4f17-b464-59ace1689368"
-		},
-		{
-			"title": "2022-11 Cumulative Update for Windows 10 Version 20H2 for x64-based Systems (KB5019959)",
-			"update_id": "08f5fb90-8bbe-438b-ab6d-bc468cb5f36e"
 		},
 		{
 			"title": "2022-09 Cumulative Update Preview for Windows 10 Version 20H2 for x64-based Systems (KB5017380)",
@@ -109,12 +109,12 @@
 			"update_id": "8e032b68-2486-4055-ba64-73b0d1a066a8"
 		},
 		{
-			"title": "2022-02 Cumulative Update Preview for Windows 10 Version 20H2 for x64-based Systems (KB5010415)",
-			"update_id": "90d5a34b-d563-461e-91f0-7df48eaf49d6"
-		},
-		{
 			"title": "2022-04 Cumulative Update Preview for Windows 10 Version 20H2 for x64-based Systems (KB5011831)",
 			"update_id": "7b107ec7-e2bf-465d-a75b-99f67f78249b"
+		},
+		{
+			"title": "2022-02 Cumulative Update Preview for Windows 10 Version 20H2 for x64-based Systems (KB5010415)",
+			"update_id": "90d5a34b-d563-461e-91f0-7df48eaf49d6"
 		},
 		{
 			"title": "2022-10 Cumulative Update for Windows 10 Version 20H2 for x64-based Systems (KB5020435)",
@@ -150,8 +150,8 @@
 		"2020-10 Cumulative Update Preview for Windows 10 Version 20H2 for x64-based Systems (KB4580364)",
 		"2020-11 Cumulative Update for Windows 10 Version 20H2 for x64-based Systems (KB4594440)",
 		"2020-11 Servicing Stack Update for Windows 10 Version 20H2 for x64-based Systems (KB4586864)",
-		"2020-11 Cumulative Update Preview for Windows 10 Version 20H2 for x64-based Systems (KB4586853)",
 		"2021-01 Servicing Stack Update for Windows 10 Version 20H2 for x64-based Systems (KB4598481)",
+		"2020-11 Cumulative Update Preview for Windows 10 Version 20H2 for x64-based Systems (KB4586853)",
 		"2020-12 Servicing Stack Update for Windows 10 Version 20H2 for x64-based Systems (KB4593175)",
 		"2021-03 Cumulative Update Preview for Windows 10 Version 20H2 for x64-based Systems (KB5000842)",
 		"2021-03 Cumulative Update for Windows 10 Version 20H2 for x64-based Systems (KB5001567)",
