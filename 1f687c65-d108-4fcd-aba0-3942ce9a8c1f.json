@@ -12,9 +12,9 @@
 	"more_info": "https://support.microsoft.com/help/5016616",
 	"support_url": "https://support.microsoft.com/help/5016616",
 	"supersedes": [
-		"2022-05 Dynamic Cumulative Update for Windows 10 Version 20H2 for x64-based Systems (KB5013942)",
-		"2022-04 Dynamic Cumulative Update for Windows 10 Version 20H2 for x64-based Systems (KB5012599)",
 		"2020-11 Dynamic Cumulative Update for Windows 10 Version 20H2 for x64-based Systems (KB4594440)",
+		"2022-04 Dynamic Cumulative Update for Windows 10 Version 20H2 for x64-based Systems (KB5012599)",
+		"2022-05 Dynamic Cumulative Update for Windows 10 Version 20H2 for x64-based Systems (KB5013942)",
 		"2022-03 Dynamic Cumulative Update for Windows 10 Version 20H2 for x64-based Systems (KB5011487)"
 	],
 	"reboot_behavior": "Can request restart",
