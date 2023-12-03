@@ -45,8 +45,8 @@
 		"2018-10 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4462932)",
 		"2020-07 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4565508)",
 		"2019-05 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4505062)",
-		"2019-06 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4503281)",
 		"2020-02 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4537816)",
+		"2019-06 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4503281)",
 		"2019-07 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4507465)"
 	],
 	"reboot_behavior": "Can request restart",
