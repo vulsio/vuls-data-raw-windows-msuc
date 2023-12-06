@@ -57,12 +57,12 @@
 			"update_id": "ae23d8c1-d32e-4990-b702-c413dcfa6d84"
 		},
 		{
-			"title": "2022-09 Cumulative Update for Windows 10 Version 1507 for x86-based Systems (KB5017327)",
-			"update_id": "b3d1169f-5934-44ca-8f36-26e245514f30"
-		},
-		{
 			"title": "2022-01 Cumulative Update for Windows 10 Version 1507 for x86-based Systems (KB5010789)",
 			"update_id": "b0c1d397-2505-4682-b75b-88dbd23279f0"
+		},
+		{
+			"title": "2022-09 Cumulative Update for Windows 10 Version 1507 for x86-based Systems (KB5017327)",
+			"update_id": "b3d1169f-5934-44ca-8f36-26e245514f30"
 		},
 		{
 			"title": "2022-12 Cumulative Update for Windows 10 Version 1507 for x86-based Systems (KB5021243)",
