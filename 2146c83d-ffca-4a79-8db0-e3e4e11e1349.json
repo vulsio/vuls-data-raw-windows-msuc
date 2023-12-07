@@ -13,16 +13,16 @@
 	"support_url": "https://support.microsoft.com/help/5011487",
 	"supersededby": [
 		{
-			"title": "2022-04 Dynamic Cumulative Update for Windows 10 Version 20H2 for x64-based Systems (KB5012599)",
-			"update_id": "22997370-35ee-4967-8b49-f7e98ee0bffb"
-		},
-		{
 			"title": "2022-08 Dynamic Cumulative Update for Windows 10 Version 20H2 for x64-based Systems (KB5016616)",
 			"update_id": "1f687c65-d108-4fcd-aba0-3942ce9a8c1f"
 		},
 		{
 			"title": "2022-05 Dynamic Cumulative Update for Windows 10 Version 20H2 for x64-based Systems (KB5013942)",
 			"update_id": "1f6f0231-6a35-451a-9271-2ea0f8d6f549"
+		},
+		{
+			"title": "2022-04 Dynamic Cumulative Update for Windows 10 Version 20H2 for x64-based Systems (KB5012599)",
+			"update_id": "22997370-35ee-4967-8b49-f7e98ee0bffb"
 		}
 	],
 	"supersedes": [
