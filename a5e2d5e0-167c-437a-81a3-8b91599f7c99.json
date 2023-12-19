@@ -13,12 +13,12 @@
 	"support_url": "https://support.microsoft.com/help/4594443",
 	"supersededby": [
 		{
-			"title": "2021-04 Dynamic Cumulative Update for Windows 10 Version 1909 for x86-based Systems (KB5001337)",
-			"update_id": "ced61d64-6a04-4343-8045-e372d6448b28"
-		},
-		{
 			"title": "2021-05 Dynamic Cumulative Update for Windows 10 Version 1909 for x86-based Systems (KB5003169)",
 			"update_id": "83d78c59-b11f-4ff3-872c-8a3de69b1886"
+		},
+		{
+			"title": "2021-04 Dynamic Cumulative Update for Windows 10 Version 1909 for x86-based Systems (KB5001337)",
+			"update_id": "ced61d64-6a04-4343-8045-e372d6448b28"
 		}
 	],
 	"reboot_behavior": "Can request restart",
