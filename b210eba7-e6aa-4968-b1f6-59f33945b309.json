@@ -29,12 +29,12 @@
 			"update_id": "23f6ba01-49a3-473b-8079-58e694a911a3"
 		},
 		{
-			"title": "2021-07 Cumulative Update Preview for Windows 10 Version 2004 for ARM64-based Systems (KB5004296)",
-			"update_id": "80a56d04-371c-45e1-a602-46d8966a686b"
-		},
-		{
 			"title": "2021-05 Cumulative Update Preview for Windows 10 Version 2004 for ARM64-based Systems (KB5003214)",
 			"update_id": "393dc2e6-ea16-4bd0-904c-46d370a774f5"
+		},
+		{
+			"title": "2021-07 Cumulative Update Preview for Windows 10 Version 2004 for ARM64-based Systems (KB5004296)",
+			"update_id": "80a56d04-371c-45e1-a602-46d8966a686b"
 		},
 		{
 			"title": "2021-04 Cumulative Update Preview for Windows 10 Version 2004 for ARM64-based Systems (KB5001391)",
@@ -85,8 +85,8 @@
 		"2020-08 Cumulative Update Preview for Windows 10 Version 2004 for ARM64-based Systems (KB4571744)",
 		"2020-07 Cumulative Update Preview for Windows 10 Version 2004 for ARM64-based Systems (KB4568831)",
 		"2020-09 Cumulative Update Preview for Windows 10 Version 2004 for ARM64-based Systems (KB4577063)",
-		"2020-10 Cumulative Update Preview for Windows 10 Version 2004 for ARM64-based Systems (KB4580364)",
-		"2020-06 Cumulative Update for Windows 10 Version 2004 for ARM64-based Systems (KB4567523)"
+		"2020-06 Cumulative Update for Windows 10 Version 2004 for ARM64-based Systems (KB4567523)",
+		"2020-10 Cumulative Update Preview for Windows 10 Version 2004 for ARM64-based Systems (KB4580364)"
 	],
 	"reboot_behavior": "Can request restart",
 	"user_input": "No",
