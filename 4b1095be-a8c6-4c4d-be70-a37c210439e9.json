@@ -89,12 +89,12 @@
 			"update_id": "e59259a6-2840-4845-9508-8cac269386c2"
 		},
 		{
-			"title": "2022-11 Cumulative Update Preview for Windows 10 Version 21H2 for ARM64-based Systems (KB5020030)",
-			"update_id": "e21746d3-945b-4079-b1a5-d98b7fc6b8da"
-		},
-		{
 			"title": "2023-05 Cumulative Update for Windows 10 Version 21H2 for ARM64-based Systems (KB5026361)",
 			"update_id": "e81a57f8-1195-45fc-8c7b-3287ac3c9e8f"
+		},
+		{
+			"title": "2022-11 Cumulative Update Preview for Windows 10 Version 21H2 for ARM64-based Systems (KB5020030)",
+			"update_id": "e21746d3-945b-4079-b1a5-d98b7fc6b8da"
 		},
 		{
 			"title": "2023-03 Cumulative Update for Windows 10 Version 21H2 for ARM64-based Systems (KB5023696)",
@@ -112,9 +112,9 @@
 	"supersedes": [
 		"2022-01 Cumulative Update Preview for Windows 10 Version 21H2 for ARM64-based Systems (KB5009596)",
 		"2022-03 Cumulative Update Preview for Windows 10 Version 21H2 for ARM64-based Systems (KB5011543)",
-		"2022-01 Cumulative Update for Windows 10 Version 21H2 for ARM64-based Systems (KB5010793)",
+		"2022-02 Cumulative Update Preview for Windows 10 Version 21H2 for ARM64-based Systems (KB5010415)",
 		"2021-11 Cumulative Update Preview for Windows 10 Version 21H2 for ARM64-based Systems (KB5007253)",
-		"2022-02 Cumulative Update Preview for Windows 10 Version 21H2 for ARM64-based Systems (KB5010415)"
+		"2022-01 Cumulative Update for Windows 10 Version 21H2 for ARM64-based Systems (KB5010793)"
 	],
 	"reboot_behavior": "Can request restart",
 	"user_input": "No",
