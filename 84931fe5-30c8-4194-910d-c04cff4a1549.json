@@ -13,8 +13,12 @@
 	"support_url": "https://support.microsoft.com/help/5027219",
 	"supersededby": [
 		{
-			"title": "2023-06 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5028623)",
-			"update_id": "58041b67-9ed9-4b8f-a00c-d5e363c48620"
+			"title": "2023-12 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5033373)",
+			"update_id": "9b366959-860c-4cc8-a508-8642aa4679f8"
+		},
+		{
+			"title": "2023-09 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5030213)",
+			"update_id": "fd379d3d-2532-44b1-bbf4-f9b60c1a3940"
 		},
 		{
 			"title": "2024-01 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5034119)",
@@ -25,12 +29,8 @@
 			"update_id": "9db95304-8fab-4e60-bd3a-fa5b5a2508f3"
 		},
 		{
-			"title": "2023-09 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5030213)",
-			"update_id": "fd379d3d-2532-44b1-bbf4-f9b60c1a3940"
-		},
-		{
-			"title": "2023-12 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5033373)",
-			"update_id": "9b366959-860c-4cc8-a508-8642aa4679f8"
+			"title": "2023-06 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5028623)",
+			"update_id": "58041b67-9ed9-4b8f-a00c-d5e363c48620"
 		},
 		{
 			"title": "2023-10 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5031362)",
@@ -48,18 +48,18 @@
 	"supersedes": [
 		"Cumulative Update for Windows Server 2016 for x64-based Systems (KB3213522)",
 		"2020-01 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4534307)",
-		"2017-05 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4023680)",
 		"Cumulative Update for Windows Server 2016 for x64-based Systems (KB4010672)",
-		"2020-03 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4541329)",
+		"2017-05 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4023680)",
 		"Cumulative Update for Windows Server 2016 for x64-based Systems (KB4016635)",
+		"2020-03 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4541329)",
 		"2020-04 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4550947)",
 		"2020-02 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4537806)",
 		"2022-08 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5016622)",
 		"2023-02 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5022838)",
-		"2022-09 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5017305)",
+		"2022-11 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5019964)",
 		"2022-12 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5021235)",
 		"2022-10 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5018411)",
-		"2022-11 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5019964)",
+		"2022-09 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5017305)",
 		"2023-01 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5022289)",
 		"2022-07 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5015808)",
 		"2023-03 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5023697)",
@@ -67,8 +67,8 @@
 		"2018-11 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4478877)",
 		"2019-04 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4499418)",
 		"2020-06 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4567517)",
-		"2023-04 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5025228)",
 		"2018-07 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4346877)",
+		"2023-04 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5025228)",
 		"2020-11 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4594441)",
 		"2021-03 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5001633)",
 		"2021-07 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5005393)",
