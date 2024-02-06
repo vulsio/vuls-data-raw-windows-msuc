@@ -25,16 +25,16 @@
 			"update_id": "49bd8e11-bae2-4ed4-8a01-dfb9a42d0cb0"
 		},
 		{
-			"title": "2021-03 Cumulative Update for Windows Server, version 2004 for x64-based Systems (KB5001649)",
-			"update_id": "6ac0db4c-8e53-4012-b2f6-892de75f4e06"
+			"title": "2021-05 Cumulative Update Preview for Windows Server, version 2004 for x64-based Systems (KB5003214)",
+			"update_id": "02c0e7eb-c3c8-4952-bba1-5b4500aee310"
 		},
 		{
 			"title": "2021-03 Cumulative Update Preview for Windows Server, version 2004 for x64-based Systems (KB5000842)",
 			"update_id": "7a1de8ca-d50b-4f11-a386-89fd9528a963"
 		},
 		{
-			"title": "2021-05 Cumulative Update Preview for Windows Server, version 2004 for x64-based Systems (KB5003214)",
-			"update_id": "02c0e7eb-c3c8-4952-bba1-5b4500aee310"
+			"title": "2021-03 Cumulative Update for Windows Server, version 2004 for x64-based Systems (KB5001649)",
+			"update_id": "6ac0db4c-8e53-4012-b2f6-892de75f4e06"
 		},
 		{
 			"title": "2021-10 Cumulative Update Preview for Windows Server, version 2004 for x64-based Systems (KB5006738)",
@@ -80,8 +80,8 @@
 		"2020-11 Cumulative Update for Windows Server, version 2004 for x64-based Systems (KB4594440)",
 		"2020-06 Cumulative Update for Windows Server, version 2004 for x64-based Systems (KB4567523)",
 		"2021-01 Servicing Stack Update for Windows Server, version 2004 for x64-based Systems (KB4598481)",
-		"2020-07 Servicing Stack Update for Windows Server, version 2004 for x64-based Systems (KB4566785)",
 		"2020-10 Cumulative Update Preview for Windows Server, version 2004 for x64-based Systems (KB4580364)",
+		"2020-07 Servicing Stack Update for Windows Server, version 2004 for x64-based Systems (KB4566785)",
 		"2020-07 Cumulative Update Preview for Windows Server, version 2004 for x64-based Systems (KB4568831)",
 		"2020-06 Servicing Stack Update for Windows Server, version 2004 for x64-based Systems (KB4560366)",
 		"2021-01 Cumulative Update Preview for Windows Server, version 2004 for x64-based Systems (KB4598291)"
