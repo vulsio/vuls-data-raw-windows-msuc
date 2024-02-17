@@ -58,9 +58,9 @@
 		}
 	],
 	"supersedes": [
+		"2022-10 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5020436)",
 		"2023-02 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5022842)",
 		"2022-10 Cumulative Update Preview for Microsoft server operating system, version 22H2 for x64-based Systems (KB5018485)",
-		"2022-10 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5020436)",
 		"2022-11 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5019081)",
 		"2022-11 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5021656)",
 		"2022-11 Cumulative Update Preview for Microsoft server operating system, version 22H2 for x64-based Systems (KB5020032)",
