@@ -13,12 +13,12 @@
 	"support_url": "https://support.microsoft.com/help/5019311",
 	"supersededby": [
 		{
-			"title": "2023-08 Cumulative Update for Windows 11 Version 22H2 for arm64-based Systems (KB5029263)",
-			"update_id": "07f55989-e0ed-4652-bc6e-c09aca762c1b"
-		},
-		{
 			"title": "2023-02 Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5022845)",
 			"update_id": "03c50ef0-7af0-48f5-9717-46780b978196"
+		},
+		{
+			"title": "2023-08 Cumulative Update for Windows 11 Version 22H2 for arm64-based Systems (KB5029263)",
+			"update_id": "07f55989-e0ed-4652-bc6e-c09aca762c1b"
 		},
 		{
 			"title": "2023-06 Cumulative Update for Windows 11 Version 22H2 for arm64-based Systems (KB5027231)",
