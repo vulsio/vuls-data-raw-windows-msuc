@@ -31,9 +31,9 @@
 		"2018-09 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4457136)",
 		"2018-10 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4462932)",
 		"2018-03 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4090913)",
+		"2018-03 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4089848)",
 		"2017-11 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4051963)",
-		"2019-02 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4487021)",
-		"2018-03 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4089848)"
+		"2019-02 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4487021)"
 	],
 	"reboot_behavior": "Can request restart",
 	"user_input": "No",
