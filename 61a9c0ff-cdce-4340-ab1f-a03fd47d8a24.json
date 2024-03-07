@@ -13,12 +13,12 @@
 	"support_url": "https://support.microsoft.com/help/5033379",
 	"supersededby": [
 		{
-			"title": "2024-01 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5034134)",
-			"update_id": "0085b1e1-e088-48f3-83a4-505070fdf085"
-		},
-		{
 			"title": "2024-02 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5034774)",
 			"update_id": "ab905a2e-5f5f-4274-8f89-87470cbd4c5b"
+		},
+		{
+			"title": "2024-01 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5034134)",
+			"update_id": "0085b1e1-e088-48f3-83a4-505070fdf085"
 		}
 	],
 	"supersedes": [
@@ -32,8 +32,8 @@
 		"2019-05 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB4505051)",
 		"2022-01 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5010789)",
 		"2022-10 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5018425)",
-		"2019-09 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB4522009)",
 		"2018-07 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB4345455)",
+		"2019-09 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB4522009)",
 		"2022-09 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5017327)",
 		"2023-01 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5022297)",
 		"2023-02 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5022858)",
