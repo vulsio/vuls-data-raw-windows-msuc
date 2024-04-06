@@ -13,12 +13,16 @@
 	"support_url": "https://support.microsoft.com/help/4541335",
 	"supersededby": [
 		{
+			"title": "2020-03 Cumulative Update for Windows 10 Version 1909 for x64-based Systems (KB4554364)",
+			"update_id": "0631ba1d-ff4a-4a00-b246-eb74f4ee1126"
+		},
+		{
 			"title": "2021-01 Cumulative Update Preview for Windows 10 Version 1909 for x64-based Systems (KB4598298)",
 			"update_id": "14238186-9aef-453d-8584-753d9496201b"
 		},
 		{
-			"title": "2020-03 Cumulative Update for Windows 10 Version 1909 for x64-based Systems (KB4554364)",
-			"update_id": "0631ba1d-ff4a-4a00-b246-eb74f4ee1126"
+			"title": "2020-06 Cumulative Update for Windows 10 Version 1909 for x64-based Systems (KB4567512)",
+			"update_id": "3822832b-6a7c-412b-8d6e-fec96b978b9b"
 		},
 		{
 			"title": "2020-04 Cumulative Update for Windows 10 Version 1909 for x64-based Systems (KB4550945)",
@@ -35,10 +39,6 @@
 		{
 			"title": "2020-10 Cumulative Update Preview for Windows 10 Version 1909 for x64-based Systems (KB4580386)",
 			"update_id": "4246f930-767b-400d-a624-12e8d29ac975"
-		},
-		{
-			"title": "2020-06 Cumulative Update for Windows 10 Version 1909 for x64-based Systems (KB4567512)",
-			"update_id": "3822832b-6a7c-412b-8d6e-fec96b978b9b"
 		},
 		{
 			"title": "2021-06 Cumulative Update Preview for Windows 10 Version 1909 for x64-based Systems (KB5003698)",
