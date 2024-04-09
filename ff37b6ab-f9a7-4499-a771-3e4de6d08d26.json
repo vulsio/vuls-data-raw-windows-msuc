@@ -42,8 +42,8 @@
 		}
 	],
 	"supersedes": [
-		"2019-05 Cumulative Update for Windows 10 Version 1703 for x64-based Systems (KB4505055)",
 		"2019-05 Cumulative Update for Windows 10 Version 1703 for x64-based Systems (KB4499162)",
+		"2019-05 Cumulative Update for Windows 10 Version 1703 for x64-based Systems (KB4505055)",
 		"2019-09 Cumulative Update for Windows 10 Version 1703 for x64-based Systems (KB4516059)",
 		"2019-07 Cumulative Update for Windows 10 Version 1703 for x64-based Systems (KB4507467)",
 		"2019-06 Cumulative Update for Windows 10 Version 1703 for x64-based Systems (KB4503289)",
