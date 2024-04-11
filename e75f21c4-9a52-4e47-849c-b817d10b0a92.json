@@ -45,8 +45,8 @@
 		"2022-02 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5010415)",
 		"2021-08 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5005101)",
 		"2021-06 Cumulative Update for Windows 10 Version 21H1 for ARM64-based Systems (KB5004476)",
-		"2021-05 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5003214)",
-		"2022-01 Cumulative Update for Windows 10 Version 21H1 for ARM64-based Systems (KB5010793)"
+		"2022-01 Cumulative Update for Windows 10 Version 21H1 for ARM64-based Systems (KB5010793)",
+		"2021-05 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5003214)"
 	],
 	"reboot_behavior": "Can request restart",
 	"user_input": "No",
