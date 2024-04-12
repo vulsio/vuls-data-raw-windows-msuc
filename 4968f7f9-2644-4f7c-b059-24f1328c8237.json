@@ -34,8 +34,8 @@
 		}
 	],
 	"supersedes": [
-		"2023-04 Dynamic Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5025221)",
 		"2023-07 Dynamic Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5028166)",
+		"2023-04 Dynamic Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5025221)",
 		"2023-09 Dynamic Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5030211)",
 		"2023-02 Dynamic Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5022834)",
 		"2023-05 Dynamic Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5026361)",
