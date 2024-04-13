@@ -13,12 +13,12 @@
 	"support_url": "https://support.microsoft.com/help/5026382",
 	"supersededby": [
 		{
-			"title": "2024-04 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5036925)",
-			"update_id": "00991f12-1b3d-42d5-a07f-161cb6cf6fa3"
-		},
-		{
 			"title": "2023-12 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5033379)",
 			"update_id": "61a9c0ff-cdce-4340-ab1f-a03fd47d8a24"
+		},
+		{
+			"title": "2024-04 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5036925)",
+			"update_id": "00991f12-1b3d-42d5-a07f-161cb6cf6fa3"
 		},
 		{
 			"title": "2024-02 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5034774)",
@@ -74,12 +74,12 @@
 		"2021-03 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5001631)",
 		"2019-08 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB4517276)",
 		"2022-09 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5017327)",
-		"2022-11 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5019970)",
-		"2022-12 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5021243)",
 		"2019-05 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB4505051)",
+		"2022-12 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5021243)",
+		"2022-11 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5019970)",
 		"2022-01 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5010789)",
-		"2017-06 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB4032695)",
 		"Cumulative Update for Windows 10 for x64-based Systems (KB3205436)",
+		"2017-06 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB4032695)",
 		"2018-01 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB4075199)",
 		"2023-01 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5022297)",
 		"Cumulative Update for Windows 10 for x64-based Systems (KB3199125)",
