@@ -69,25 +69,25 @@
 			"update_id": "e18af1a8-aef0-45e3-abdc-bdb7b70ca409"
 		},
 		{
-			"title": "2022-01 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5009596)",
-			"update_id": "ec907185-5ee6-424c-9bc3-b130a4fc75ad"
+			"title": "2022-10 Cumulative Update for Windows 10 Version 21H1 for ARM64-based Systems (KB5020953)",
+			"update_id": "e75f21c4-9a52-4e47-849c-b817d10b0a92"
 		},
 		{
 			"title": "2022-01 Cumulative Update for Windows 10 Version 21H1 for ARM64-based Systems (KB5010793)",
 			"update_id": "f2d36edc-eae5-4a65-86cf-4a48df545c2c"
 		},
 		{
-			"title": "2022-10 Cumulative Update for Windows 10 Version 21H1 for ARM64-based Systems (KB5020953)",
-			"update_id": "e75f21c4-9a52-4e47-849c-b817d10b0a92"
+			"title": "2022-01 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5009596)",
+			"update_id": "ec907185-5ee6-424c-9bc3-b130a4fc75ad"
 		}
 	],
 	"supersedes": [
 		"2021-10 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5006738)",
 		"2021-08 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5005101)",
-		"2021-06 Cumulative Update for Windows 10 Version 21H1 for ARM64-based Systems (KB5004760)",
 		"2021-07 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5004296)",
-		"2021-06 Cumulative Update for Windows 10 Version 21H1 for ARM64-based Systems (KB5004476)",
 		"2021-09 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5005611)",
+		"2021-06 Cumulative Update for Windows 10 Version 21H1 for ARM64-based Systems (KB5004476)",
+		"2021-06 Cumulative Update for Windows 10 Version 21H1 for ARM64-based Systems (KB5004760)",
 		"2021-05 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5003214)"
 	],
 	"reboot_behavior": "Can request restart",
