@@ -13,8 +13,8 @@
 	"support_url": "https://support.microsoft.com/help/5011487",
 	"supersededby": [
 		{
-			"title": "2022-08 Cumulative Update for Windows Server, version 20H2 for x64-based Systems (KB5016616)",
-			"update_id": "f6c6e642-b604-4ab9-ab8b-4cbf1307b3c7"
+			"title": "2022-05 Cumulative Update for Windows Server, version 20H2 for x64-based Systems (KB5015020)",
+			"update_id": "0cad9648-df0a-49c1-bcdd-18b39f1ae0ff"
 		},
 		{
 			"title": "2022-04 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB5011831)",
@@ -25,8 +25,8 @@
 			"update_id": "33c64b67-3b66-4f26-9863-9bc2c22804fe"
 		},
 		{
-			"title": "2022-05 Cumulative Update for Windows Server, version 20H2 for x64-based Systems (KB5015020)",
-			"update_id": "0cad9648-df0a-49c1-bcdd-18b39f1ae0ff"
+			"title": "2022-08 Cumulative Update for Windows Server, version 20H2 for x64-based Systems (KB5016616)",
+			"update_id": "f6c6e642-b604-4ab9-ab8b-4cbf1307b3c7"
 		},
 		{
 			"title": "2022-04 Cumulative Update for Windows Server, version 20H2 for x64-based Systems (KB5012599)",
@@ -51,9 +51,9 @@
 	],
 	"supersedes": [
 		"2021-03 Cumulative Update for Windows Server, version 20H2 for x64-based Systems (KB5001567)",
+		"2021-09 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB5005611)",
 		"2021-05 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB5003214)",
 		"2021-02 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB4601382)",
-		"2021-09 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB5005611)",
 		"2022-02 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB5010415)",
 		"2022-01 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB5009596)",
 		"2022-01 Cumulative Update for Windows Server, version 20H2 for x64-based Systems (KB5010793)",
@@ -65,11 +65,11 @@
 		"2020-11 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB4586853)",
 		"2021-03 Cumulative Update for Windows Server, version 20H2 for x64-based Systems (KB5001649)",
 		"2020-10 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB4580364)",
-		"2021-06 Cumulative Update for Windows Server, version 20H2 for x64-based Systems (KB5004476)",
 		"2021-06 Cumulative Update for Windows Server, version 20H2 for x64-based Systems (KB5004760)",
 		"2021-01 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB4598291)",
-		"2021-04 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB5001391)",
-		"2020-11 Cumulative Update for Windows Server, version 20H2 for x64-based Systems (KB4594440)"
+		"2021-06 Cumulative Update for Windows Server, version 20H2 for x64-based Systems (KB5004476)",
+		"2020-11 Cumulative Update for Windows Server, version 20H2 for x64-based Systems (KB4594440)",
+		"2021-04 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB5001391)"
 	],
 	"reboot_behavior": "Can request restart",
 	"user_input": "No",
