@@ -33,12 +33,12 @@
 			"update_id": "0e55ad4c-85bd-4a33-a5d1-fed52ad1a627"
 		},
 		{
-			"title": "2020-04 Cumulative Update for Windows Server, version 1909 for x64-based Systems (KB4550945)",
-			"update_id": "4d1836b9-16fd-4cb9-af46-2df2a1582766"
-		},
-		{
 			"title": "2020-06 Cumulative Update for Windows Server, version 1909 for x64-based Systems (KB4567512)",
 			"update_id": "5cfaa8b9-8031-4e42-ac13-6ae9445ecd34"
+		},
+		{
+			"title": "2020-04 Cumulative Update for Windows Server, version 1909 for x64-based Systems (KB4550945)",
+			"update_id": "4d1836b9-16fd-4cb9-af46-2df2a1582766"
 		},
 		{
 			"title": "2020-10 Cumulative Update Preview for Windows Server, version 1909 for x64-based Systems (KB4580386)",
