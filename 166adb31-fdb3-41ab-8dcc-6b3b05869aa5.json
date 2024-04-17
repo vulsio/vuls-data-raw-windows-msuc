@@ -25,12 +25,12 @@
 			"update_id": "297133f8-d86d-40fa-9e67-90e616fc1815"
 		},
 		{
-			"title": "2021-07 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB5004296)",
-			"update_id": "48ddb07b-bd64-451c-b1a1-fdc1d192669f"
-		},
-		{
 			"title": "2020-11 Cumulative Update for Windows Server, version 2004 for ARM64-based Systems (KB4594440)",
 			"update_id": "56246535-859e-42d9-983f-1f3bf51775d4"
+		},
+		{
+			"title": "2021-07 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB5004296)",
+			"update_id": "48ddb07b-bd64-451c-b1a1-fdc1d192669f"
 		},
 		{
 			"title": "2021-02 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB4601382)",
@@ -49,20 +49,20 @@
 			"update_id": "850d9318-5d44-43be-a993-505a78a6c1ab"
 		},
 		{
-			"title": "2021-11 Cumulative Update for Windows Server, version 2004 for ARM64-based Systems (KB5007186)",
-			"update_id": "8e961971-f627-4e63-b6ea-75586ed143ad"
-		},
-		{
-			"title": "2021-03 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB5000842)",
-			"update_id": "9dab6fc9-8d41-429a-a379-885f1bfcf2ab"
+			"title": "2021-11 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB5007253)",
+			"update_id": "afe28607-19f0-49da-9aff-b1e75a087bea"
 		},
 		{
 			"title": "2021-10 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB5006738)",
 			"update_id": "8b40d47a-1977-474e-a5cb-b86489446a09"
 		},
 		{
-			"title": "2021-11 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB5007253)",
-			"update_id": "afe28607-19f0-49da-9aff-b1e75a087bea"
+			"title": "2021-11 Cumulative Update for Windows Server, version 2004 for ARM64-based Systems (KB5007186)",
+			"update_id": "8e961971-f627-4e63-b6ea-75586ed143ad"
+		},
+		{
+			"title": "2021-03 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB5000842)",
+			"update_id": "9dab6fc9-8d41-429a-a379-885f1bfcf2ab"
 		},
 		{
 			"title": "2021-03 Cumulative Update for Windows Server, version 2004 for ARM64-based Systems (KB5001649)",
