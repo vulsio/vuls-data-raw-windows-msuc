@@ -51,8 +51,8 @@
 	],
 	"supersedes": [
 		"2020-03 Cumulative Update for Windows Server, version 1903 for ARM64-based Systems (KB4554364)",
-		"2020-03 Cumulative Update for Windows Server, version 1903 for ARM64-based Systems (KB4541335)",
-		"2020-04 Cumulative Update for Windows Server, version 1903 for ARM64-based Systems (KB4550945)"
+		"2020-04 Cumulative Update for Windows Server, version 1903 for ARM64-based Systems (KB4550945)",
+		"2020-03 Cumulative Update for Windows Server, version 1903 for ARM64-based Systems (KB4541335)"
 	],
 	"reboot_behavior": "Can request restart",
 	"user_input": "No",
