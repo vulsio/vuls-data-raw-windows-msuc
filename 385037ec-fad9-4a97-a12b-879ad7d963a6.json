@@ -21,18 +21,18 @@
 			"update_id": "f58c7ac3-c102-4e3f-bb6d-5203940323d7"
 		},
 		{
-			"title": "2021-02 Cumulative Update for Windows 10 Version 1703 for x86-based Systems (KB4601330)",
-			"update_id": "b68fa8ce-8533-4981-9827-92213991937f"
-		},
-		{
 			"title": "2021-01 Cumulative Update for Windows 10 Version 1703 for x86-based Systems (KB4599208)",
 			"update_id": "563fd40b-560b-4dc3-b504-b776c2df7557"
+		},
+		{
+			"title": "2021-02 Cumulative Update for Windows 10 Version 1703 for x86-based Systems (KB4601330)",
+			"update_id": "b68fa8ce-8533-4981-9827-92213991937f"
 		}
 	],
 	"supersedes": [
+		"Cumulative Update for Windows 10 Version 1703 (KB4016251)",
 		"2019-05 Cumulative Update for Windows 10 Version 1703 for x86-based Systems (KB4502112)",
 		"2020-06 Cumulative Update for Windows 10 Version 1703 for x86-based Systems (KB4567516)",
-		"Cumulative Update for Windows 10 Version 1703 (KB4016251)",
 		"2017-11 Cumulative Update for Windows 10 Version 1703 for x86-based Systems (KB4049370)",
 		"2019-01 Cumulative Update for Windows 10 Version 1703 for x86-based Systems (KB4480959)",
 		"2019-06 Cumulative Update for Windows 10 Version 1703 for x86-based Systems (KB4503289)",
