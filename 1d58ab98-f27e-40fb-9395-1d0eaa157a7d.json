@@ -13,12 +13,12 @@
 	"support_url": "https://support.microsoft.com/help/4594443",
 	"supersededby": [
 		{
-			"title": "2021-05 Dynamic Cumulative Update for Windows 10 Version 1909 for ARM64-based Systems (KB5003169)",
-			"update_id": "466ca5b6-b111-4f97-b714-c306b7e0c506"
-		},
-		{
 			"title": "2021-04 Dynamic Cumulative Update for Windows 10 Version 1909 for ARM64-based Systems (KB5001337)",
 			"update_id": "bba76f54-2266-4f07-8a2b-87330fc5fc23"
+		},
+		{
+			"title": "2021-05 Dynamic Cumulative Update for Windows 10 Version 1909 for ARM64-based Systems (KB5003169)",
+			"update_id": "466ca5b6-b111-4f97-b714-c306b7e0c506"
 		}
 	],
 	"reboot_behavior": "Can request restart",
