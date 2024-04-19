@@ -13,28 +13,28 @@
 	"support_url": "https://support.microsoft.com/help/5018427",
 	"supersededby": [
 		{
-			"title": "2023-03 Dynamic Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5023706)",
-			"update_id": "9314ea8e-0fc8-451b-a7e7-f85980fe7c18"
-		},
-		{
-			"title": "2022-12 Dynamic Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5021255)",
-			"update_id": "016ffd1f-2bb6-4553-add0-691ed7a85030"
-		},
-		{
-			"title": "2023-02 Dynamic Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5022845)",
-			"update_id": "2f2442e0-afd5-40ab-9129-81b7196284dc"
-		},
-		{
-			"title": "2022-11 Dynamic Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5019980)",
-			"update_id": "2a565fe8-0695-4839-911b-59d4d9806225"
+			"title": "2023-01 Dynamic Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5022303)",
+			"update_id": "744dff91-d580-43bc-9cf4-aa5212d3412e"
 		},
 		{
 			"title": "2023-04 Dynamic Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5025239)",
 			"update_id": "7e3bf360-f1de-46f3-ae2f-6d7b0134852f"
 		},
 		{
-			"title": "2023-01 Dynamic Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5022303)",
-			"update_id": "744dff91-d580-43bc-9cf4-aa5212d3412e"
+			"title": "2022-12 Dynamic Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5021255)",
+			"update_id": "016ffd1f-2bb6-4553-add0-691ed7a85030"
+		},
+		{
+			"title": "2022-11 Dynamic Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5019980)",
+			"update_id": "2a565fe8-0695-4839-911b-59d4d9806225"
+		},
+		{
+			"title": "2023-03 Dynamic Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5023706)",
+			"update_id": "9314ea8e-0fc8-451b-a7e7-f85980fe7c18"
+		},
+		{
+			"title": "2023-02 Dynamic Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5022845)",
+			"update_id": "2f2442e0-afd5-40ab-9129-81b7196284dc"
 		}
 	],
 	"supersedes": [
