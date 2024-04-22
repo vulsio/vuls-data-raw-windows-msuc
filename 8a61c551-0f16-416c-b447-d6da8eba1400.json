@@ -41,13 +41,13 @@
 		"2020-02 Cumulative Update for Windows 10 Version 1909 for x64-based Systems (KB4535996)",
 		"2021-06 Cumulative Update Preview for Windows 10 Version 1909 for x64-based Systems (KB5003698)",
 		"2021-04 Cumulative Update Preview for Windows 10 Version 1909 for x64-based Systems (KB5001396)",
-		"2021-01 Cumulative Update Preview for Windows 10 Version 1909 for x64-based Systems (KB4598298)",
 		"2021-03 Cumulative Update for Windows 10 Version 1909 for x64-based Systems (KB5001648)",
+		"2021-01 Cumulative Update Preview for Windows 10 Version 1909 for x64-based Systems (KB4598298)",
 		"2021-04 Cumulative Update for Windows 10 Version 1909 for x64-based Systems (KB5001337)",
 		"2021-05 Cumulative Update for Windows 10 Version 1909 for x64-based Systems (KB5003169)",
 		"2021-03 Cumulative Update Preview for Windows 10 Version 1909 for x64-based Systems (KB5000850)",
-		"2020-11 Cumulative Update Preview for Windows 10 Version 1909 for x64-based Systems (KB4586819)",
-		"2021-03 Cumulative Update for Windows 10 Version 1909 for x64-based Systems (KB5001566)"
+		"2021-03 Cumulative Update for Windows 10 Version 1909 for x64-based Systems (KB5001566)",
+		"2020-11 Cumulative Update Preview for Windows 10 Version 1909 for x64-based Systems (KB4586819)"
 	],
 	"reboot_behavior": "Can request restart",
 	"user_input": "No",
