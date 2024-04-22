@@ -53,12 +53,12 @@
 			"update_id": "a7dad4d4-48b1-41e2-89e7-004e046c053b"
 		},
 		{
-			"title": "2023-04 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5025230)",
-			"update_id": "c990128c-17ca-4a56-8494-be037672716c"
-		},
-		{
 			"title": "2023-05 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5026370)",
 			"update_id": "98642411-e874-45e4-8603-2d499b695e77"
+		},
+		{
+			"title": "2023-04 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5025230)",
+			"update_id": "c990128c-17ca-4a56-8494-be037672716c"
 		},
 		{
 			"title": "2022-11 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5021656)",
@@ -69,12 +69,12 @@
 			"update_id": "ac02bcf4-be2b-4a80-a2c4-dd867f6e51e2"
 		},
 		{
-			"title": "2024-01 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5034129)",
-			"update_id": "d702b246-9d3c-4925-80f0-3b091f08972b"
-		},
-		{
 			"title": "2023-10 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5031364)",
 			"update_id": "b49dd552-b7c2-44c7-9117-c4867f42ad97"
+		},
+		{
+			"title": "2024-01 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5034129)",
+			"update_id": "d702b246-9d3c-4925-80f0-3b091f08972b"
 		},
 		{
 			"title": "2023-03 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5023705)",
@@ -90,8 +90,8 @@
 		}
 	],
 	"supersedes": [
-		"2022-10 Cumulative Update Preview for Microsoft server operating system, version 22H2 for x64-based Systems (KB5018485)",
 		"2022-10 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5020436)",
+		"2022-10 Cumulative Update Preview for Microsoft server operating system, version 22H2 for x64-based Systems (KB5018485)",
 		"2022-10 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5018421)"
 	],
 	"reboot_behavior": "Can request restart",
