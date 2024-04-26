@@ -150,11 +150,11 @@
 		}
 	],
 	"supersedes": [
-		"2022-10 Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5018427)",
-		"2022-10 Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5019509)",
 		"2022-09 Cumulative Update Preview for Windows 11 Version 22H2 for x64-based Systems (KB5017389)",
-		"2022-09 Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5019311)",
-		"2022-09 Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5017321)"
+		"2022-10 Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5019509)",
+		"2022-10 Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5018427)",
+		"2022-09 Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5017321)",
+		"2022-09 Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5019311)"
 	],
 	"reboot_behavior": "Can request restart",
 	"user_input": "No",
