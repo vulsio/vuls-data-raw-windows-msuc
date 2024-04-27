@@ -13,16 +13,16 @@
 	"support_url": "https://support.microsoft.com/help/5028166",
 	"supersededby": [
 		{
+			"title": "2023-08 Dynamic Cumulative Update for Windows 10 Version 22H2 for x64-based Systems (KB5029244)",
+			"update_id": "3d8b6a43-75f4-4718-9c75-2398c223fb9c"
+		},
+		{
 			"title": "2024-01 Dynamic Cumulative Update for Windows 10 Version 22H2 for x64-based Systems (KB5034122)",
 			"update_id": "784dbbc9-668c-4458-bbbe-7ea8a61d87d0"
 		},
 		{
 			"title": "2024-02 Dynamic Cumulative Update for Windows 10 Version 22H2 for x64-based Systems (KB5034763)",
 			"update_id": "9603a96a-8731-45ab-b486-09a65239cec9"
-		},
-		{
-			"title": "2023-08 Dynamic Cumulative Update for Windows 10 Version 22H2 for x64-based Systems (KB5029244)",
-			"update_id": "3d8b6a43-75f4-4718-9c75-2398c223fb9c"
 		},
 		{
 			"title": "2023-09 Dynamic Cumulative Update for Windows 10 Version 22H2 for x64-based Systems (KB5030211)",
