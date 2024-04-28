@@ -21,12 +21,12 @@
 			"update_id": "956de4ea-8101-4661-97e1-ef487d130f3b"
 		},
 		{
-			"title": "2023-03 Dynamic Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5023706)",
-			"update_id": "5303b223-0404-4b80-b05e-a621d6b74a97"
-		},
-		{
 			"title": "2023-01 Dynamic Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5022303)",
 			"update_id": "0373434e-5b2b-47de-81c6-f01b9405fd0b"
+		},
+		{
+			"title": "2023-03 Dynamic Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5023706)",
+			"update_id": "5303b223-0404-4b80-b05e-a621d6b74a97"
 		},
 		{
 			"title": "2023-02 Dynamic Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5022845)",
