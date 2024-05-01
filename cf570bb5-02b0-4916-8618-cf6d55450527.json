@@ -13,12 +13,12 @@
 	"support_url": "https://support.microsoft.com/help/4462932",
 	"supersededby": [
 		{
-			"title": "2019-03 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4489890)",
-			"update_id": "27eeaf6d-0fba-4c9c-b5f6-d67a50a92b29"
-		},
-		{
 			"title": "2019-01 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4480967)",
 			"update_id": "c18651cf-ea79-4281-b0a1-1185030c02e7"
+		},
+		{
+			"title": "2019-03 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4489890)",
+			"update_id": "27eeaf6d-0fba-4c9c-b5f6-d67a50a92b29"
 		},
 		{
 			"title": "2019-04 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4493440)",
