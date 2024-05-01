@@ -13,12 +13,12 @@
 	"support_url": "https://support.microsoft.com/help/5019959",
 	"supersededby": [
 		{
-			"title": "2024-01 Dynamic Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5034122)",
-			"update_id": "38caa958-b403-45bb-9221-90d927a2a8e2"
-		},
-		{
 			"title": "2023-04 Dynamic Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5025221)",
 			"update_id": "263560f2-52dc-47b9-bfb2-b7091d15df16"
+		},
+		{
+			"title": "2024-01 Dynamic Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5034122)",
+			"update_id": "38caa958-b403-45bb-9221-90d927a2a8e2"
 		},
 		{
 			"title": "2022-12 Dynamic Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5021233)",
@@ -53,12 +53,12 @@
 			"update_id": "d54e9fc5-10d9-42c7-9ce9-4c1c8b30914f"
 		},
 		{
-			"title": "2023-01 Dynamic Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5022282)",
-			"update_id": "b5a13d77-7189-4384-b4d8-30f8fe471e87"
-		},
-		{
 			"title": "2023-07 Dynamic Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5028166)",
 			"update_id": "d871557d-7886-43ff-a06c-8f1c4cadf912"
+		},
+		{
+			"title": "2023-01 Dynamic Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5022282)",
+			"update_id": "b5a13d77-7189-4384-b4d8-30f8fe471e87"
 		},
 		{
 			"title": "2023-05 Dynamic Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5026361)",
