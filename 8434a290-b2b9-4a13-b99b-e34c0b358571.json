@@ -38,9 +38,9 @@
 		}
 	],
 	"supersedes": [
-		"2022-12 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5021234)",
-		"2022-09 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5017328)",
 		"2021-11 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5007215)",
+		"2022-09 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5017328)",
+		"2022-12 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5021234)",
 		"2021-12 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5008215)",
 		"2022-05 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5013943)",
 		"2022-06 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5014697)",
@@ -48,8 +48,8 @@
 		"2021-10 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5006674)",
 		"2022-10 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5018418)",
 		"2022-07 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5015814)",
-		"2022-11 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5019961)",
 		"2022-08 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5016629)",
+		"2022-11 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5019961)",
 		"2023-03 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5023698)",
 		"2023-09 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5030217)",
 		"2023-06 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5027223)",
