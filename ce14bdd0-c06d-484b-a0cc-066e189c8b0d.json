@@ -25,12 +25,12 @@
 			"update_id": "07f55989-e0ed-4652-bc6e-c09aca762c1b"
 		},
 		{
-			"title": "2023-05 Cumulative Update for Windows 11 Version 22H2 for arm64-based Systems (KB5026372)",
-			"update_id": "0b97c243-5833-4bf3-bcf8-77063e53c42a"
-		},
-		{
 			"title": "2024-03 Cumulative Update Preview for Windows 11 Version 22H2 for arm64-based Systems (KB5035942)",
 			"update_id": "05c7d3e7-76d7-4afd-b320-63a14dcb64bd"
+		},
+		{
+			"title": "2023-05 Cumulative Update for Windows 11 Version 22H2 for arm64-based Systems (KB5026372)",
+			"update_id": "0b97c243-5833-4bf3-bcf8-77063e53c42a"
 		},
 		{
 			"title": "2024-04 Cumulative Update Preview for Windows 11 Version 22H2 for arm64-based Systems (KB5036980)",
@@ -137,12 +137,12 @@
 			"update_id": "e140dece-231e-4e97-9d09-b9f11568dc86"
 		},
 		{
-			"title": "2024-01 Cumulative Update Preview for Windows 11 Version 22H2 for arm64-based Systems (KB5034204)",
-			"update_id": "df941a05-351f-4cab-9b7d-a18440f36a21"
-		},
-		{
 			"title": "2022-11 Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5019980)",
 			"update_id": "ec2e5240-289d-4e86-9f10-4f9364401e79"
+		},
+		{
+			"title": "2024-01 Cumulative Update Preview for Windows 11 Version 22H2 for arm64-based Systems (KB5034204)",
+			"update_id": "df941a05-351f-4cab-9b7d-a18440f36a21"
 		},
 		{
 			"title": "2023-10 Cumulative Update for Windows 11 Version 22H2 for arm64-based Systems (KB5031354)",
