@@ -13,12 +13,12 @@
 	"support_url": "https://support.microsoft.com/help/4487029",
 	"supersededby": [
 		{
-			"title": "2019-05 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4505064)",
-			"update_id": "5dc96624-4501-4d4c-9f93-22afaf806790"
-		},
-		{
 			"title": "2019-07 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4507466)",
 			"update_id": "2a85b739-449e-4654-b527-0236c36eb975"
+		},
+		{
+			"title": "2019-05 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4505064)",
+			"update_id": "5dc96624-4501-4d4c-9f93-22afaf806790"
 		},
 		{
 			"title": "2019-09 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4516045)",
@@ -72,8 +72,8 @@
 		"2018-09 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4458469)",
 		"2018-06 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4338548)",
 		"2019-01 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4480976)",
-		"2018-10 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4462933)",
 		"2018-09 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4464218)",
+		"2018-10 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4462933)",
 		"2018-06 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4284848)"
 	],
 	"reboot_behavior": "Can request restart",
