@@ -65,12 +65,12 @@
 			"update_id": "b86cef80-aa9c-4acc-b9d6-b38f60fc2823"
 		},
 		{
-			"title": "2022-03 Cumulative Update for Windows Server, version 20H2 for ARM64-based Systems (KB5011487)",
-			"update_id": "6148e885-1d05-434a-8cdc-b64e8467f712"
-		},
-		{
 			"title": "2022-04 Cumulative Update for Windows Server, version 20H2 for ARM64-based Systems (KB5012599)",
 			"update_id": "dba08f35-7213-47d8-b011-388cd1ac7227"
+		},
+		{
+			"title": "2022-03 Cumulative Update for Windows Server, version 20H2 for ARM64-based Systems (KB5011487)",
+			"update_id": "6148e885-1d05-434a-8cdc-b64e8467f712"
 		},
 		{
 			"title": "2021-06 Cumulative Update for Windows Server, version 20H2 for ARM64-based Systems (KB5004476)",
@@ -102,13 +102,13 @@
 		"2021-03 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB5000842)",
 		"2021-01 Servicing Stack Update for Windows Server, version 20H2 for ARM64-based Systems (KB4598481)",
 		"2021-03 Cumulative Update for Windows Server, version 20H2 for ARM64-based Systems (KB5001649)",
-		"2020-11 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB4586853)",
 		"2020-11 Servicing Stack Update for Windows Server, version 20H2 for ARM64-based Systems (KB4586864)",
+		"2020-11 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB4586853)",
 		"2021-01 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB4598291)",
 		"2020-10 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB4580364)",
 		"2021-02 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB4601382)",
-		"2020-12 Servicing Stack Update for Windows Server, version 20H2 for ARM64-based Systems (KB4593175)",
-		"2020-11 Cumulative Update for Windows Server, version 20H2 for ARM64-based Systems (KB4594440)"
+		"2020-11 Cumulative Update for Windows Server, version 20H2 for ARM64-based Systems (KB4594440)",
+		"2020-12 Servicing Stack Update for Windows Server, version 20H2 for ARM64-based Systems (KB4593175)"
 	],
 	"reboot_behavior": "Can request restart",
 	"user_input": "No",
