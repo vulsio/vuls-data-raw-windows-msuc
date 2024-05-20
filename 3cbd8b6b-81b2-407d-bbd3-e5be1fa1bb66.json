@@ -29,12 +29,12 @@
 			"update_id": "523ad1d9-7234-4d03-80f6-4d46276d77af"
 		},
 		{
-			"title": "2019-03 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4489890)",
-			"update_id": "27eeaf6d-0fba-4c9c-b5f6-d67a50a92b29"
-		},
-		{
 			"title": "2018-09 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4464217)",
 			"update_id": "80ba4182-a749-4422-92cb-1a7107fc3bb5"
+		},
+		{
+			"title": "2019-03 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4489890)",
+			"update_id": "27eeaf6d-0fba-4c9c-b5f6-d67a50a92b29"
 		},
 		{
 			"title": "2019-04 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4493440)",
