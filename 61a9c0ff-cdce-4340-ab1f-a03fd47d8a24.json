@@ -13,12 +13,12 @@
 	"support_url": "https://support.microsoft.com/help/5033379",
 	"supersededby": [
 		{
-			"title": "2024-02 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5034774)",
-			"update_id": "ab905a2e-5f5f-4274-8f89-87470cbd4c5b"
-		},
-		{
 			"title": "2024-04 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5036925)",
 			"update_id": "00991f12-1b3d-42d5-a07f-161cb6cf6fa3"
+		},
+		{
+			"title": "2024-02 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5034774)",
+			"update_id": "ab905a2e-5f5f-4274-8f89-87470cbd4c5b"
 		},
 		{
 			"title": "2024-01 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5034134)",
@@ -36,9 +36,9 @@
 	"supersedes": [
 		"Cumulative Update for Windows 10 for x64-based Systems (KB3205436)",
 		"2021-03 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5001631)",
-		"2019-04 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB4498375)",
-		"Cumulative Update for Windows 10 for x64-based Systems (KB3199125)",
 		"2020-06 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB4567518)",
+		"Cumulative Update for Windows 10 for x64-based Systems (KB3199125)",
+		"2019-04 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB4498375)",
 		"2019-08 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB4517276)",
 		"2017-05 Cumulative Update for Windows 10 for x64-based Systems (KB4019474)",
 		"2019-05 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB4505051)",
@@ -51,8 +51,8 @@
 		"2023-02 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5022858)",
 		"2022-12 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5021243)",
 		"2023-03 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5023713)",
-		"2023-08 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5029259)",
 		"2023-04 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5025234)",
+		"2023-08 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5029259)",
 		"2023-05 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5026382)",
 		"2023-06 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5027230)",
 		"2023-09 Cumulative Update for Windows 10 Version 1507 for x64-based Systems (KB5030220)",
