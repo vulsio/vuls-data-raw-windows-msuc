@@ -66,10 +66,10 @@
 		}
 	],
 	"supersedes": [
-		"2019-09 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4517211)",
 		"2019-06 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4501375)",
-		"2019-10 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4522355)",
+		"2019-09 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4517211)",
 		"2019-10 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4517389)",
+		"2019-10 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4522355)",
 		"2019-11 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4524570)",
 		"2019-05 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4497935)",
 		"2019-07 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4505903)",
