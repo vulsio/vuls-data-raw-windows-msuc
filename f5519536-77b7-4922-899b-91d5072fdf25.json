@@ -51,8 +51,8 @@
 		"2019-04 Cumulative Update for Windows 10 Version 1703 for x64-based Systems (KB4493436)",
 		"2019-09 Cumulative Update for Windows 10 Version 1703 for x64-based Systems (KB4516059)",
 		"2018-11 Cumulative Update for Windows 10 Version 1703 for x64-based Systems (KB4467699)",
-		"2018-10 Cumulative Update for Windows 10 Version 1703 for x64-based Systems (KB4462939)",
-		"2019-05 Cumulative Update for Windows 10 Version 1703 for x64-based Systems (KB4502112)"
+		"2019-05 Cumulative Update for Windows 10 Version 1703 for x64-based Systems (KB4502112)",
+		"2018-10 Cumulative Update for Windows 10 Version 1703 for x64-based Systems (KB4462939)"
 	],
 	"reboot_behavior": "Can request restart",
 	"user_input": "No",
