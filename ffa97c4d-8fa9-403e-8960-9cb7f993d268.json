@@ -13,12 +13,12 @@
 	"support_url": "https://support.microsoft.com/help/5018410",
 	"supersededby": [
 		{
-			"title": "2024-01 Dynamic Cumulative Update for Windows 10 Version 22H2 for x64-based Systems (KB5034122)",
-			"update_id": "784dbbc9-668c-4458-bbbe-7ea8a61d87d0"
-		},
-		{
 			"title": "2023-08 Dynamic Cumulative Update for Windows 10 Version 22H2 for x64-based Systems (KB5029244)",
 			"update_id": "3d8b6a43-75f4-4718-9c75-2398c223fb9c"
+		},
+		{
+			"title": "2024-01 Dynamic Cumulative Update for Windows 10 Version 22H2 for x64-based Systems (KB5034122)",
+			"update_id": "784dbbc9-668c-4458-bbbe-7ea8a61d87d0"
 		},
 		{
 			"title": "2023-02 Dynamic Cumulative Update for Windows 10 Version 22H2 for x64-based Systems (KB5022834)",
@@ -27,10 +27,6 @@
 		{
 			"title": "2024-05 Dynamic Cumulative Update for Windows 10 Version 22H2 for x64-based Systems (KB5037768)",
 			"update_id": "46fe1fde-1f0d-41b7-a6f9-bb16e4321c57"
-		},
-		{
-			"title": "2023-11 Dynamic Cumulative Update for Windows 10 Version 22H2 for x64-based Systems (KB5032189)",
-			"update_id": "7bd8f94b-a388-49ae-9294-584917783da9"
 		},
 		{
 			"title": "2023-03 Dynamic Cumulative Update for Windows 10 Version 22H2 for x64-based Systems (KB5023696)",
@@ -69,12 +65,12 @@
 			"update_id": "b378c6c1-027e-4599-abd1-476d8b53239a"
 		},
 		{
-			"title": "2023-05 Dynamic Cumulative Update for Windows 10 Version 22H2 for x64-based Systems (KB5026361)",
-			"update_id": "b41f8c80-ee6b-4466-8b80-c7d805fafced"
+			"title": "2023-11 Dynamic Cumulative Update for Windows 10 Version 22H2 for x64-based Systems (KB5032189)",
+			"update_id": "7bd8f94b-a388-49ae-9294-584917783da9"
 		},
 		{
-			"title": "2023-12 Dynamic Cumulative Update for Windows 10 Version 22H2 for x64-based Systems (KB5033372)",
-			"update_id": "d12d4263-eb7d-4a2d-9470-f6fc40219cf7"
+			"title": "2023-05 Dynamic Cumulative Update for Windows 10 Version 22H2 for x64-based Systems (KB5026361)",
+			"update_id": "b41f8c80-ee6b-4466-8b80-c7d805fafced"
 		},
 		{
 			"title": "2023-01 Dynamic Cumulative Update for Windows 10 Version 22H2 for x64-based Systems (KB5022282)",
@@ -83,6 +79,10 @@
 		{
 			"title": "2023-10 Dynamic Cumulative Update for Windows 10 Version 22H2 for x64-based Systems (KB5031356)",
 			"update_id": "e5c65dc1-a430-4a59-8cb7-7a69a6066534"
+		},
+		{
+			"title": "2023-12 Dynamic Cumulative Update for Windows 10 Version 22H2 for x64-based Systems (KB5033372)",
+			"update_id": "d12d4263-eb7d-4a2d-9470-f6fc40219cf7"
 		},
 		{
 			"title": "2022-12 Dynamic Cumulative Update for Windows 10 Version 22H2 for x64-based Systems (KB5021233)",
