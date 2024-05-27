@@ -38,9 +38,9 @@
 		}
 	],
 	"supersedes": [
+		"2019-05 Cumulative Update for Windows 10 Version 1903 for ARM64-based Systems (KB4505057)",
 		"2019-05 Cumulative Update for Windows 10 Version 1903 for ARM64-based Systems (KB4497935)",
-		"2019-04 Cumulative Update for Windows 10 Version 1903 for ARM64-based Systems (KB4497093)",
-		"2019-05 Cumulative Update for Windows 10 Version 1903 for ARM64-based Systems (KB4505057)"
+		"2019-04 Cumulative Update for Windows 10 Version 1903 for ARM64-based Systems (KB4497093)"
 	],
 	"reboot_behavior": "Can request restart",
 	"user_input": "No",
