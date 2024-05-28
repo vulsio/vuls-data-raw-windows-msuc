@@ -21,12 +21,12 @@
 			"update_id": "2146c83d-ffca-4a79-8db0-e3e4e11e1349"
 		},
 		{
-			"title": "2022-05 Dynamic Cumulative Update for Windows 10 Version 20H2 for x64-based Systems (KB5013942)",
-			"update_id": "1f6f0231-6a35-451a-9271-2ea0f8d6f549"
-		},
-		{
 			"title": "2022-08 Dynamic Cumulative Update for Windows 10 Version 20H2 for x64-based Systems (KB5016616)",
 			"update_id": "1f687c65-d108-4fcd-aba0-3942ce9a8c1f"
+		},
+		{
+			"title": "2022-05 Dynamic Cumulative Update for Windows 10 Version 20H2 for x64-based Systems (KB5013942)",
+			"update_id": "1f6f0231-6a35-451a-9271-2ea0f8d6f549"
 		}
 	],
 	"reboot_behavior": "Can request restart",
