@@ -25,16 +25,16 @@
 			"update_id": "0683858a-06db-4f1a-b1eb-6ba0998d83f0"
 		},
 		{
-			"title": "2024-02 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5034767)",
-			"update_id": "3adba712-36cf-4bb1-b86c-e7b0317fbb07"
+			"title": "2022-09 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5017305)",
+			"update_id": "533d2080-a7ac-46c3-9f0c-7c73dff77d24"
 		},
 		{
 			"title": "2023-03 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5023697)",
 			"update_id": "4bfaa570-6987-44db-af8e-54e866146200"
 		},
 		{
-			"title": "2022-09 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5017305)",
-			"update_id": "533d2080-a7ac-46c3-9f0c-7c73dff77d24"
+			"title": "2024-02 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5034767)",
+			"update_id": "3adba712-36cf-4bb1-b86c-e7b0317fbb07"
 		},
 		{
 			"title": "2024-03 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5035855)",
@@ -49,10 +49,6 @@
 			"update_id": "58041b67-9ed9-4b8f-a00c-d5e363c48620"
 		},
 		{
-			"title": "2022-11 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5019964)",
-			"update_id": "790b0954-afb5-4c85-bf9f-904543f98f27"
-		},
-		{
 			"title": "2022-08 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5016622)",
 			"update_id": "7fd8971b-436f-4b6d-8aae-e36a2b9886a5"
 		},
@@ -61,8 +57,8 @@
 			"update_id": "932c2e83-44b9-4478-b27d-41e51b11ab6b"
 		},
 		{
-			"title": "2024-01 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5034119)",
-			"update_id": "9569339a-041f-4d48-8715-b95557cec635"
+			"title": "2022-11 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5019964)",
+			"update_id": "790b0954-afb5-4c85-bf9f-904543f98f27"
 		},
 		{
 			"title": "2022-05 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5015019)",
@@ -71,6 +67,10 @@
 		{
 			"title": "2023-06 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5027219)",
 			"update_id": "84931fe5-30c8-4194-910d-c04cff4a1549"
+		},
+		{
+			"title": "2024-01 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5034119)",
+			"update_id": "9569339a-041f-4d48-8715-b95557cec635"
 		},
 		{
 			"title": "2023-12 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5033373)",
@@ -130,16 +130,16 @@
 		}
 	],
 	"supersedes": [
-		"2018-11 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4478877)",
 		"2019-04 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4499418)",
+		"2018-11 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4478877)",
 		"2017-05 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4023680)",
-		"2018-07 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4346877)",
 		"Cumulative Update for Windows Server 2016 for x64-based Systems (KB4016635)",
 		"Cumulative Update for Windows Server 2016 for x64-based Systems (KB3213522)",
+		"2018-07 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4346877)",
 		"Cumulative Update for Windows Server 2016 for x64-based Systems (KB4010672)",
 		"2020-01 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4534307)",
-		"2022-04 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5012596)",
 		"2020-02 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4537806)",
+		"2022-04 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5012596)",
 		"2019-05 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4494440)",
 		"2022-01 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5010790)",
 		"2021-03 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5001633)",
@@ -149,9 +149,9 @@
 		"2020-11 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4594441)",
 		"2018-04 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4093120)",
 		"2018-04 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4093119)",
+		"2021-07 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5005393)",
 		"2018-05 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4103723)",
 		"2018-05 Cumulative Update for Windows Server 2016 for x64-based Systems (KB4103720)",
-		"2021-07 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5005393)",
 		"2022-01 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5010195)",
 		"2021-11 Cumulative Update for Windows Server 2016 for x64-based Systems (KB5008601)",
 		"Cumulative Update for Windows Server 2016 for x64-based Systems (KB3206632)",
