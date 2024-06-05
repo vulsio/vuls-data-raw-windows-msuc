@@ -53,10 +53,10 @@
 		"2021-09 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB5005611)",
 		"2022-01 Cumulative Update for Windows Server, version 20H2 for x64-based Systems (KB5010793)",
 		"2022-02 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB5010415)",
-		"2022-03 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB5011543)",
 		"2021-10 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB5006738)",
-		"2021-11 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB5007253)",
 		"2022-04 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB5011831)",
+		"2021-11 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB5007253)",
+		"2022-03 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB5011543)",
 		"2022-01 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB5009596)"
 	],
 	"reboot_behavior": "Can request restart",
