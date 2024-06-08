@@ -49,12 +49,12 @@
 		"2021-06 Cumulative Update for Windows Server, version 20H2 for ARM64-based Systems (KB5004476)",
 		"2021-03 Cumulative Update for Windows Server, version 20H2 for ARM64-based Systems (KB5001649)",
 		"2021-06 Cumulative Update for Windows Server, version 20H2 for ARM64-based Systems (KB5004760)",
-		"2021-07 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB5004296)",
 		"2022-01 Cumulative Update for Windows Server, version 20H2 for ARM64-based Systems (KB5010793)",
+		"2021-07 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB5004296)",
 		"2021-05 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB5003214)",
+		"2020-11 Cumulative Update for Windows Server, version 20H2 for ARM64-based Systems (KB4594440)",
 		"2021-04 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB5001391)",
-		"2021-08 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB5005101)",
-		"2020-11 Cumulative Update for Windows Server, version 20H2 for ARM64-based Systems (KB4594440)"
+		"2021-08 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB5005101)"
 	],
 	"reboot_behavior": "Can request restart",
 	"user_input": "No",
