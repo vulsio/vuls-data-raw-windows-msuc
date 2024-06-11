@@ -13,16 +13,16 @@
 	"support_url": "https://support.microsoft.com/help/5014702",
 	"supersededby": [
 		{
-			"title": "2023-11 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB5032197)",
-			"update_id": "01f50d2b-8e36-4e09-8525-c159c263ff14"
+			"title": "2022-11 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB5019964)",
+			"update_id": "1939638e-47ce-449d-8205-bc052cba0f71"
 		},
 		{
 			"title": "2024-02 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB5034767)",
 			"update_id": "1f0904b2-8001-402c-8af1-c1a919a38564"
 		},
 		{
-			"title": "2022-11 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB5019964)",
-			"update_id": "1939638e-47ce-449d-8205-bc052cba0f71"
+			"title": "2023-11 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB5032197)",
+			"update_id": "01f50d2b-8e36-4e09-8525-c159c263ff14"
 		},
 		{
 			"title": "2024-05 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB5037763)",
@@ -33,20 +33,16 @@
 			"update_id": "5a3d90f6-b969-4c8d-90d2-f824d05edf83"
 		},
 		{
-			"title": "2023-02 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB5022838)",
-			"update_id": "478539ad-8231-4c0f-8b1a-b9c0f987b55c"
-		},
-		{
 			"title": "2023-06 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB5027219)",
 			"update_id": "474462f9-61e6-4b2a-8362-bba10798b8f6"
 		},
 		{
-			"title": "2022-09 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB5017305)",
-			"update_id": "2d2b5397-4ebe-4e7f-9dd2-bf5ed0e71fdf"
+			"title": "2023-02 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB5022838)",
+			"update_id": "478539ad-8231-4c0f-8b1a-b9c0f987b55c"
 		},
 		{
-			"title": "2023-04 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB5025228)",
-			"update_id": "6fa20c6b-a053-4cb7-87fd-b4c8a579c79b"
+			"title": "2022-09 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB5017305)",
+			"update_id": "2d2b5397-4ebe-4e7f-9dd2-bf5ed0e71fdf"
 		},
 		{
 			"title": "2022-11 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB5021654)",
@@ -57,16 +53,16 @@
 			"update_id": "a8652c3e-561c-4dbe-be57-454c4abb46ce"
 		},
 		{
-			"title": "2022-12 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB5021235)",
-			"update_id": "63681afd-6fe5-4f19-b349-845c76194a96"
+			"title": "2023-04 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB5025228)",
+			"update_id": "6fa20c6b-a053-4cb7-87fd-b4c8a579c79b"
 		},
 		{
 			"title": "2023-10 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB5031362)",
 			"update_id": "8fb3e8f1-e50e-4949-978a-8b51e5d1a09d"
 		},
 		{
-			"title": "2022-08 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB5016622)",
-			"update_id": "9adbc53e-6989-47db-8196-39572a5ad7c6"
+			"title": "2022-12 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB5021235)",
+			"update_id": "63681afd-6fe5-4f19-b349-845c76194a96"
 		},
 		{
 			"title": "2023-05 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB5026363)",
@@ -75,6 +71,10 @@
 		{
 			"title": "2024-01 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB5034119)",
 			"update_id": "7370674d-0d8c-4399-8ad4-641de65a9c31"
+		},
+		{
+			"title": "2022-08 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB5016622)",
+			"update_id": "9adbc53e-6989-47db-8196-39572a5ad7c6"
 		},
 		{
 			"title": "2023-08 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB5029242)",
@@ -93,12 +93,12 @@
 			"update_id": "d50cb724-3fd4-487f-961a-ff38ce018841"
 		},
 		{
-			"title": "2022-10 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB5020439)",
-			"update_id": "c4d4300a-f5f5-4146-bd8a-ee019fced378"
-		},
-		{
 			"title": "2023-12 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB5033373)",
 			"update_id": "f7314e4d-2eec-4692-975d-a8436116a638"
+		},
+		{
+			"title": "2022-10 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB5020439)",
+			"update_id": "c4d4300a-f5f5-4146-bd8a-ee019fced378"
 		},
 		{
 			"title": "2024-03 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB5037423)",
@@ -122,8 +122,8 @@
 		}
 	],
 	"supersedes": [
-		"2018-04 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB4093119)",
 		"2022-01 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB5010195)",
+		"2018-04 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB4093119)",
 		"Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB3206632)",
 		"2022-05 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB5015019)",
 		"2021-11 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB5008601)",
@@ -154,8 +154,8 @@
 		"2017-09 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB4038801)",
 		"2017-07 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB4025334)",
 		"2017-05 Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB4023680)",
-		"Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB4016635)",
-		"Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB3216755)"
+		"Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB3216755)",
+		"Cumulative Update for Windows 10 Version 1607 for x64-based Systems (KB4016635)"
 	],
 	"reboot_behavior": "Can request restart",
 	"user_input": "No",
