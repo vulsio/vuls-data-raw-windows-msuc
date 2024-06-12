@@ -21,16 +21,16 @@
 			"update_id": "4bcc4fec-d215-490b-a075-4c639600c03e"
 		},
 		{
-			"title": "2019-06 Cumulative Update for Windows 10 Version 1703 for x64-based Systems (KB4503289)",
-			"update_id": "36df2fb9-45ee-4be5-8836-f04b4c6b9dbb"
-		},
-		{
 			"title": "2018-10 Cumulative Update for Windows 10 Version 1703 for x64-based Systems (KB4462939)",
 			"update_id": "39544535-5da8-428e-ab48-140e1f503e12"
 		},
 		{
 			"title": "2021-03 Cumulative Update for Windows 10 Version 1703 for x64-based Systems (KB5000812)",
 			"update_id": "34499bfa-c4b2-4fc3-81ae-c5773af66875"
+		},
+		{
+			"title": "2019-06 Cumulative Update for Windows 10 Version 1703 for x64-based Systems (KB4503289)",
+			"update_id": "36df2fb9-45ee-4be5-8836-f04b4c6b9dbb"
 		},
 		{
 			"title": "2019-05 Cumulative Update for Windows 10 Version 1703 for x64-based Systems (KB4499162)",
@@ -77,16 +77,16 @@
 			"update_id": "dacc00ad-1e99-4cbc-8743-75121fd8f1e6"
 		},
 		{
-			"title": "2019-05 Cumulative Update for Windows 10 Version 1703 for x64-based Systems (KB4505055)",
-			"update_id": "d033a8c4-2922-4088-975e-e2dff1ba4859"
-		},
-		{
 			"title": "2019-09 Cumulative Update for Windows 10 Version 1703 for x64-based Systems (KB4522011)",
 			"update_id": "e80f39ae-26e6-447f-988c-d0eecd7e988d"
 		},
 		{
 			"title": "2019-04 Cumulative Update for Windows 10 Version 1703 for x64-based Systems (KB4493436)",
 			"update_id": "bfe3e4b0-51b2-466b-b0db-b3a800b94bfb"
+		},
+		{
+			"title": "2019-05 Cumulative Update for Windows 10 Version 1703 for x64-based Systems (KB4505055)",
+			"update_id": "d033a8c4-2922-4088-975e-e2dff1ba4859"
 		},
 		{
 			"title": "2019-08 Cumulative Update for Windows 10 Version 1703 for x64-based Systems (KB4512474)",
