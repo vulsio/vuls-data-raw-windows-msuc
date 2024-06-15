@@ -13,12 +13,12 @@
 	"support_url": "https://support.microsoft.com/help/5004296",
 	"supersededby": [
 		{
-			"title": "2021-09 Cumulative Update Preview for Windows 10 Version 2004 for x64-based Systems (KB5005611)",
-			"update_id": "6e265bd4-6deb-4c9d-bd95-c1740f53ec08"
-		},
-		{
 			"title": "2021-10 Cumulative Update Preview for Windows 10 Version 2004 for x64-based Systems (KB5006738)",
 			"update_id": "86f39402-d6af-4400-a199-22be354c5a4f"
+		},
+		{
+			"title": "2021-09 Cumulative Update Preview for Windows 10 Version 2004 for x64-based Systems (KB5005611)",
+			"update_id": "6e265bd4-6deb-4c9d-bd95-c1740f53ec08"
 		},
 		{
 			"title": "2021-08 Cumulative Update Preview for Windows 10 Version 2004 for x64-based Systems (KB5005101)",
@@ -38,8 +38,8 @@
 		}
 	],
 	"supersedes": [
-		"2020-07 Cumulative Update Preview for Windows 10 Version 2004 for x64-based Systems (KB4568831)",
 		"2020-11 Servicing Stack Update for Windows 10 Version 2004 for x64-based Systems (KB4586864)",
+		"2020-07 Cumulative Update Preview for Windows 10 Version 2004 for x64-based Systems (KB4568831)",
 		"2020-07 Servicing Stack Update for Windows 10 Version 2004 for x64-based Systems (KB4566785)",
 		"2021-03 Cumulative Update for Windows 10 Version 2004 for x64-based Systems (KB5001649)",
 		"2020-09 Servicing Stack Update for Windows 10 Version 2004 for x64-based Systems (KB4577266)",
