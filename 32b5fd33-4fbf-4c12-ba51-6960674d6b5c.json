@@ -57,6 +57,10 @@
 			"update_id": "b67c4113-23e3-4887-a3fe-707a4573af4e"
 		},
 		{
+			"title": "2023-06 Dynamic Cumulative Update for Windows 10 Version 22H2 for x86-based Systems (KB5027215)",
+			"update_id": "b1539cbf-c098-41ad-90b4-346620b117c4"
+		},
+		{
 			"title": "2024-05 Dynamic Cumulative Update for Windows 10 Version 22H2 for x86-based Systems (KB5037768)",
 			"update_id": "518c5c09-12ef-489b-a08f-44bfdb71cb72"
 		},
@@ -83,10 +87,6 @@
 		{
 			"title": "2023-03 Dynamic Cumulative Update for Windows 10 Version 22H2 for x86-based Systems (KB5023696)",
 			"update_id": "ffb63d94-ccf6-41c1-b513-4415148d4733"
-		},
-		{
-			"title": "2023-06 Dynamic Cumulative Update for Windows 10 Version 22H2 for x86-based Systems (KB5027215)",
-			"update_id": "b1539cbf-c098-41ad-90b4-346620b117c4"
 		}
 	],
 	"supersedes": [
