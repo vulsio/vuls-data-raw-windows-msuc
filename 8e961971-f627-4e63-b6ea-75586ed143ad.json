@@ -22,8 +22,8 @@
 		}
 	],
 	"supersedes": [
-		"2021-08 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB5005101)",
 		"2021-06 Cumulative Update for Windows Server, version 2004 for ARM64-based Systems (KB5004476)",
+		"2021-08 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB5005101)",
 		"2021-07 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB5004296)",
 		"2021-10 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB5006738)",
 		"2021-06 Cumulative Update for Windows Server, version 2004 for ARM64-based Systems (KB5004760)",
