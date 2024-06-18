@@ -13,16 +13,16 @@
 	"support_url": "https://support.microsoft.com/help/5004760",
 	"supersededby": [
 		{
-			"title": "2021-09 Cumulative Update Preview for Windows 10 Version 2004 for x64-based Systems (KB5005611)",
-			"update_id": "6e265bd4-6deb-4c9d-bd95-c1740f53ec08"
+			"title": "2021-10 Cumulative Update Preview for Windows 10 Version 2004 for x64-based Systems (KB5006738)",
+			"update_id": "86f39402-d6af-4400-a199-22be354c5a4f"
 		},
 		{
 			"title": "2021-08 Cumulative Update Preview for Windows 10 Version 2004 for x64-based Systems (KB5005101)",
 			"update_id": "3e9bd288-9f44-424b-a273-839997295e93"
 		},
 		{
-			"title": "2021-10 Cumulative Update Preview for Windows 10 Version 2004 for x64-based Systems (KB5006738)",
-			"update_id": "86f39402-d6af-4400-a199-22be354c5a4f"
+			"title": "2021-09 Cumulative Update Preview for Windows 10 Version 2004 for x64-based Systems (KB5005611)",
+			"update_id": "6e265bd4-6deb-4c9d-bd95-c1740f53ec08"
 		},
 		{
 			"title": "2021-11 Cumulative Update Preview for Windows 10 Version 2004 for x64-based Systems (KB5007253)",
