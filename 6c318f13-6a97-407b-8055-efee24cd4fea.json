@@ -25,10 +25,6 @@
 			"update_id": "ddec05cf-0594-474b-b7d1-2f970a2843af"
 		},
 		{
-			"title": "2021-05 Cumulative Update Preview for Windows 10 Version 1909 for x64-based Systems (KB5003212)",
-			"update_id": "e6c950a8-0d7a-4892-bedd-33daa466516c"
-		},
-		{
 			"title": "2021-03 Cumulative Update Preview for Windows 10 Version 1909 for x64-based Systems (KB5000850)",
 			"update_id": "23680268-f768-4439-9036-5b5a66fd066c"
 		},
@@ -43,6 +39,10 @@
 		{
 			"title": "2021-06 Cumulative Update Preview for Windows 10 Version 1909 for x64-based Systems (KB5003698)",
 			"update_id": "4a1f0afb-bd83-411b-b55d-ccbfee7436f8"
+		},
+		{
+			"title": "2021-05 Cumulative Update Preview for Windows 10 Version 1909 for x64-based Systems (KB5003212)",
+			"update_id": "e6c950a8-0d7a-4892-bedd-33daa466516c"
 		},
 		{
 			"title": "2021-04 Cumulative Update for Windows 10 Version 1909 for x64-based Systems (KB5001337)",
