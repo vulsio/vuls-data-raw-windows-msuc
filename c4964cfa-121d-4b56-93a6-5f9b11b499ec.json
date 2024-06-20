@@ -13,16 +13,16 @@
 	"support_url": "https://support.microsoft.com/help/4509478",
 	"supersededby": [
 		{
+			"title": "2019-10 Cumulative Update for Windows 10 Version 1803 for x86-based Systems (KB4519978)",
+			"update_id": "61658880-685d-410d-9050-a205cd3f9d08"
+		},
+		{
 			"title": "2021-03 Cumulative Update for Windows 10 Version 1803 for x86-based Systems (KB5001565)",
 			"update_id": "51218398-35cc-4dd4-abc6-441f91db4261"
 		},
 		{
 			"title": "2020-02 Cumulative Update for Windows 10 Version 1803 for x86-based Systems (KB4537795)",
 			"update_id": "51741733-8e26-466d-89ba-a984abce847b"
-		},
-		{
-			"title": "2019-10 Cumulative Update for Windows 10 Version 1803 for x86-based Systems (KB4519978)",
-			"update_id": "61658880-685d-410d-9050-a205cd3f9d08"
 		},
 		{
 			"title": "2019-07 Cumulative Update for Windows 10 Version 1803 for x86-based Systems (KB4507466)",
@@ -78,8 +78,8 @@
 		}
 	],
 	"supersedes": [
-		"2019-04 Cumulative Update for Windows 10 Version 1803 for x86-based Systems (KB4493437)",
 		"2018-06 Cumulative Update for Windows 10 Version 1803 for x86-based Systems (KB4284848)",
+		"2019-04 Cumulative Update for Windows 10 Version 1803 for x86-based Systems (KB4493437)",
 		"2019-05 Cumulative Update for Windows 10 Version 1803 for x86-based Systems (KB4499183)",
 		"2019-06 Cumulative Update for Windows 10 Version 1803 for x86-based Systems (KB4503288)",
 		"2019-01 Cumulative Update for Windows 10 Version 1803 for x86-based Systems (KB4480976)",
