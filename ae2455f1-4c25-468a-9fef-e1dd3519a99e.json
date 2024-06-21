@@ -21,12 +21,12 @@
 			"update_id": "727bda64-ba46-437f-98f7-a6306993fc3d"
 		},
 		{
-			"title": "2021-12 Cumulative Update for Windows Server, version 2004 for ARM64-based Systems (KB5008212)",
-			"update_id": "68d00b78-da4e-4408-9de9-3da5c1a45cbf"
-		},
-		{
 			"title": "2021-07 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB5004296)",
 			"update_id": "48ddb07b-bd64-451c-b1a1-fdc1d192669f"
+		},
+		{
+			"title": "2021-12 Cumulative Update for Windows Server, version 2004 for ARM64-based Systems (KB5008212)",
+			"update_id": "68d00b78-da4e-4408-9de9-3da5c1a45cbf"
 		},
 		{
 			"title": "2021-06 Cumulative Update for Windows Server, version 2004 for ARM64-based Systems (KB5004760)",
