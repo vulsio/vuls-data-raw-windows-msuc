@@ -141,22 +141,22 @@
 			"update_id": "df941a05-351f-4cab-9b7d-a18440f36a21"
 		},
 		{
-			"title": "2023-10 Cumulative Update for Windows 11 Version 22H2 for arm64-based Systems (KB5031354)",
-			"update_id": "e9b88bb8-5f5d-4606-b88b-a6e272b0e1de"
-		},
-		{
 			"title": "2023-04 Cumulative Update for Windows 11 Version 22H2 for arm64-based Systems (KB5025239)",
 			"update_id": "f39d68ab-1519-4df8-85c1-d985be7f49c3"
+		},
+		{
+			"title": "2023-10 Cumulative Update for Windows 11 Version 22H2 for arm64-based Systems (KB5031354)",
+			"update_id": "e9b88bb8-5f5d-4606-b88b-a6e272b0e1de"
 		}
 	],
 	"supersedes": [
-		"2022-09 Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5019311)",
 		"2022-10 Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5018427)",
 		"2022-11 Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5019980)",
+		"2022-09 Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5019311)",
 		"2022-09 Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5017321)",
 		"2022-09 Cumulative Update Preview for Windows 11 Version 22H2 for ARM64-based Systems (KB5017389)",
-		"2022-10 Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5019509)",
 		"2022-10 Cumulative Update Preview for Windows 11 Version 22H2 for ARM64-based Systems (KB5018496)",
+		"2022-10 Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5019509)",
 		"2022-11 Cumulative Update Preview for Windows 11 Version 22H2 for ARM64-based Systems (KB5020044)"
 	],
 	"reboot_behavior": "Can request restart",
