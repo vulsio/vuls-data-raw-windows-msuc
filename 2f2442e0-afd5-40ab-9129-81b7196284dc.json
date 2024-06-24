@@ -13,20 +13,20 @@
 	"support_url": "https://support.microsoft.com/help/5022845",
 	"supersededby": [
 		{
-			"title": "2023-04 Dynamic Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5025239)",
-			"update_id": "7e3bf360-f1de-46f3-ae2f-6d7b0134852f"
-		},
-		{
 			"title": "2023-03 Dynamic Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5023706)",
 			"update_id": "9314ea8e-0fc8-451b-a7e7-f85980fe7c18"
+		},
+		{
+			"title": "2023-04 Dynamic Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5025239)",
+			"update_id": "7e3bf360-f1de-46f3-ae2f-6d7b0134852f"
 		}
 	],
 	"supersedes": [
-		"2023-01 Dynamic Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5022303)",
-		"2022-09 Dynamic Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5017321)",
 		"2022-10 Dynamic Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5018427)",
+		"2022-11 Dynamic Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5019980)",
 		"2022-12 Dynamic Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5021255)",
-		"2022-11 Dynamic Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5019980)"
+		"2022-09 Dynamic Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5017321)",
+		"2023-01 Dynamic Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5022303)"
 	],
 	"reboot_behavior": "Can request restart",
 	"user_input": "No",
