@@ -61,6 +61,10 @@
 			"update_id": "88d004ff-2072-4722-a760-fc3e59fefb63"
 		},
 		{
+			"title": "2023-04 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5025221)",
+			"update_id": "91b1c1fc-d129-45aa-8679-41bf3bda66ed"
+		},
+		{
 			"title": "2024-05 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5037768)",
 			"update_id": "b60e7133-296e-4754-8586-72025377bfa3"
 		},
@@ -73,8 +77,8 @@
 			"update_id": "e66995dd-9951-4064-b4f4-c13ae9b60554"
 		},
 		{
-			"title": "2023-04 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5025221)",
-			"update_id": "91b1c1fc-d129-45aa-8679-41bf3bda66ed"
+			"title": "2023-03 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5023696)",
+			"update_id": "e7a08f7c-92ad-4de7-a635-f2aec44b5b77"
 		},
 		{
 			"title": "2023-10 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5031356)",
@@ -87,10 +91,6 @@
 		{
 			"title": "2023-05 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5026361)",
 			"update_id": "ee5f536a-3628-4d23-b88d-aa31f3689024"
-		},
-		{
-			"title": "2023-03 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5023696)",
-			"update_id": "e7a08f7c-92ad-4de7-a635-f2aec44b5b77"
 		}
 	],
 	"supersedes": [
