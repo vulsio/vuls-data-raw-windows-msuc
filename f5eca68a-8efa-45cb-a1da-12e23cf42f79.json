@@ -12,11 +12,11 @@
 	"more_info": "https://support.microsoft.com/help/4346783",
 	"support_url": "https://support.microsoft.com/help/4346783",
 	"supersedes": [
-		"2018-06 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4338548)",
 		"2018-05 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4100403)",
 		"2018-06 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4284848)",
-		"2018-07 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4345421)",
-		"2018-07 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4340917)"
+		"2018-07 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4340917)",
+		"2018-06 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4338548)",
+		"2018-07 Cumulative Update for Windows Server 2016 (1803) for x64-based Systems (KB4345421)"
 	],
 	"reboot_behavior": "Can request restart",
 	"user_input": "No",
