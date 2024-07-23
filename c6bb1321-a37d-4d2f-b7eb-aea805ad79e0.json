@@ -77,12 +77,12 @@
 			"update_id": "a65aaeaa-8a21-4652-a9d4-a8f68ac8e97c"
 		},
 		{
-			"title": "2018-05 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4103714)",
-			"update_id": "f94eee94-c175-4f90-9b75-6451c8d6a01a"
-		},
-		{
 			"title": "2018-07 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4338817)",
 			"update_id": "d7c1013f-fda4-47f3-8dea-a60392669c20"
+		},
+		{
+			"title": "2018-05 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4103714)",
+			"update_id": "f94eee94-c175-4f90-9b75-6451c8d6a01a"
 		}
 	],
 	"reboot_behavior": "Can request restart",
