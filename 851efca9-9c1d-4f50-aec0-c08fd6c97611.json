@@ -13,12 +13,12 @@
 	"support_url": "https://support.microsoft.com/help/4052232",
 	"supersededby": [
 		{
-			"title": "2018-04 Cumulative Update for Windows 10 Version 1511 for x64-based Systems (KB4093109)",
-			"update_id": "98ac416f-e0b8-4ced-9de8-d229b75b4d7a"
-		},
-		{
 			"title": "2018-03 Cumulative Update for Windows 10 Version 1511 for x64-based Systems (KB4088779)",
 			"update_id": "c19a8868-ac70-44b1-9b6f-2d4dc02cf9ba"
+		},
+		{
+			"title": "2018-04 Cumulative Update for Windows 10 Version 1511 for x64-based Systems (KB4093109)",
+			"update_id": "98ac416f-e0b8-4ced-9de8-d229b75b4d7a"
 		},
 		{
 			"title": "2018-01 Cumulative Update for Windows 10 Version 1511 for x64-based Systems (KB4075200)",
