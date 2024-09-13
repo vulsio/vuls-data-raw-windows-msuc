@@ -13,17 +13,17 @@
 	"support_url": "https://support.microsoft.com/help/5012599",
 	"supersededby": [
 		{
-			"title": "2022-08 Dynamic Cumulative Update for Windows 10 Version 20H2 for ARM64-based Systems (KB5016616)",
-			"update_id": "84bb3279-74e5-44ae-bce2-e15c82d55cc3"
-		},
-		{
 			"title": "2022-05 Dynamic Cumulative Update for Windows 10 Version 20H2 for ARM64-based Systems (KB5013942)",
 			"update_id": "8c51d1b0-14b2-40ef-bca2-594eabbd7a25"
+		},
+		{
+			"title": "2022-08 Dynamic Cumulative Update for Windows 10 Version 20H2 for ARM64-based Systems (KB5016616)",
+			"update_id": "84bb3279-74e5-44ae-bce2-e15c82d55cc3"
 		}
 	],
 	"supersedes": [
-		"2022-03 Dynamic Cumulative Update for Windows 10 Version 20H2 for ARM64-based Systems (KB5011487)",
-		"2020-11 Dynamic Cumulative Update for Windows 10 Version 20H2 for ARM64-based Systems (KB4594440)"
+		"2020-11 Dynamic Cumulative Update for Windows 10 Version 20H2 for ARM64-based Systems (KB4594440)",
+		"2022-03 Dynamic Cumulative Update for Windows 10 Version 20H2 for ARM64-based Systems (KB5011487)"
 	],
 	"reboot_behavior": "Can request restart",
 	"user_input": "No",
