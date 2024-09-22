@@ -73,12 +73,12 @@
 			"update_id": "a7e58386-b66a-49dd-85d3-5f897bcd1b78"
 		},
 		{
-			"title": "2024-03 Dynamic Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5035845)",
-			"update_id": "dcfdafd8-aa31-4f83-8d1c-0dccc9ff4972"
-		},
-		{
 			"title": "2024-09 Dynamic Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5043064)",
 			"update_id": "d891eceb-3a98-4434-9af4-a6a02d232682"
+		},
+		{
+			"title": "2024-03 Dynamic Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5035845)",
+			"update_id": "dcfdafd8-aa31-4f83-8d1c-0dccc9ff4972"
 		},
 		{
 			"title": "2024-04 Dynamic Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5036892)",
@@ -89,8 +89,8 @@
 		"2022-12 Dynamic Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5021233)",
 		"2023-01 Dynamic Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5022282)",
 		"2023-02 Dynamic Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5022834)",
-		"2022-11 Dynamic Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5019959)",
-		"2022-10 Dynamic Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5018410)"
+		"2022-10 Dynamic Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5018410)",
+		"2022-11 Dynamic Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5019959)"
 	],
 	"reboot_behavior": "Can request restart",
 	"user_input": "No",
