@@ -30,9 +30,9 @@
 		}
 	],
 	"supersedes": [
+		"2022-10 Dynamic Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5018427)",
 		"2022-09 Dynamic Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5017321)",
-		"2022-11 Dynamic Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5019980)",
-		"2022-10 Dynamic Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5018427)"
+		"2022-11 Dynamic Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5019980)"
 	],
 	"reboot_behavior": "Can request restart",
 	"user_input": "No",
