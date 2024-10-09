@@ -12,8 +12,8 @@
 	"more_info": "https://support.microsoft.com/help/5008212",
 	"support_url": "https://support.microsoft.com/help/5008212",
 	"supersedes": [
-		"2020-11 Dynamic Cumulative Update for Windows 10 Version 2004 for x86-based Systems (KB4594440)",
-		"2021-11 Dynamic Cumulative Update for Windows 10 Version 2004 for x86-based Systems (KB5007186)"
+		"2021-11 Dynamic Cumulative Update for Windows 10 Version 2004 for x86-based Systems (KB5007186)",
+		"2020-11 Dynamic Cumulative Update for Windows 10 Version 2004 for x86-based Systems (KB4594440)"
 	],
 	"reboot_behavior": "Can request restart",
 	"user_input": "No",
