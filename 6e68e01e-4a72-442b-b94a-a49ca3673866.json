@@ -13,10 +13,6 @@
 	"support_url": "https://support.microsoft.com/help/4089848",
 	"supersededby": [
 		{
-			"title": "2018-05 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4103714)",
-			"update_id": "16cf5455-5d92-4c75-9aae-76896c1f1a9b"
-		},
-		{
 			"title": "2018-10 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4462932)",
 			"update_id": "4a12388d-b6f9-45ee-af1f-7eb6425cbcf8"
 		},
@@ -27,6 +23,10 @@
 		{
 			"title": "2019-03 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4489890)",
 			"update_id": "8c3f6d2d-7acd-4796-89b4-2cc790767ec3"
+		},
+		{
+			"title": "2018-05 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4103714)",
+			"update_id": "16cf5455-5d92-4c75-9aae-76896c1f1a9b"
 		},
 		{
 			"title": "2019-02 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4487021)",
@@ -81,16 +81,16 @@
 			"update_id": "b4a394d8-d90c-4cd5-a7d9-0d67f2cf3505"
 		},
 		{
-			"title": "2018-09 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4457136)",
-			"update_id": "af38ae85-e87d-4ed1-9220-75667804fa30"
+			"title": "2018-11 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4467681)",
+			"update_id": "b966dfe3-2c9d-4e77-a39c-de2c7d755bfc"
 		},
 		{
 			"title": "2018-06 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4284822)",
 			"update_id": "c8ffc78a-8acf-4a7a-ab53-97af68862408"
 		},
 		{
-			"title": "2018-11 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4467681)",
-			"update_id": "b966dfe3-2c9d-4e77-a39c-de2c7d755bfc"
+			"title": "2018-09 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4457136)",
+			"update_id": "af38ae85-e87d-4ed1-9220-75667804fa30"
 		},
 		{
 			"title": "2018-04 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4093105)",
