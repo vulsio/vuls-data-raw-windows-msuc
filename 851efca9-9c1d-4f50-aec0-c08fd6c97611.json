@@ -17,16 +17,16 @@
 			"update_id": "c19a8868-ac70-44b1-9b6f-2d4dc02cf9ba"
 		},
 		{
+			"title": "2018-04 Cumulative Update for Windows 10 Version 1511 for x64-based Systems (KB4093109)",
+			"update_id": "98ac416f-e0b8-4ced-9de8-d229b75b4d7a"
+		},
+		{
 			"title": "2018-01 Cumulative Update for Windows 10 Version 1511 for x64-based Systems (KB4075200)",
 			"update_id": "c6213de0-2a46-4e7b-8288-dabb48751e53"
 		},
 		{
 			"title": "2018-02 Cumulative Update for Windows 10 Version 1511 for x64-based Systems (KB4074591)",
 			"update_id": "041d42cd-eb65-4d43-a835-f5d2f502cc2d"
-		},
-		{
-			"title": "2018-04 Cumulative Update for Windows 10 Version 1511 for x64-based Systems (KB4093109)",
-			"update_id": "98ac416f-e0b8-4ced-9de8-d229b75b4d7a"
 		}
 	],
 	"supersedes": [
