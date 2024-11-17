@@ -17,12 +17,12 @@
 			"update_id": "2297d279-a1fe-48d5-aa42-03c07823fdd6"
 		},
 		{
-			"title": "2024-11 Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5046613)",
-			"update_id": "38d39157-459c-4142-85c6-543045f37350"
-		},
-		{
 			"title": "2024-02 Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5034763)",
 			"update_id": "45162b9e-79cb-4dde-8fb9-214680a713a1"
+		},
+		{
+			"title": "2024-11 Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5046613)",
+			"update_id": "38d39157-459c-4142-85c6-543045f37350"
 		},
 		{
 			"title": "2024-08 Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5041580)",
@@ -57,20 +57,20 @@
 			"update_id": "7c650099-5a96-427a-b570-4968d9c7e58f"
 		},
 		{
-			"title": "2023-09 Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5030211)",
-			"update_id": "7ef071f6-f25c-457a-bd10-d0dcfb149cd0"
-		},
-		{
-			"title": "2023-02 Cumulative Update Preview for Windows 10 Version 22H2 for ARM64-based Systems (KB5022906)",
-			"update_id": "781be0e6-8727-4479-a11d-3c6d1742da25"
-		},
-		{
 			"title": "2024-08 Cumulative Update Preview for Windows 10 Version 22H2 for ARM64-based Systems (KB5041582)",
 			"update_id": "7b78586e-33dc-49ec-ad7e-c4e2358203c0"
 		},
 		{
 			"title": "2024-07 Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5040427)",
 			"update_id": "521c1bd5-740b-43b8-8838-531b694fbdb0"
+		},
+		{
+			"title": "2023-09 Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5030211)",
+			"update_id": "7ef071f6-f25c-457a-bd10-d0dcfb149cd0"
+		},
+		{
+			"title": "2023-02 Cumulative Update Preview for Windows 10 Version 22H2 for ARM64-based Systems (KB5022906)",
+			"update_id": "781be0e6-8727-4479-a11d-3c6d1742da25"
 		},
 		{
 			"title": "2023-03 Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5023696)",
@@ -180,12 +180,12 @@
 	"supersedes": [
 		"2022-11 Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5019959)",
 		"2022-10 Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5020953)",
+		"2022-10 Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5018410)",
 		"2022-12 Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5021233)",
 		"2022-10 Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5020435)",
-		"2022-10 Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5018410)",
-		"2022-10 Cumulative Update Preview for Windows 10 Version 22H2 for ARM64-based Systems (KB5018482)",
 		"2023-01 Cumulative Update Preview for Windows 10 Version 22H2 for ARM64-based Systems (KB5019275)",
 		"2022-11 Cumulative Update Preview for Windows 10 Version 22H2 for ARM64-based Systems (KB5020030)",
+		"2022-10 Cumulative Update Preview for Windows 10 Version 22H2 for ARM64-based Systems (KB5018482)",
 		"2023-01 Cumulative Update for Windows 10 Version 22H2 for ARM64-based Systems (KB5022282)"
 	],
 	"reboot_behavior": "Can request restart",
