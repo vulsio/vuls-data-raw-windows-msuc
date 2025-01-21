@@ -13,12 +13,12 @@
 	"support_url": "https://support.microsoft.com/help/4594440",
 	"supersededby": [
 		{
-			"title": "2021-12 Dynamic Cumulative Update for Windows 10 Version 2004 for ARM64-based Systems (KB5008212)",
-			"update_id": "29c12c2a-88d7-4ad1-a65a-c9c3e5798e15"
-		},
-		{
 			"title": "2021-11 Dynamic Cumulative Update for Windows 10 Version 2004 for ARM64-based Systems (KB5007186)",
 			"update_id": "e58d0abb-12d9-418e-89ce-7cfe82f94e48"
+		},
+		{
+			"title": "2021-12 Dynamic Cumulative Update for Windows 10 Version 2004 for ARM64-based Systems (KB5008212)",
+			"update_id": "29c12c2a-88d7-4ad1-a65a-c9c3e5798e15"
 		}
 	],
 	"reboot_behavior": "Can request restart",
