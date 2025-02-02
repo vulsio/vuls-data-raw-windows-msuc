@@ -53,16 +53,16 @@
 			"update_id": "1a7002fa-03c7-4644-b163-7d709521b487"
 		},
 		{
+			"title": "2023-04 Cumulative Update Preview for Windows 11 Version 22H2 for x64-based Systems (KB5025305)",
+			"update_id": "1b0b70c0-191e-42f6-8808-c1b50deacb3b"
+		},
+		{
 			"title": "2024-07 Cumulative Update Preview for Windows 11 Version 22H2 for x64-based Systems (KB5040527)",
 			"update_id": "1f164ca3-3ddc-4876-b5db-3786825b1fc3"
 		},
 		{
 			"title": "2023-07 Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5028185)",
 			"update_id": "1f6417e4-a329-42c4-95e0-fa7d09bb6f90"
-		},
-		{
-			"title": "2023-04 Cumulative Update Preview for Windows 11 Version 22H2 for x64-based Systems (KB5025305)",
-			"update_id": "1b0b70c0-191e-42f6-8808-c1b50deacb3b"
 		},
 		{
 			"title": "2023-01 Cumulative Update Preview for Windows 11 Version 22H2 for x64-based Systems (KB5022360)",
@@ -109,12 +109,12 @@
 			"update_id": "62327e2c-6538-48ce-85dd-3fb92d12a43c"
 		},
 		{
-			"title": "2025-01 Cumulative Update Preview for Windows 11 Version 22H2 for x64-based Systems (KB5050092)",
-			"update_id": "650e9000-2888-4c96-9873-c493e10ef615"
-		},
-		{
 			"title": "2023-11 Cumulative Update Preview for Windows 11 Version 22H2 for x64-based Systems (KB5032288)",
 			"update_id": "63ff07ec-a696-45ca-95dd-581009043b70"
+		},
+		{
+			"title": "2025-01 Cumulative Update Preview for Windows 11 Version 22H2 for x64-based Systems (KB5050092)",
+			"update_id": "650e9000-2888-4c96-9873-c493e10ef615"
 		},
 		{
 			"title": "2024-04 Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5036893)",
@@ -137,12 +137,12 @@
 			"update_id": "a24f18ff-69be-4203-bf35-abce4efd4a22"
 		},
 		{
-			"title": "2024-07 Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5040442)",
-			"update_id": "acae581d-b0b0-4afe-b364-c1917809fe42"
-		},
-		{
 			"title": "2023-02 Cumulative Update Preview for Windows 11 Version 22H2 for x64-based Systems (KB5022913)",
 			"update_id": "a8d64d07-8ba6-4c3a-a5c9-8b506185236a"
+		},
+		{
+			"title": "2024-07 Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5040442)",
+			"update_id": "acae581d-b0b0-4afe-b364-c1917809fe42"
 		},
 		{
 			"title": "2024-04 Cumulative Update Preview for Windows 11 Version 22H2 for x64-based Systems (KB5036980)",
@@ -165,12 +165,12 @@
 			"update_id": "d32c52a4-b897-4487-9a96-f2dfa06f4dbd"
 		},
 		{
-			"title": "2024-05 Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5037771)",
-			"update_id": "d7d47bfa-d677-467d-a1fe-00572fe4effb"
-		},
-		{
 			"title": "2023-07 Cumulative Update Preview for Windows 11 Version 22H2 for x64-based Systems (KB5028254)",
 			"update_id": "dbf7dc02-70ef-4476-b228-00a130a39ccd"
+		},
+		{
+			"title": "2024-05 Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5037771)",
+			"update_id": "d7d47bfa-d677-467d-a1fe-00572fe4effb"
 		},
 		{
 			"title": "2023-06 Cumulative Update Preview for Windows 11 Version 22H2 for x64-based Systems (KB5027303)",
@@ -202,15 +202,15 @@
 		}
 	],
 	"supersedes": [
-		"2022-09 Cumulative Update Preview for Windows 11 Version 22H2 for x64-based Systems (KB5017389)",
-		"2022-10 Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5019509)",
-		"2022-11 Cumulative Update Preview for Windows 11 Version 22H2 for x64-based Systems (KB5020044)",
-		"2022-10 Cumulative Update Preview for Windows 11 Version 22H2 for x64-based Systems (KB5018496)",
 		"2022-11 Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5019980)",
+		"2022-11 Cumulative Update Preview for Windows 11 Version 22H2 for x64-based Systems (KB5020044)",
+		"2022-09 Cumulative Update Preview for Windows 11 Version 22H2 for x64-based Systems (KB5017389)",
 		"2022-09 Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5017321)",
 		"2022-12 Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5021255)",
-		"2022-10 Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5018427)",
-		"2022-09 Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5019311)"
+		"2022-10 Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5019509)",
+		"2022-10 Cumulative Update Preview for Windows 11 Version 22H2 for x64-based Systems (KB5018496)",
+		"2022-09 Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5019311)",
+		"2022-10 Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5018427)"
 	],
 	"reboot_behavior": "Can request restart",
 	"user_input": "No",

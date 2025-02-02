@@ -45,12 +45,12 @@
 			"update_id": "21c012a3-9902-463a-a876-654b37b6dfc3"
 		},
 		{
-			"title": "2023-06 Cumulative Update Preview for Windows 11 Version 22H2 for arm64-based Systems (KB5027303)",
-			"update_id": "263fbd1c-e6e7-4a78-bd40-877d772cb86e"
-		},
-		{
 			"title": "2023-04 Cumulative Update Preview for Windows 11 Version 22H2 for arm64-based Systems (KB5025305)",
 			"update_id": "23e2eefb-e159-41df-8918-7994eee5b6f2"
+		},
+		{
+			"title": "2023-06 Cumulative Update Preview for Windows 11 Version 22H2 for arm64-based Systems (KB5027303)",
+			"update_id": "263fbd1c-e6e7-4a78-bd40-877d772cb86e"
 		},
 		{
 			"title": "2024-11 Cumulative Update Preview for Windows 11 Version 22H2 for arm64-based Systems (KB5046732)",
@@ -105,12 +105,12 @@
 			"update_id": "634c426f-1b84-47d4-a3e1-e08c8be0c9ec"
 		},
 		{
-			"title": "2024-09 Cumulative Update for Windows 11 Version 22H2 for arm64-based Systems (KB5043076)",
-			"update_id": "66e34260-ce9f-4e35-9197-ac2a5183efbf"
-		},
-		{
 			"title": "2024-06 Cumulative Update for Windows 11 Version 22H2 for arm64-based Systems (KB5039212)",
 			"update_id": "68e5d6ad-2ea2-4635-a73a-607ec6e9484b"
+		},
+		{
+			"title": "2024-09 Cumulative Update for Windows 11 Version 22H2 for arm64-based Systems (KB5043076)",
+			"update_id": "66e34260-ce9f-4e35-9197-ac2a5183efbf"
 		},
 		{
 			"title": "2024-01 Cumulative Update for Windows 11 Version 22H2 for arm64-based Systems (KB5034123)",
@@ -173,29 +173,29 @@
 			"update_id": "e9b88bb8-5f5d-4606-b88b-a6e272b0e1de"
 		},
 		{
-			"title": "2024-08 Cumulative Update Preview for Windows 11 Version 22H2 for arm64-based Systems (KB5041587)",
-			"update_id": "f29e9ba8-12ff-4f8a-a181-70b443dc7652"
-		},
-		{
 			"title": "2023-04 Cumulative Update for Windows 11 Version 22H2 for arm64-based Systems (KB5025239)",
 			"update_id": "f39d68ab-1519-4df8-85c1-d985be7f49c3"
+		},
+		{
+			"title": "2024-08 Cumulative Update Preview for Windows 11 Version 22H2 for arm64-based Systems (KB5041587)",
+			"update_id": "f29e9ba8-12ff-4f8a-a181-70b443dc7652"
 		}
 	],
 	"supersedes": [
-		"2022-09 Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5017321)",
 		"2022-09 Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5019311)",
+		"2022-09 Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5017321)",
+		"2022-10 Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5018427)",
+		"2022-09 Cumulative Update Preview for Windows 11 Version 22H2 for ARM64-based Systems (KB5017389)",
 		"2023-02 Cumulative Update Preview for Windows 11 Version 22H2 for arm64-based Systems (KB5022913) UUP",
 		"2022-11 Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5019980)",
-		"2022-09 Cumulative Update Preview for Windows 11 Version 22H2 for ARM64-based Systems (KB5017389)",
 		"2022-10 Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5019509)",
-		"2022-10 Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5018427)",
 		"2022-10 Cumulative Update Preview for Windows 11 Version 22H2 for ARM64-based Systems (KB5018496)",
+		"2023-01 Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5022303)",
+		"2023-02 Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5022845)",
 		"2022-12 Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5021255)",
 		"2022-11 Cumulative Update Preview for Windows 11 Version 22H2 for ARM64-based Systems (KB5020044)",
 		"2023-02 Cumulative Update Preview for Windows 11 Version 22H2 for ARM64-based Systems (KB5022913)",
-		"2023-02 Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5022845)",
 		"2023-01 Cumulative Update Preview for Windows 11 Version 22H2 for ARM64-based Systems (KB5022360)",
-		"2023-01 Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5022303)",
 		"2023-03 Cumulative Update for Windows 11 Version 22H2 for ARM64-based Systems (KB5023706)"
 	],
 	"reboot_behavior": "Can request restart",
