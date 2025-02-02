@@ -25,28 +25,28 @@
 			"update_id": "43811a32-6a60-4a11-bc27-678a97026cc8"
 		},
 		{
-			"title": "2021-02 Cumulative Update Preview for Windows 10 Version 1909 for ARM64-based Systems (KB4601380)",
-			"update_id": "18f26c83-6209-4771-b2cb-7558682fd263"
-		},
-		{
 			"title": "2021-05 Cumulative Update Preview for Windows 10 Version 1909 for ARM64-based Systems (KB5003212)",
 			"update_id": "701e9462-e128-493b-8e45-289ada97911d"
 		},
 		{
-			"title": "2021-05 Cumulative Update for Windows 10 Version 1909 for ARM64-based Systems (KB5003169)",
-			"update_id": "2b84d3bc-f53b-4b21-a6ac-3ce46ffeea78"
+			"title": "2021-02 Cumulative Update Preview for Windows 10 Version 1909 for ARM64-based Systems (KB4601380)",
+			"update_id": "18f26c83-6209-4771-b2cb-7558682fd263"
+		},
+		{
+			"title": "2021-04 Cumulative Update for Windows 10 Version 1909 for ARM64-based Systems (KB5001337)",
+			"update_id": "5088afe6-2acb-4cde-ba3b-c39c5a2387d3"
 		},
 		{
 			"title": "2021-04 Cumulative Update Preview for Windows 10 Version 1909 for ARM64-based Systems (KB5001396)",
 			"update_id": "569c2ef2-5019-4d47-a77c-8fb238eccab4"
 		},
 		{
-			"title": "2021-09 Cumulative Update Preview for Windows 10 Version 1909 for ARM64-based Systems (KB5005624)",
-			"update_id": "aa5bcb8a-da3e-49f5-b064-1ce16376567f"
+			"title": "2021-05 Cumulative Update for Windows 10 Version 1909 for ARM64-based Systems (KB5003169)",
+			"update_id": "2b84d3bc-f53b-4b21-a6ac-3ce46ffeea78"
 		},
 		{
-			"title": "2021-04 Cumulative Update for Windows 10 Version 1909 for ARM64-based Systems (KB5001337)",
-			"update_id": "5088afe6-2acb-4cde-ba3b-c39c5a2387d3"
+			"title": "2021-09 Cumulative Update Preview for Windows 10 Version 1909 for ARM64-based Systems (KB5005624)",
+			"update_id": "aa5bcb8a-da3e-49f5-b064-1ce16376567f"
 		},
 		{
 			"title": "2021-07 Cumulative Update Preview for Windows 10 Version 1909 for ARM64-based Systems (KB5004293)",
@@ -68,11 +68,11 @@
 	"supersedes": [
 		"2020-11 Cumulative Update for Windows 10 Version 1909 for ARM64-based Systems (KB4594443)",
 		"2020-07 Cumulative Update Preview for Windows 10 Version 1909 for ARM64-based Systems (KB4559004)",
-		"2020-02 Cumulative Update for Windows 10 Version 1909 for ARM64-based Systems (KB4535996)",
 		"2020-08 Cumulative Update Preview for Windows 10 Version 1909 for ARM64-based Systems (KB4566116)",
+		"2020-02 Cumulative Update for Windows 10 Version 1909 for ARM64-based Systems (KB4535996)",
 		"2020-10 Cumulative Update Preview for Windows 10 Version 1909 for ARM64-based Systems (KB4580386)",
-		"2020-09 Cumulative Update Preview for Windows 10 Version 1909 for ARM64-based Systems (KB4577062)",
 		"2020-11 Cumulative Update Preview for Windows 10 Version 1909 for ARM64-based Systems (KB4586819)",
+		"2020-09 Cumulative Update Preview for Windows 10 Version 1909 for ARM64-based Systems (KB4577062)",
 		"2020-03 Cumulative Update for Windows 10 Version 1909 for ARM64-based Systems (KB4554364)",
 		"2020-03 Cumulative Update for Windows 10 Version 1909 for ARM64-based Systems (KB4541335)",
 		"2020-06 Cumulative Update for Windows 10 Version 1909 for ARM64-based Systems (KB4567512)",
