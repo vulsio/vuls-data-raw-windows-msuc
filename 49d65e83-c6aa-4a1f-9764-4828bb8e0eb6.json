@@ -33,12 +33,12 @@
 			"update_id": "136693a0-9624-4bce-b3fa-78e55fe6f3e5"
 		},
 		{
-			"title": "2020-04 Cumulative Update for Windows 10 Version 1903 for x64-based Systems (KB4550945)",
-			"update_id": "1021e9ca-98cb-4ec0-9696-4e3a8f63aa1c"
-		},
-		{
 			"title": "2020-10 Cumulative Update Preview for Windows 10 Version 1903 for x64-based Systems (KB4580386)",
 			"update_id": "6495b495-5ad5-4ade-8d16-0223c271a78e"
+		},
+		{
+			"title": "2020-04 Cumulative Update for Windows 10 Version 1903 for x64-based Systems (KB4550945)",
+			"update_id": "1021e9ca-98cb-4ec0-9696-4e3a8f63aa1c"
 		},
 		{
 			"title": "2020-06 Cumulative Update for Windows 10 Version 1903 for x64-based Systems (KB4567512)",
@@ -72,10 +72,10 @@
 		"2019-10 Cumulative Update for Windows 10 Version 1903 for x64-based Systems (KB4522355)",
 		"2019-06 Cumulative Update for Windows 10 Version 1903 for x64-based Systems (KB4501375)",
 		"2019-05 Cumulative Update for Windows 10 Version 1903 for x64-based Systems (KB4497935)",
-		"2019-05 Cumulative Update for Windows 10 Version 1903 for x64-based Systems (KB4505057)",
 		"2019-04 Cumulative Update for Windows 10 Version 1903 for x64-based Systems (KB4497093)",
-		"2019-11 Cumulative Update for Windows 10 Version 1903 for x64-based Systems (KB4524570)",
+		"2019-05 Cumulative Update for Windows 10 Version 1903 for x64-based Systems (KB4505057)",
 		"2019-10 Cumulative Update for Windows 10 Version 1903 for x64-based Systems (KB4517389)",
+		"2019-11 Cumulative Update for Windows 10 Version 1903 for x64-based Systems (KB4524570)",
 		"2019-07 Cumulative Update for Windows 10 Version 1903 for x64-based Systems (KB4505903)"
 	],
 	"reboot_behavior": "Can request restart",

@@ -13,48 +13,48 @@
 	"support_url": "https://support.microsoft.com/help/4577062",
 	"supersededby": [
 		{
-			"title": "2020-10 Cumulative Update for Windows Server, version 1903 for x64-based Systems (KB4577671)",
-			"update_id": "c42dc613-fb5b-4c45-925c-4f508584a635"
-		},
-		{
 			"title": "2020-11 Cumulative Update for Windows Server, version 1903 for x64-based Systems (KB4586786)",
 			"update_id": "b8ff0759-7b98-4be2-8eee-732c475a8a3a"
 		},
 		{
-			"title": "2020-10 Cumulative Update Preview for Windows Server, version 1903 for x64-based Systems (KB4580386)",
-			"update_id": "05adbfc7-007c-4cfe-9efc-c49538fb96e6"
+			"title": "2020-10 Cumulative Update for Windows Server, version 1903 for x64-based Systems (KB4577671)",
+			"update_id": "c42dc613-fb5b-4c45-925c-4f508584a635"
 		},
 		{
 			"title": "2020-11 Cumulative Update Preview for Windows Server, version 1903 for x64-based Systems (KB4586819)",
 			"update_id": "51912a08-0b7e-4a3c-a980-e332dee9f037"
 		},
 		{
-			"title": "2020-11 Cumulative Update for Windows Server, version 1903 for x64-based Systems (KB4594443)",
-			"update_id": "d5046086-e04f-4bb6-8eb8-e1fd48705059"
+			"title": "2020-10 Cumulative Update Preview for Windows Server, version 1903 for x64-based Systems (KB4580386)",
+			"update_id": "05adbfc7-007c-4cfe-9efc-c49538fb96e6"
 		},
 		{
 			"title": "2020-12 Cumulative Update for Windows Server, version 1903 for x64-based Systems (KB4592449)",
 			"update_id": "f85d10fe-31c6-4f31-a10d-cd912341b379"
+		},
+		{
+			"title": "2020-11 Cumulative Update for Windows Server, version 1903 for x64-based Systems (KB4594443)",
+			"update_id": "d5046086-e04f-4bb6-8eb8-e1fd48705059"
 		}
 	],
 	"supersedes": [
-		"2020-03 Cumulative Update for Windows Server, version 1903 for x64-based Systems (KB4554364)",
 		"2019-10 Cumulative Update for Windows Server, version 1903 for x64-based Systems (KB4517389)",
+		"2020-03 Cumulative Update for Windows Server, version 1903 for x64-based Systems (KB4554364)",
 		"2019-10 Cumulative Update for Windows Server, version 1903 for x64-based Systems (KB4522355)",
-		"2019-05 Cumulative Update for Windows Server, version 1903 for x64-based Systems (KB4505057)",
 		"2019-06 Cumulative Update for Windows Server, version 1903 for x64-based Systems (KB4501375)",
 		"2019-05 Cumulative Update for Windows Server, version 1903 for x64-based Systems (KB4497935)",
+		"2019-05 Cumulative Update for Windows Server, version 1903 for x64-based Systems (KB4505057)",
 		"2019-07 Cumulative Update for Windows Server, version 1903 for x64-based Systems (KB4505903)",
-		"2020-06 Cumulative Update for Windows Server, version 1903 for x64-based Systems (KB4567512)",
-		"2020-03 Cumulative Update for Windows Server, version 1903 for x64-based Systems (KB4541335)",
 		"2019-09 Cumulative Update for Windows Server, version 1903 for x64-based Systems (KB4517211)",
+		"2020-06 Cumulative Update for Windows Server, version 1903 for x64-based Systems (KB4567512)",
 		"2019-04 Cumulative Update for Windows Server, version 1903 for x64-based Systems (KB4497093)",
+		"2020-03 Cumulative Update for Windows Server, version 1903 for x64-based Systems (KB4541335)",
 		"2019-08 Cumulative Update for Windows Server, version 1903 for x64-based Systems (KB4512941)",
 		"2019-11 Cumulative Update for Windows Server, version 1903 for x64-based Systems (KB4524570)",
 		"2020-01 Cumulative Update for Windows Server, version 1903 for x64-based Systems (KB4532695)",
 		"2020-02 Cumulative Update for Windows Server, version 1903 for x64-based Systems (KB4535996)",
-		"2020-07 Cumulative Update Preview for Windows Server, version 1903 for x64-based Systems (KB4559004)",
 		"2020-08 Cumulative Update Preview for Windows Server, version 1903 for x64-based Systems (KB4566116)",
+		"2020-07 Cumulative Update Preview for Windows Server, version 1903 for x64-based Systems (KB4559004)",
 		"2020-04 Cumulative Update for Windows Server, version 1903 for x64-based Systems (KB4550945)"
 	],
 	"reboot_behavior": "Can request restart",
