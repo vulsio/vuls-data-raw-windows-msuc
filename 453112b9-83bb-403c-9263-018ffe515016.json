@@ -17,6 +17,10 @@
 			"update_id": "4d0159eb-b4da-455b-ab33-36394553f031"
 		},
 		{
+			"title": "2024-09 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5043064)",
+			"update_id": "60266751-937b-437b-b90d-c2d6cb6cde64"
+		},
+		{
 			"title": "2024-11 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5046613)",
 			"update_id": "875a0e6d-9935-4c7c-825e-42a42ded2671"
 		},
@@ -29,20 +33,16 @@
 			"update_id": "701963a4-9265-47fa-b4e1-994ef948b5dc"
 		},
 		{
-			"title": "2024-09 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5043064)",
-			"update_id": "60266751-937b-437b-b90d-c2d6cb6cde64"
-		},
-		{
 			"title": "2025-01 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5049981)",
 			"update_id": "58b62b75-ba93-4e33-9b72-fbd9c80247f6"
 		},
 		{
-			"title": "2024-10 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5044273)",
-			"update_id": "81b9e537-daad-4b3c-8d6c-ec9a9a109f45"
-		},
-		{
 			"title": "2024-03 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5035845)",
 			"update_id": "7e8a4d88-e593-4cc1-ae6c-06c5c52ef989"
+		},
+		{
+			"title": "2024-10 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5044273)",
+			"update_id": "81b9e537-daad-4b3c-8d6c-ec9a9a109f45"
 		},
 		{
 			"title": "2024-01 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5034122)",
@@ -57,12 +57,12 @@
 			"update_id": "ab9f0f51-c7bb-4eb0-acb5-35923a602e2c"
 		},
 		{
-			"title": "2023-10 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5031356)",
-			"update_id": "f6d86262-106e-4852-8438-a51b8fedd757"
-		},
-		{
 			"title": "2024-02 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5034763)",
 			"update_id": "a6e81b35-eec2-4d8a-a4a3-00b8a616bcdd"
+		},
+		{
+			"title": "2023-10 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5031356)",
+			"update_id": "f6d86262-106e-4852-8438-a51b8fedd757"
 		},
 		{
 			"title": "2023-11 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5032189)",
@@ -78,26 +78,26 @@
 		}
 	],
 	"supersedes": [
-		"2022-09 Cumulative Update Preview for Windows 10 Version 21H2 for x64-based Systems (KB5017380)",
 		"2021-11 Cumulative Update Preview for Windows 10 Version 21H2 for x64-based Systems (KB5007253)",
 		"2022-01 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5010793)",
+		"2022-09 Cumulative Update Preview for Windows 10 Version 21H2 for x64-based Systems (KB5017380)",
 		"2022-08 Cumulative Update Preview for Windows 10 Version 21H2 for x64-based Systems (KB5016688)",
 		"2022-01 Cumulative Update Preview for Windows 10 Version 21H2 for x64-based Systems (KB5009596)",
-		"2022-07 Cumulative Update Preview for Windows 10 Version 21H2 for x64-based Systems (KB5015878)",
 		"2022-06 Cumulative Update Preview for Windows 10 Version 21H2 for x64-based Systems (KB5014666)",
+		"2022-07 Cumulative Update Preview for Windows 10 Version 21H2 for x64-based Systems (KB5015878)",
 		"2023-03 Cumulative Update Preview for Windows 10 Version 21H2 for x64-based Systems (KB5023773)",
 		"2023-06 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5027215)",
-		"2023-03 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5023696)",
 		"2023-04 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5025221)",
+		"2023-03 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5023696)",
 		"2023-05 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5026361)",
-		"2023-08 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5029244)",
 		"2023-07 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5028166)",
+		"2023-08 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5029244)",
 		"2022-03 Cumulative Update Preview for Windows 10 Version 21H2 for x64-based Systems (KB5011543)",
 		"2022-02 Cumulative Update Preview for Windows 10 Version 21H2 for x64-based Systems (KB5010415)",
 		"2022-04 Cumulative Update Preview for Windows 10 Version 21H2 for x64-based Systems (KB5011831)",
-		"2022-05 Cumulative Update Preview for Windows 10 Version 21H2 for x64-based Systems (KB5014023)",
 		"2022-10 Cumulative Update Preview for Windows 10 Version 21H2 for x64-based Systems (KB5018482)",
 		"2022-10 Cumulative Update for Windows 10 Version 21H2 for x64-based Systems (KB5020953)",
+		"2022-05 Cumulative Update Preview for Windows 10 Version 21H2 for x64-based Systems (KB5014023)",
 		"2022-11 Cumulative Update Preview for Windows 10 Version 21H2 for x64-based Systems (KB5020030)",
 		"2023-01 Cumulative Update Preview for Windows 10 Version 21H2 for x64-based Systems (KB5019275)",
 		"2023-02 Cumulative Update Preview for Windows 10 Version 21H2 for x64-based Systems (KB5022906)",
