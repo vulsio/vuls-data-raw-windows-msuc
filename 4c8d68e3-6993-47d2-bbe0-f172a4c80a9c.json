@@ -25,12 +25,12 @@
 			"update_id": "1f12b30f-ff70-4add-bb6e-f4f4bef2e1c7"
 		},
 		{
-			"title": "2022-07 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB5015878)",
-			"update_id": "ff9034de-6475-4eed-9006-2c89d65c3730"
-		},
-		{
 			"title": "2022-06 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB5014666)",
 			"update_id": "2130a293-132c-4dd4-bfe1-64d6c9792990"
+		},
+		{
+			"title": "2022-07 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB5015878)",
+			"update_id": "ff9034de-6475-4eed-9006-2c89d65c3730"
 		}
 	],
 	"supersedes": [
@@ -50,11 +50,11 @@
 		"2021-06 Cumulative Update for Windows Server, version 20H2 for x64-based Systems (KB5004760)",
 		"2021-03 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB5000842)",
 		"2021-08 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB5005101)",
-		"2021-09 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB5005611)",
-		"2022-01 Cumulative Update for Windows Server, version 20H2 for x64-based Systems (KB5010793)",
 		"2022-02 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB5010415)",
-		"2022-03 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB5011543)",
+		"2021-09 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB5005611)",
 		"2021-10 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB5006738)",
+		"2022-01 Cumulative Update for Windows Server, version 20H2 for x64-based Systems (KB5010793)",
+		"2022-03 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB5011543)",
 		"2022-04 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB5011831)",
 		"2021-11 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB5007253)",
 		"2022-01 Cumulative Update Preview for Windows Server, version 20H2 for x64-based Systems (KB5009596)"
