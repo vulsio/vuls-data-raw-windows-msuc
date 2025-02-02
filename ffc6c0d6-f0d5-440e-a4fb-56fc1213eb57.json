@@ -29,10 +29,6 @@
 			"update_id": "822b5a19-e890-4e29-96da-921bc9b563c3"
 		},
 		{
-			"title": "2022-09 Cumulative Update Preview for Windows 10 Version 21H1 for x64-based Systems (KB5017380)",
-			"update_id": "245516e3-dfe9-42d3-9db7-8782e16a8a80"
-		},
-		{
 			"title": "2022-11 Cumulative Update for Windows 10 Version 21H1 for x64-based Systems (KB5019959)",
 			"update_id": "45900d11-0824-4820-bc42-fd4b3b5d9267"
 		},
@@ -41,12 +37,16 @@
 			"update_id": "16b2e9ff-3cee-498d-90bc-a82009592806"
 		},
 		{
+			"title": "2022-04 Cumulative Update Preview for Windows 10 Version 21H1 for x64-based Systems (KB5011831)",
+			"update_id": "323915ba-3a92-49a4-8a84-0cd81fb2c34f"
+		},
+		{
 			"title": "2022-10 Cumulative Update for Windows 10 Version 21H1 for x64-based Systems (KB5020953)",
 			"update_id": "a1745cf6-69b9-4541-ad08-aed51d014703"
 		},
 		{
-			"title": "2022-04 Cumulative Update Preview for Windows 10 Version 21H1 for x64-based Systems (KB5011831)",
-			"update_id": "323915ba-3a92-49a4-8a84-0cd81fb2c34f"
+			"title": "2022-09 Cumulative Update Preview for Windows 10 Version 21H1 for x64-based Systems (KB5017380)",
+			"update_id": "245516e3-dfe9-42d3-9db7-8782e16a8a80"
 		},
 		{
 			"title": "2022-05 Cumulative Update Preview for Windows 10 Version 21H1 for x64-based Systems (KB5014023)",
@@ -75,13 +75,13 @@
 	],
 	"supersedes": [
 		"2021-05 Cumulative Update Preview for Windows 10 Version 21H1 for x64-based Systems (KB5003214)",
-		"2021-08 Cumulative Update Preview for Windows 10 Version 21H1 for x64-based Systems (KB5005101)",
 		"2021-06 Cumulative Update for Windows 10 Version 21H1 for x64-based Systems (KB5004476)",
+		"2021-08 Cumulative Update Preview for Windows 10 Version 21H1 for x64-based Systems (KB5005101)",
 		"2021-06 Cumulative Update for Windows 10 Version 21H1 for x64-based Systems (KB5004760)",
 		"2021-07 Cumulative Update Preview for Windows 10 Version 21H1 for x64-based Systems (KB5004296)",
 		"2021-11 Cumulative Update Preview for Windows 10 Version 21H1 for x64-based Systems (KB5007253)",
-		"2022-01 Cumulative Update for Windows 10 Version 21H1 for x64-based Systems (KB5010793)",
 		"2021-09 Cumulative Update Preview for Windows 10 Version 21H1 for x64-based Systems (KB5005611)",
+		"2022-01 Cumulative Update for Windows 10 Version 21H1 for x64-based Systems (KB5010793)",
 		"2021-10 Cumulative Update Preview for Windows 10 Version 21H1 for x64-based Systems (KB5006738)"
 	],
 	"reboot_behavior": "Can request restart",

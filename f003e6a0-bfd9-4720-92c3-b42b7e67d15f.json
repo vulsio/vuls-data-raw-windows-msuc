@@ -13,12 +13,12 @@
 	"support_url": "https://support.microsoft.com/help/4594440",
 	"supersededby": [
 		{
-			"title": "2021-11 Dynamic Cumulative Update for Windows 10 Version 2004 for x64-based Systems (KB5007186)",
-			"update_id": "f67717c8-5d35-4afd-a860-022a2a4c34d6"
-		},
-		{
 			"title": "2021-12 Dynamic Cumulative Update for Windows 10 Version 2004 for x64-based Systems (KB5008212)",
 			"update_id": "d267bdc0-033b-45c7-a32e-030ace20c29a"
+		},
+		{
+			"title": "2021-11 Dynamic Cumulative Update for Windows 10 Version 2004 for x64-based Systems (KB5007186)",
+			"update_id": "f67717c8-5d35-4afd-a860-022a2a4c34d6"
 		}
 	],
 	"reboot_behavior": "Can request restart",
