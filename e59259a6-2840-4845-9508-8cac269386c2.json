@@ -21,12 +21,12 @@
 			"update_id": "4c93393c-81cf-4036-9ecf-79b6e4a2c34e"
 		},
 		{
-			"title": "2025-01 Cumulative Update for Windows 10 Version 21H2 for ARM64-based Systems (KB5049981)",
-			"update_id": "0e55736d-fa8f-462f-9421-2ab706176c20"
-		},
-		{
 			"title": "2022-09 Cumulative Update Preview for Windows 10 Version 21H2 for ARM64-based Systems (KB5017380)",
 			"update_id": "1059f22f-691f-4828-92f5-a5db7470e011"
+		},
+		{
+			"title": "2025-01 Cumulative Update for Windows 10 Version 21H2 for ARM64-based Systems (KB5049981)",
+			"update_id": "0e55736d-fa8f-462f-9421-2ab706176c20"
 		},
 		{
 			"title": "2024-06 Cumulative Update for Windows 10 Version 21H2 for ARM64-based Systems (KB5039211)",
@@ -45,20 +45,16 @@
 			"update_id": "0d747c11-6525-482d-a56e-28cbd241ebcd"
 		},
 		{
-			"title": "2022-10 Cumulative Update for Windows 10 Version 21H2 for ARM64-based Systems (KB5020435)",
-			"update_id": "4fdea918-bb73-4131-b243-517f78e4d53d"
-		},
-		{
 			"title": "2023-12 Cumulative Update for Windows 10 Version 21H2 for ARM64-based Systems (KB5033372)",
 			"update_id": "52e99b75-081e-45e8-bfd0-06c253690c68"
 		},
 		{
-			"title": "2024-03 Cumulative Update for Windows 10 Version 21H2 for ARM64-based Systems (KB5035845)",
-			"update_id": "506a4235-f51e-4131-9d77-5c8d2b74f675"
+			"title": "2022-10 Cumulative Update for Windows 10 Version 21H2 for ARM64-based Systems (KB5020435)",
+			"update_id": "4fdea918-bb73-4131-b243-517f78e4d53d"
 		},
 		{
-			"title": "2024-09 Cumulative Update for Windows 10 Version 21H2 for ARM64-based Systems (KB5043064)",
-			"update_id": "6eb420a1-11af-431b-b0b1-813f77defdb7"
+			"title": "2024-03 Cumulative Update for Windows 10 Version 21H2 for ARM64-based Systems (KB5035845)",
+			"update_id": "506a4235-f51e-4131-9d77-5c8d2b74f675"
 		},
 		{
 			"title": "2023-11 Cumulative Update for Windows 10 Version 21H2 for ARM64-based Systems (KB5032189)",
@@ -69,16 +65,16 @@
 			"update_id": "6ce7eda0-73f1-4113-94f4-917b97784dca"
 		},
 		{
+			"title": "2024-09 Cumulative Update for Windows 10 Version 21H2 for ARM64-based Systems (KB5043064)",
+			"update_id": "6eb420a1-11af-431b-b0b1-813f77defdb7"
+		},
+		{
 			"title": "2024-10 Cumulative Update for Windows 10 Version 21H2 for ARM64-based Systems (KB5044273)",
 			"update_id": "805510ba-978c-450c-bffb-3ca25d9de0f3"
 		},
 		{
 			"title": "2022-10 Cumulative Update for Windows 10 Version 21H2 for ARM64-based Systems (KB5020953)",
 			"update_id": "7234382f-48ed-42ad-b1d3-3abaaf31e4c9"
-		},
-		{
-			"title": "2024-07 Cumulative Update for Windows 10 Version 21H2 for ARM64-based Systems (KB5040427)",
-			"update_id": "74c38981-6b38-415f-9e9d-dda4e559cda6"
 		},
 		{
 			"title": "2024-08 Cumulative Update for Windows 10 Version 21H2 for ARM64-based Systems (KB5041580)",
@@ -91,6 +87,10 @@
 		{
 			"title": "2022-07 Cumulative Update Preview for Windows 10 Version 21H2 for ARM64-based Systems (KB5015878)",
 			"update_id": "967d6fb0-aeea-4651-b00b-117ba08fd22f"
+		},
+		{
+			"title": "2024-07 Cumulative Update for Windows 10 Version 21H2 for ARM64-based Systems (KB5040427)",
+			"update_id": "74c38981-6b38-415f-9e9d-dda4e559cda6"
 		},
 		{
 			"title": "2024-11 Cumulative Update for Windows 10 Version 21H2 for ARM64-based Systems (KB5046613)",
@@ -113,12 +113,12 @@
 			"update_id": "9e6a1eb6-e906-4381-b20d-1d2f796590cb"
 		},
 		{
-			"title": "2022-08 Cumulative Update Preview for Windows 10 Version 21H2 for ARM64-based Systems (KB5016688)",
-			"update_id": "b198f06f-cc09-4880-b614-224f002860b2"
-		},
-		{
 			"title": "2023-07 Cumulative Update for Windows 10 Version 21H2 for ARM64-based Systems (KB5028166)",
 			"update_id": "9d0b4042-f933-4c09-9ba4-99e21d3991b3"
+		},
+		{
+			"title": "2022-08 Cumulative Update Preview for Windows 10 Version 21H2 for ARM64-based Systems (KB5016688)",
+			"update_id": "b198f06f-cc09-4880-b614-224f002860b2"
 		},
 		{
 			"title": "2022-05 Cumulative Update Preview for Windows 10 Version 21H2 for ARM64-based Systems (KB5014023)",
