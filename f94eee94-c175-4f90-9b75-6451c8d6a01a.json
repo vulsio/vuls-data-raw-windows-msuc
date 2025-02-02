@@ -29,12 +29,12 @@
 			"update_id": "80ba4182-a749-4422-92cb-1a7107fc3bb5"
 		},
 		{
-			"title": "2019-04 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4493440)",
-			"update_id": "34fca056-368c-4b12-a833-fb62f4b9fbc6"
-		},
-		{
 			"title": "2018-11 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4467681)",
 			"update_id": "523ad1d9-7234-4d03-80f6-4d46276d77af"
+		},
+		{
+			"title": "2019-04 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4493440)",
+			"update_id": "34fca056-368c-4b12-a833-fb62f4b9fbc6"
 		},
 		{
 			"title": "2019-03 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4489890)",
@@ -63,11 +63,11 @@
 	],
 	"supersedes": [
 		"2018-01 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4073290)",
+		"2017-11 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4051963)",
+		"2018-03 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4089848)",
 		"2018-03 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4090913)",
 		"2018-04 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4093105)",
-		"2017-11 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4051963)",
-		"2018-01 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4058258)",
-		"2018-03 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4089848)"
+		"2018-01 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4058258)"
 	],
 	"reboot_behavior": "Can request restart",
 	"user_input": "No",

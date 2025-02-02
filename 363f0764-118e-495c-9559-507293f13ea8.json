@@ -13,10 +13,6 @@
 	"support_url": "https://support.microsoft.com/help/4090913",
 	"supersededby": [
 		{
-			"title": "2019-03 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4489890)",
-			"update_id": "1bca8707-d382-456f-ba2b-23fb12577f82"
-		},
-		{
 			"title": "2019-05 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4499147)",
 			"update_id": "0bc988d7-91cc-4bb8-9522-87ee497309c0"
 		},
@@ -25,8 +21,8 @@
 			"update_id": "3ec63535-48be-458f-8901-ceb3dd92f535"
 		},
 		{
-			"title": "2020-01 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4534318)",
-			"update_id": "3a703038-3db8-4eb5-aa34-3ef45fa4612b"
+			"title": "2019-03 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4489890)",
+			"update_id": "1bca8707-d382-456f-ba2b-23fb12577f82"
 		},
 		{
 			"title": "2020-10 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4580328)",
@@ -37,6 +33,14 @@
 			"update_id": "0b907f24-cd4c-43f8-a2bc-590d03460337"
 		},
 		{
+			"title": "2020-01 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4534318)",
+			"update_id": "3a703038-3db8-4eb5-aa34-3ef45fa4612b"
+		},
+		{
+			"title": "2018-09 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4457136)",
+			"update_id": "075692b7-a7a8-4fd3-92c1-f788e35596f4"
+		},
+		{
 			"title": "2020-06 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4567515)",
 			"update_id": "313bef7d-0c66-4846-a801-1e2dc87b6c19"
 		},
@@ -45,28 +49,16 @@
 			"update_id": "42938f97-d4d7-45d9-b911-fa318e74349d"
 		},
 		{
-			"title": "2018-09 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4457136)",
-			"update_id": "075692b7-a7a8-4fd3-92c1-f788e35596f4"
-		},
-		{
 			"title": "2019-01 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4480967)",
 			"update_id": "582de67e-8f44-4282-a11c-ccd90a97eacc"
 		},
 		{
-			"title": "2019-04 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4493440)",
-			"update_id": "3f26dffb-b9d6-41a7-99a6-15d3fdbe7ad3"
+			"title": "2019-07 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4507465)",
+			"update_id": "4a60be07-da5a-4870-a124-3aadf642dc1e"
 		},
 		{
 			"title": "2018-09 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4464217)",
 			"update_id": "591ef4db-96ac-46ae-9efe-b8866cdcf448"
-		},
-		{
-			"title": "2018-08 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4343893)",
-			"update_id": "6374e079-766f-42a3-832f-f81702c01fb5"
-		},
-		{
-			"title": "2019-07 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4507465)",
-			"update_id": "4a60be07-da5a-4870-a124-3aadf642dc1e"
 		},
 		{
 			"title": "2019-06 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4509477)",
@@ -77,8 +69,16 @@
 			"update_id": "6f975057-cd2f-4b14-b6f2-fe91bbdb033f"
 		},
 		{
+			"title": "2019-04 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4493440)",
+			"update_id": "3f26dffb-b9d6-41a7-99a6-15d3fdbe7ad3"
+		},
+		{
 			"title": "2018-03 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4089848)",
 			"update_id": "74a6e65f-99f0-4293-ad82-31a32ab7e79a"
+		},
+		{
+			"title": "2018-08 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4343893)",
+			"update_id": "6374e079-766f-42a3-832f-f81702c01fb5"
 		},
 		{
 			"title": "2019-02 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4487021)",
@@ -97,16 +97,16 @@
 			"update_id": "b7adb552-d615-4144-a8f3-00b7c0c2e28a"
 		},
 		{
+			"title": "2020-09 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4577041)",
+			"update_id": "c93b4599-9f4b-4e80-98c3-2ff5e1b559c6"
+		},
+		{
 			"title": "2020-03 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4554342)",
 			"update_id": "c8df41f8-86b1-49a8-bf55-03be6191d45e"
 		},
 		{
 			"title": "2020-07 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4565508)",
 			"update_id": "cfc54a72-53c6-4665-a31d-58a5fa4e4352"
-		},
-		{
-			"title": "2020-09 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4577041)",
-			"update_id": "c93b4599-9f4b-4e80-98c3-2ff5e1b559c6"
 		},
 		{
 			"title": "2019-06 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4503281)",
@@ -121,12 +121,12 @@
 			"update_id": "dbb27efc-2a03-407e-bdb4-a05e91e7bc53"
 		},
 		{
-			"title": "2018-07 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4345420)",
-			"update_id": "f07c24fd-d6ba-4bd8-97c4-f058a492cf45"
-		},
-		{
 			"title": "2019-10 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4520006)",
 			"update_id": "fc2c2a77-86f0-4a4d-b96a-f60724b833b6"
+		},
+		{
+			"title": "2018-07 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4345420)",
+			"update_id": "f07c24fd-d6ba-4bd8-97c4-f058a492cf45"
 		},
 		{
 			"title": "2019-05 Cumulative Update for Windows 10 Version 1709 for ARM64-based Systems (KB4505062)",
