@@ -13,20 +13,20 @@
 	"support_url": "https://support.microsoft.com/help/5011543",
 	"supersededby": [
 		{
-			"title": "2022-08 Cumulative Update for Windows 10 Version 20H2 for x86-based Systems (KB5016616)",
-			"update_id": "19312fba-febf-468e-99eb-4b92bee47422"
+			"title": "2022-04 Cumulative Update Preview for Windows 10 Version 20H2 for x86-based Systems (KB5011831)",
+			"update_id": "0af85d6a-bd16-45f9-8f9f-740967b42a1c"
 		},
 		{
 			"title": "2022-07 Cumulative Update Preview for Windows 10 Version 20H2 for x86-based Systems (KB5015878)",
 			"update_id": "02890e92-654c-4e33-b2fa-6efcdfc0c80e"
 		},
 		{
-			"title": "2022-05 Cumulative Update Preview for Windows 10 Version 20H2 for x86-based Systems (KB5014023)",
-			"update_id": "88f1608e-fb20-4c42-b58c-5753e74fece5"
+			"title": "2022-08 Cumulative Update for Windows 10 Version 20H2 for x86-based Systems (KB5016616)",
+			"update_id": "19312fba-febf-468e-99eb-4b92bee47422"
 		},
 		{
-			"title": "2022-04 Cumulative Update Preview for Windows 10 Version 20H2 for x86-based Systems (KB5011831)",
-			"update_id": "0af85d6a-bd16-45f9-8f9f-740967b42a1c"
+			"title": "2022-05 Cumulative Update Preview for Windows 10 Version 20H2 for x86-based Systems (KB5014023)",
+			"update_id": "88f1608e-fb20-4c42-b58c-5753e74fece5"
 		},
 		{
 			"title": "2023-01 Cumulative Update Preview for Windows 10 Version 20H2 for x86-based Systems (KB5019275)",
@@ -57,6 +57,10 @@
 			"update_id": "b5fdc6f1-f04c-4b81-bc5a-959c41d19f88"
 		},
 		{
+			"title": "2022-10 Cumulative Update for Windows 10 Version 20H2 for x86-based Systems (KB5020953)",
+			"update_id": "cf0470e3-7fdf-425e-bec4-a6aaf7124eac"
+		},
+		{
 			"title": "2023-03 Cumulative Update Preview for Windows 10 Version 20H2 for x86-based Systems (KB5023773)",
 			"update_id": "99325e9b-3ef6-49f3-b5ca-c7a3c4b097c5"
 		},
@@ -65,20 +69,16 @@
 			"update_id": "c4c23e28-004c-469c-88d3-e361bc04613a"
 		},
 		{
-			"title": "2022-10 Cumulative Update for Windows 10 Version 20H2 for x86-based Systems (KB5020953)",
-			"update_id": "cf0470e3-7fdf-425e-bec4-a6aaf7124eac"
-		},
-		{
-			"title": "2022-04 Cumulative Update for Windows 10 Version 20H2 for x86-based Systems (KB5012599)",
-			"update_id": "d9b56e25-0dbf-4655-9ddf-409ae8fe8c77"
-		},
-		{
 			"title": "2022-05 Cumulative Update for Windows 10 Version 20H2 for x86-based Systems (KB5013942)",
 			"update_id": "d365a863-a2b8-449c-a208-f3d166b2bca5"
 		},
 		{
 			"title": "2022-10 Cumulative Update Preview for Windows 10 Version 20H2 for x86-based Systems (KB5018482)",
 			"update_id": "e9bea586-2d81-4a0b-a585-2b96d5bc761e"
+		},
+		{
+			"title": "2022-04 Cumulative Update for Windows 10 Version 20H2 for x86-based Systems (KB5012599)",
+			"update_id": "d9b56e25-0dbf-4655-9ddf-409ae8fe8c77"
 		},
 		{
 			"title": "2022-08 Cumulative Update Preview for Windows 10 Version 20H2 for x86-based Systems (KB5016688)",
@@ -96,11 +96,11 @@
 	"supersedes": [
 		"2021-10 Cumulative Update Preview for Windows 10 Version 20H2 for x86-based Systems (KB5006738)",
 		"2021-07 Cumulative Update Preview for Windows 10 Version 20H2 for x86-based Systems (KB5004296)",
-		"2021-05 Cumulative Update Preview for Windows 10 Version 20H2 for x86-based Systems (KB5003214)",
 		"2021-04 Cumulative Update Preview for Windows 10 Version 20H2 for x86-based Systems (KB5001391)",
 		"2021-06 Cumulative Update for Windows 10 Version 20H2 for x86-based Systems (KB5004476)",
-		"2021-06 Cumulative Update for Windows 10 Version 20H2 for x86-based Systems (KB5004760)",
+		"2021-05 Cumulative Update Preview for Windows 10 Version 20H2 for x86-based Systems (KB5003214)",
 		"2021-11 Cumulative Update Preview for Windows 10 Version 20H2 for x86-based Systems (KB5007253)",
+		"2021-06 Cumulative Update for Windows 10 Version 20H2 for x86-based Systems (KB5004760)",
 		"2021-03 Cumulative Update Preview for Windows 10 Version 20H2 for x86-based Systems (KB5000842)",
 		"2021-03 Cumulative Update for Windows 10 Version 20H2 for x86-based Systems (KB5001649)",
 		"2021-02 Cumulative Update Preview for Windows 10 Version 20H2 for x86-based Systems (KB4601382)",
