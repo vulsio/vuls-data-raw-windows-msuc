@@ -13,28 +13,16 @@
 	"support_url": "https://support.microsoft.com/help/4586853",
 	"supersededby": [
 		{
-			"title": "2021-01 Cumulative Update Preview for Windows 10 Version 2004 for ARM64-based Systems (KB4598291)",
-			"update_id": "537983b4-9052-4f8b-8384-319464580b6a"
-		},
-		{
-			"title": "2021-02 Cumulative Update Preview for Windows 10 Version 2004 for ARM64-based Systems (KB4601382)",
-			"update_id": "6a3ffcc7-e874-4ab8-ae16-3dd49cbd5db0"
-		},
-		{
-			"title": "2021-06 Cumulative Update for Windows 10 Version 2004 for ARM64-based Systems (KB5004760)",
-			"update_id": "23f6ba01-49a3-473b-8079-58e694a911a3"
-		},
-		{
-			"title": "2021-12 Cumulative Update for Windows 10 Version 2004 for ARM64-based Systems (KB5008212)",
-			"update_id": "801a20bd-3e00-44d2-a5d2-cbb3d2000c59"
-		},
-		{
 			"title": "2021-04 Cumulative Update Preview for Windows 10 Version 2004 for ARM64-based Systems (KB5001391)",
 			"update_id": "1d395494-c5fd-463d-9294-74f9e2a22e0a"
 		},
 		{
 			"title": "2021-11 Cumulative Update for Windows 10 Version 2004 for ARM64-based Systems (KB5007186)",
 			"update_id": "42c13a3b-2d7e-488f-af0a-383488ce08a2"
+		},
+		{
+			"title": "2021-06 Cumulative Update for Windows 10 Version 2004 for ARM64-based Systems (KB5004760)",
+			"update_id": "23f6ba01-49a3-473b-8079-58e694a911a3"
 		},
 		{
 			"title": "2021-07 Cumulative Update Preview for Windows 10 Version 2004 for ARM64-based Systems (KB5004296)",
@@ -45,28 +33,36 @@
 			"update_id": "393dc2e6-ea16-4bd0-904c-46d370a774f5"
 		},
 		{
-			"title": "2021-06 Cumulative Update for Windows 10 Version 2004 for ARM64-based Systems (KB5004476)",
-			"update_id": "87ecb424-a487-4dec-a42f-92ecd83ab06c"
-		},
-		{
-			"title": "2021-03 Cumulative Update for Windows 10 Version 2004 for ARM64-based Systems (KB5001649)",
-			"update_id": "aabd6e90-bd9f-43a8-90b4-b31345c8646c"
-		},
-		{
-			"title": "2021-11 Cumulative Update Preview for Windows 10 Version 2004 for ARM64-based Systems (KB5007253)",
-			"update_id": "c5c8f595-cd14-48d8-a8a5-c0a86fd878b1"
-		},
-		{
-			"title": "2021-03 Cumulative Update for Windows 10 Version 2004 for ARM64-based Systems (KB5001567)",
-			"update_id": "dad01ab0-e196-43a3-9a71-b93ee97a9142"
+			"title": "2021-12 Cumulative Update for Windows 10 Version 2004 for ARM64-based Systems (KB5008212)",
+			"update_id": "801a20bd-3e00-44d2-a5d2-cbb3d2000c59"
 		},
 		{
 			"title": "2021-10 Cumulative Update Preview for Windows 10 Version 2004 for ARM64-based Systems (KB5006738)",
 			"update_id": "a3621a36-28e5-4a31-9b57-74453992c00c"
 		},
 		{
-			"title": "2021-08 Cumulative Update Preview for Windows 10 Version 2004 for ARM64-based Systems (KB5005101)",
-			"update_id": "e9dd5001-d36a-4aae-a7a0-891ff8603cb4"
+			"title": "2021-02 Cumulative Update Preview for Windows 10 Version 2004 for ARM64-based Systems (KB4601382)",
+			"update_id": "6a3ffcc7-e874-4ab8-ae16-3dd49cbd5db0"
+		},
+		{
+			"title": "2021-01 Cumulative Update Preview for Windows 10 Version 2004 for ARM64-based Systems (KB4598291)",
+			"update_id": "537983b4-9052-4f8b-8384-319464580b6a"
+		},
+		{
+			"title": "2021-06 Cumulative Update for Windows 10 Version 2004 for ARM64-based Systems (KB5004476)",
+			"update_id": "87ecb424-a487-4dec-a42f-92ecd83ab06c"
+		},
+		{
+			"title": "2021-03 Cumulative Update for Windows 10 Version 2004 for ARM64-based Systems (KB5001567)",
+			"update_id": "dad01ab0-e196-43a3-9a71-b93ee97a9142"
+		},
+		{
+			"title": "2021-11 Cumulative Update Preview for Windows 10 Version 2004 for ARM64-based Systems (KB5007253)",
+			"update_id": "c5c8f595-cd14-48d8-a8a5-c0a86fd878b1"
+		},
+		{
+			"title": "2021-03 Cumulative Update for Windows 10 Version 2004 for ARM64-based Systems (KB5001649)",
+			"update_id": "aabd6e90-bd9f-43a8-90b4-b31345c8646c"
 		},
 		{
 			"title": "2021-09 Cumulative Update Preview for Windows 10 Version 2004 for ARM64-based Systems (KB5005611)",
@@ -75,14 +71,18 @@
 		{
 			"title": "2021-03 Cumulative Update Preview for Windows 10 Version 2004 for ARM64-based Systems (KB5000842)",
 			"update_id": "edf164b1-585f-4cc5-8ea7-00d3811cdd89"
+		},
+		{
+			"title": "2021-08 Cumulative Update Preview for Windows 10 Version 2004 for ARM64-based Systems (KB5005101)",
+			"update_id": "e9dd5001-d36a-4aae-a7a0-891ff8603cb4"
 		}
 	],
 	"supersedes": [
+		"2020-06 Cumulative Update for Windows 10 Version 2004 for ARM64-based Systems (KB4567523)",
+		"2020-09 Cumulative Update Preview for Windows 10 Version 2004 for ARM64-based Systems (KB4577063)",
 		"2020-11 Cumulative Update for Windows 10 Version 2004 for ARM64-based Systems (KB4594440)",
 		"2020-08 Cumulative Update Preview for Windows 10 Version 2004 for ARM64-based Systems (KB4571744)",
 		"2020-07 Cumulative Update Preview for Windows 10 Version 2004 for ARM64-based Systems (KB4568831)",
-		"2020-09 Cumulative Update Preview for Windows 10 Version 2004 for ARM64-based Systems (KB4577063)",
-		"2020-06 Cumulative Update for Windows 10 Version 2004 for ARM64-based Systems (KB4567523)",
 		"2020-10 Cumulative Update Preview for Windows 10 Version 2004 for ARM64-based Systems (KB4580364)"
 	],
 	"reboot_behavior": "Can request restart",

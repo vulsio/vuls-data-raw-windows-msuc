@@ -18,8 +18,8 @@
 		}
 	],
 	"supersedes": [
-		"2020-11 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB4586853)",
 		"2021-08 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB5005101)",
+		"2020-11 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB4586853)",
 		"2021-04 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB5001391)",
 		"2020-10 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB4580364)",
 		"2021-10 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB5006738)",
@@ -33,9 +33,9 @@
 		"2020-11 Cumulative Update for Windows Server, version 2004 for ARM64-based Systems (KB4594440)",
 		"2020-06 Cumulative Update for Windows Server, version 2004 for ARM64-based Systems (KB4567523)",
 		"2021-06 Cumulative Update for Windows Server, version 2004 for ARM64-based Systems (KB5004476)",
+		"2020-08 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB4571744)",
 		"2021-06 Cumulative Update for Windows Server, version 2004 for ARM64-based Systems (KB5004760)",
 		"2020-07 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB4568831)",
-		"2020-08 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB4571744)",
 		"2021-01 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB4598291)",
 		"2021-09 Cumulative Update Preview for Windows Server, version 2004 for ARM64-based Systems (KB5005611)",
 		"2021-03 Cumulative Update for Windows Server, version 2004 for ARM64-based Systems (KB5001567)"
