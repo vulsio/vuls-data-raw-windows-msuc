@@ -13,28 +13,28 @@
 	"support_url": "https://support.microsoft.com/help/5000850",
 	"supersededby": [
 		{
+			"title": "2021-04 Cumulative Update Preview for Windows Server, version 1909 for x64-based Systems (KB5001396)",
+			"update_id": "76e78d2c-e5f1-4325-91a1-d48facacce03"
+		},
+		{
 			"title": "2021-05 Cumulative Update for Windows Server, version 1909 for x64-based Systems (KB5003169)",
 			"update_id": "100e483c-fdd0-4798-98ff-749598eb44dc"
 		},
 		{
 			"title": "2021-04 Cumulative Update for Windows Server, version 1909 for x64-based Systems (KB5001337)",
 			"update_id": "582c3e2f-89bd-452c-8cb3-8aadcd326971"
-		},
-		{
-			"title": "2021-04 Cumulative Update Preview for Windows Server, version 1909 for x64-based Systems (KB5001396)",
-			"update_id": "76e78d2c-e5f1-4325-91a1-d48facacce03"
 		}
 	],
 	"supersedes": [
+		"2020-07 Cumulative Update Preview for Windows Server, version 1909 for x64-based Systems (KB4559004)",
 		"2020-03 Cumulative Update for Windows Server, version 1909 for x64-based Systems (KB4541335)",
 		"2020-04 Cumulative Update for Windows Server, version 1909 for x64-based Systems (KB4550945)",
-		"2020-07 Cumulative Update Preview for Windows Server, version 1909 for x64-based Systems (KB4559004)",
 		"2020-10 Cumulative Update Preview for Windows Server, version 1909 for x64-based Systems (KB4580386)",
 		"2020-08 Cumulative Update Preview for Windows Server, version 1909 for x64-based Systems (KB4566116)",
 		"2020-09 Cumulative Update Preview for Windows Server, version 1909 for x64-based Systems (KB4577062)",
 		"2021-02 Cumulative Update Preview for Windows Server, version 1909 for x64-based Systems (KB4601380)",
-		"2020-11 Cumulative Update Preview for Windows Server, version 1909 for x64-based Systems (KB4586819)",
 		"2021-01 Cumulative Update Preview for Windows Server, version 1909 for x64-based Systems (KB4598298)",
+		"2020-11 Cumulative Update Preview for Windows Server, version 1909 for x64-based Systems (KB4586819)",
 		"2020-03 Cumulative Update for Windows Server, version 1909 for x64-based Systems (KB4554364)",
 		"2021-03 Cumulative Update for Windows Server, version 1909 for x64-based Systems (KB5001566)",
 		"2020-06 Cumulative Update for Windows Server, version 1909 for x64-based Systems (KB4567512)",

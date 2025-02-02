@@ -13,57 +13,57 @@
 	"support_url": "https://support.microsoft.com/help/4567512",
 	"supersededby": [
 		{
-			"title": "2020-12 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4592449)",
-			"update_id": "05f40647-3815-465b-8f23-977beb5f8143"
+			"title": "2020-08 Cumulative Update Preview for Windows 10 Version 1903 for x86-based Systems (KB4566116)",
+			"update_id": "a49023bf-bedd-4da7-b1b3-6ddb0495f05f"
 		},
 		{
-			"title": "2020-09 Cumulative Update Preview for Windows 10 Version 1903 for x86-based Systems (KB4577062)",
-			"update_id": "e90a4250-80df-4213-a1f1-32ea5c6d7cef"
-		},
-		{
-			"title": "2020-11 Cumulative Update Preview for Windows 10 Version 1903 for x86-based Systems (KB4586819)",
-			"update_id": "0e84b1a2-b9d3-4cc4-b0c0-8edb935820cc"
-		},
-		{
-			"title": "2020-07 Cumulative Update Preview for Windows 10 Version 1903 for x86-based Systems (KB4559004)",
-			"update_id": "ff336de5-2d84-4b82-8988-ff15927f2fd0"
-		},
-		{
-			"title": "2020-10 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4577671)",
-			"update_id": "60a68333-26ce-47b6-9254-89d69caedfdf"
+			"title": "2020-11 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4586786)",
+			"update_id": "c63524c8-3dfb-43a5-883c-84e6cc1822c8"
 		},
 		{
 			"title": "2020-10 Cumulative Update Preview for Windows 10 Version 1903 for x86-based Systems (KB4580386)",
 			"update_id": "1e8ae699-3e54-4420-b57a-d4eeae68cc93"
 		},
 		{
-			"title": "2020-08 Cumulative Update Preview for Windows 10 Version 1903 for x86-based Systems (KB4566116)",
-			"update_id": "a49023bf-bedd-4da7-b1b3-6ddb0495f05f"
-		},
-		{
 			"title": "2020-11 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4594443)",
 			"update_id": "6f0f2b21-d97b-4c59-9b13-b1facd419495"
 		},
 		{
-			"title": "2020-11 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4586786)",
-			"update_id": "c63524c8-3dfb-43a5-883c-84e6cc1822c8"
+			"title": "2020-11 Cumulative Update Preview for Windows 10 Version 1903 for x86-based Systems (KB4586819)",
+			"update_id": "0e84b1a2-b9d3-4cc4-b0c0-8edb935820cc"
+		},
+		{
+			"title": "2020-10 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4577671)",
+			"update_id": "60a68333-26ce-47b6-9254-89d69caedfdf"
+		},
+		{
+			"title": "2020-09 Cumulative Update Preview for Windows 10 Version 1903 for x86-based Systems (KB4577062)",
+			"update_id": "e90a4250-80df-4213-a1f1-32ea5c6d7cef"
+		},
+		{
+			"title": "2020-12 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4592449)",
+			"update_id": "05f40647-3815-465b-8f23-977beb5f8143"
+		},
+		{
+			"title": "2020-07 Cumulative Update Preview for Windows 10 Version 1903 for x86-based Systems (KB4559004)",
+			"update_id": "ff336de5-2d84-4b82-8988-ff15927f2fd0"
 		}
 	],
 	"supersedes": [
-		"2019-11 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4524570)",
-		"2019-07 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4505903)",
 		"2019-09 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4517211)",
 		"2019-06 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4501375)",
-		"2019-10 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4517389)",
-		"2020-03 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4554364)",
 		"2020-02 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4535996)",
-		"2019-10 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4522355)",
+		"2019-11 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4524570)",
+		"2019-07 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4505903)",
+		"2020-03 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4554364)",
 		"2019-04 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4497093)",
+		"2020-03 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4541335)",
+		"2019-10 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4517389)",
+		"2019-05 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4497935)",
+		"2019-10 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4522355)",
 		"2020-04 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4550945)",
 		"2020-01 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4532695)",
-		"2019-08 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4512941)",
-		"2020-03 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4541335)",
-		"2019-05 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4497935)"
+		"2019-08 Cumulative Update for Windows 10 Version 1903 for x86-based Systems (KB4512941)"
 	],
 	"reboot_behavior": "Can request restart",
 	"user_input": "No",
