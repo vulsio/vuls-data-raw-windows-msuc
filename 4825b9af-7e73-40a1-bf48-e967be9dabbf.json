@@ -13,10 +13,6 @@
 	"support_url": "https://support.microsoft.com/help/4550969",
 	"supersededby": [
 		{
-			"title": "2021-09 Cumulative Update Preview for Windows Server 2019 for x64-based Systems (KB5005625)",
-			"update_id": "0045e347-6f71-4a6a-8f3a-e8083a848358"
-		},
-		{
 			"title": "2024-04 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5036896)",
 			"update_id": "20029fe7-5352-4455-9882-c372986717c7"
 		},
@@ -27,6 +23,10 @@
 		{
 			"title": "2023-04 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5025229)",
 			"update_id": "118c03fd-df84-4106-aa00-6d0a8f403e53"
+		},
+		{
+			"title": "2021-09 Cumulative Update Preview for Windows Server 2019 for x64-based Systems (KB5005625)",
+			"update_id": "0045e347-6f71-4a6a-8f3a-e8083a848358"
 		},
 		{
 			"title": "2021-05 Cumulative Update Preview for Windows Server 2019 for x64-based Systems (KB5003217)",
@@ -53,6 +53,10 @@
 			"update_id": "2b85aeb7-c2eb-43e5-af3c-6e429e4e5ff1"
 		},
 		{
+			"title": "2022-06 Cumulative Update Preview for Windows Server 2019 for x64-based Systems (KB5014669)",
+			"update_id": "31eae539-d3fd-4ab0-a2fa-cc81b1cd2912"
+		},
+		{
 			"title": "2021-08 Cumulative Update Preview for Windows Server 2019 for x64-based Systems (KB5005102)",
 			"update_id": "3770f6b0-c0b1-47ca-a30e-8be5b087353e"
 		},
@@ -61,28 +65,24 @@
 			"update_id": "399f536e-2b6b-45b4-a502-54b9c2c67470"
 		},
 		{
-			"title": "2022-06 Cumulative Update Preview for Windows Server 2019 for x64-based Systems (KB5014669)",
-			"update_id": "31eae539-d3fd-4ab0-a2fa-cc81b1cd2912"
-		},
-		{
 			"title": "2023-10 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5031361)",
 			"update_id": "2cdde6c5-05a9-4a82-b5de-c5ffdcb5a618"
-		},
-		{
-			"title": "2024-10 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5044277)",
-			"update_id": "3b4d026d-8aab-4413-8ee0-5c2c8fb051d6"
-		},
-		{
-			"title": "2024-12 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5048661)",
-			"update_id": "3ca713c6-7550-4beb-86db-b9ba15e14216"
 		},
 		{
 			"title": "2024-07 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5040430)",
 			"update_id": "2f924040-2b57-44dd-8c2e-640dd0bd67d3"
 		},
 		{
+			"title": "2024-10 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5044277)",
+			"update_id": "3b4d026d-8aab-4413-8ee0-5c2c8fb051d6"
+		},
+		{
 			"title": "2020-07 Cumulative Update Preview for Windows Server 2019 for x64-based Systems (KB4559003)",
 			"update_id": "3f8717c1-b6fe-4660-80f7-c69311cc1496"
+		},
+		{
+			"title": "2024-12 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5048661)",
+			"update_id": "3ca713c6-7550-4beb-86db-b9ba15e14216"
 		},
 		{
 			"title": "2023-06 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5027222)",
@@ -109,16 +109,16 @@
 			"update_id": "447ff6c5-74a0-4dfd-a497-9039e898e010"
 		},
 		{
-			"title": "2022-12 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5021237)",
-			"update_id": "446bbb5d-743f-486c-94dc-61c3dce48e75"
-		},
-		{
 			"title": "2022-05 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5015018)",
 			"update_id": "4df17d58-afca-4ec1-ba46-7fca81705a13"
 		},
 		{
 			"title": "2021-10 Cumulative Update Preview for Windows Server 2019 for x64-based Systems (KB5006744)",
 			"update_id": "57c8804f-75f9-4f32-842c-80ac86bafccd"
+		},
+		{
+			"title": "2022-12 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5021237)",
+			"update_id": "446bbb5d-743f-486c-94dc-61c3dce48e75"
 		},
 		{
 			"title": "2022-09 Cumulative Update Preview for Windows Server 2019 for x64-based Systems (KB5017379)",
@@ -133,28 +133,28 @@
 			"update_id": "601c5cdb-59a2-46f9-b9bd-dff3b010870c"
 		},
 		{
-			"title": "2022-03 Cumulative Update Preview for Windows Server 2019 for x64-based Systems (KB5011551)",
-			"update_id": "65738558-236b-4b4e-8de6-3f89a719936c"
+			"title": "2022-09 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5017315)",
+			"update_id": "5d1c66f1-03d6-4847-8a12-550207334a2b"
 		},
 		{
 			"title": "2021-07 Cumulative Update Preview for Windows Server 2019 for x64-based Systems (KB5004308)",
 			"update_id": "5fdcc685-c886-4eed-9410-ad35e1b15a4b"
 		},
 		{
+			"title": "2022-03 Cumulative Update Preview for Windows Server 2019 for x64-based Systems (KB5011551)",
+			"update_id": "65738558-236b-4b4e-8de6-3f89a719936c"
+		},
+		{
 			"title": "2024-03 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5035849)",
 			"update_id": "69c36f19-90e0-49fb-b0f2-f317be093b59"
 		},
 		{
-			"title": "2022-09 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5017315)",
-			"update_id": "5d1c66f1-03d6-4847-8a12-550207334a2b"
+			"title": "2023-08 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5029247)",
+			"update_id": "6d29cb72-8868-470c-933e-4cbbf199f1be"
 		},
 		{
 			"title": "2020-11 Cumulative Update Preview for Windows Server 2019 for x64-based Systems (KB4586839)",
 			"update_id": "63ea08db-e6aa-4aa5-b64a-8ae72c0887c0"
-		},
-		{
-			"title": "2023-08 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5029247)",
-			"update_id": "6d29cb72-8868-470c-933e-4cbbf199f1be"
 		},
 		{
 			"title": "2023-02 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5022840)",
@@ -165,12 +165,16 @@
 			"update_id": "7a999669-7b28-4144-b660-ce20f2b04149"
 		},
 		{
+			"title": "2024-02 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5034768)",
+			"update_id": "713d1cad-2835-4c7c-992b-430e70c02293"
+		},
+		{
 			"title": "2021-02 Cumulative Update Preview for Windows Server 2019 for x64-based Systems (KB4601383)",
 			"update_id": "71995a55-5199-452a-8ab0-952681ac0f42"
 		},
 		{
-			"title": "2024-02 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5034768)",
-			"update_id": "713d1cad-2835-4c7c-992b-430e70c02293"
+			"title": "2021-01 Cumulative Update Preview for Windows Server 2019 for x64-based Systems (KB4598296)",
+			"update_id": "77489cc0-aeca-4503-bd93-0aec59fe3fcb"
 		},
 		{
 			"title": "2021-03 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5001638)",
@@ -181,10 +185,6 @@
 			"update_id": "8ab3d687-af30-414b-9620-7c7595789104"
 		},
 		{
-			"title": "2021-01 Cumulative Update Preview for Windows Server 2019 for x64-based Systems (KB4598296)",
-			"update_id": "77489cc0-aeca-4503-bd93-0aec59fe3fcb"
-		},
-		{
 			"title": "2024-09 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5043050)",
 			"update_id": "80cf6b33-8512-4d1e-8349-6dc6496656ca"
 		},
@@ -193,20 +193,20 @@
 			"update_id": "8f9290fd-18b8-4976-8add-5f3038c25657"
 		},
 		{
-			"title": "2020-06 Cumulative Update for Windows Server 2019 for x64-based Systems (KB4567513)",
-			"update_id": "a0d8b40b-0a2d-4be6-8a90-1850aa3b7dee"
+			"title": "2022-01 Cumulative Update Preview for Windows Server 2019 for x64-based Systems (KB5009616)",
+			"update_id": "9ca019d1-3ac1-468e-a0c6-abeb73efb864"
 		},
 		{
-			"title": "2022-07 Cumulative Update Preview for Windows Server 2019 for x64-based Systems (KB5015880)",
-			"update_id": "97a9fa3f-62b0-4d2e-a31a-2a8159cdd1a3"
+			"title": "2020-06 Cumulative Update for Windows Server 2019 for x64-based Systems (KB4567513)",
+			"update_id": "a0d8b40b-0a2d-4be6-8a90-1850aa3b7dee"
 		},
 		{
 			"title": "2021-03 Cumulative Update Preview for Windows Server 2019 for x64-based Systems (KB5000854)",
 			"update_id": "a328f9a9-f5c2-4734-a4ae-d01785fb4711"
 		},
 		{
-			"title": "2022-01 Cumulative Update Preview for Windows Server 2019 for x64-based Systems (KB5009616)",
-			"update_id": "9ca019d1-3ac1-468e-a0c6-abeb73efb864"
+			"title": "2022-07 Cumulative Update Preview for Windows Server 2019 for x64-based Systems (KB5015880)",
+			"update_id": "97a9fa3f-62b0-4d2e-a31a-2a8159cdd1a3"
 		},
 		{
 			"title": "2023-03 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5023702)",
@@ -261,12 +261,12 @@
 			"update_id": "cc80b5f2-fdae-4643-b546-c6d0b172c0a7"
 		},
 		{
-			"title": "2020-11 Cumulative Update for Windows Server 2019 for x64-based Systems (KB4594442)",
-			"update_id": "d177a07a-6834-4264-8c97-1f8d32ad9e65"
-		},
-		{
 			"title": "2020-10 Cumulative Update Preview for Windows Server 2019 for x64-based Systems (KB4580390)",
 			"update_id": "d4c8b6ac-dc65-499e-9158-9866cc02272c"
+		},
+		{
+			"title": "2020-11 Cumulative Update for Windows Server 2019 for x64-based Systems (KB4594442)",
+			"update_id": "d177a07a-6834-4264-8c97-1f8d32ad9e65"
 		},
 		{
 			"title": "2023-05 Cumulative Update for Windows Server 2019 for x64-based Systems (KB5026362)",
@@ -296,8 +296,8 @@
 		"2020-03 Cumulative Update for Windows Server 2019 for x64-based Systems (KB4554354)",
 		"2019-02 Cumulative Update for Windows Server 2019 for x64-based Systems (KB4482887)",
 		"2019-05 Cumulative Update for Windows Server 2019 for x64-based Systems (KB4505056)",
-		"2019-07 Cumulative Update for Windows Server 2019 for x64-based Systems (KB4505658)",
 		"2019-08 Cumulative Update for Windows Server 2019 for x64-based Systems (KB4512534)",
+		"2019-07 Cumulative Update for Windows Server 2019 for x64-based Systems (KB4505658)",
 		"2018-10 Cumulative Update for Windows Server 2019 for x64-based Systems (KB4464455)",
 		"2019-05 Cumulative Update for Windows Server 2019 for x64-based Systems (KB4497934)",
 		"2020-02 Cumulative Update for Windows Server 2019 for x64-based Systems (KB4537818)",
