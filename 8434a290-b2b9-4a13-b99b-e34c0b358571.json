@@ -13,16 +13,12 @@
 	"support_url": "https://support.microsoft.com/help/5031358",
 	"supersededby": [
 		{
-			"title": "2024-01 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5034121)",
-			"update_id": "4be9882e-909c-48f8-8ef3-b5955b211fc7"
-		},
-		{
 			"title": "2024-02 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5034766)",
 			"update_id": "a7fabe6b-af5f-49a1-a91e-7eba4c41cbc8"
 		},
 		{
-			"title": "2024-07 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5040431)",
-			"update_id": "0710498e-d8f6-4236-9d4a-34bc04213c2f"
+			"title": "2024-01 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5034121)",
+			"update_id": "4be9882e-909c-48f8-8ef3-b5955b211fc7"
 		},
 		{
 			"title": "2024-08 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5041592)",
@@ -33,12 +29,16 @@
 			"update_id": "5f99279c-b3dd-4f67-b1c2-a69fc0f4f737"
 		},
 		{
-			"title": "2024-10 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5044280)",
-			"update_id": "68ec85a3-b1a1-4739-a41b-9b470c54be0c"
-		},
-		{
 			"title": "2023-11 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5032192)",
 			"update_id": "87247448-3161-438f-95de-ace47abdf982"
+		},
+		{
+			"title": "2024-07 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5040431)",
+			"update_id": "0710498e-d8f6-4236-9d4a-34bc04213c2f"
+		},
+		{
+			"title": "2024-10 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5044280)",
+			"update_id": "68ec85a3-b1a1-4739-a41b-9b470c54be0c"
 		},
 		{
 			"title": "2024-03 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5035854)",
@@ -49,42 +49,42 @@
 			"update_id": "ebe9ee19-c9d8-4a9e-9a23-4bbc7738c3b7"
 		},
 		{
+			"title": "2023-12 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5033369)",
+			"update_id": "d1094cee-104f-43dd-afff-98d5ca5a196a"
+		},
+		{
 			"title": "2024-05 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5037770)",
 			"update_id": "f3655531-e59b-40df-8b68-af22f3337a4b"
 		},
 		{
 			"title": "2024-04 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5036894)",
 			"update_id": "c52965f7-baff-490b-8f18-911911e1951f"
-		},
-		{
-			"title": "2023-12 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5033369)",
-			"update_id": "d1094cee-104f-43dd-afff-98d5ca5a196a"
 		}
 	],
 	"supersedes": [
-		"2021-11 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5007215)",
 		"2022-09 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5017328)",
+		"2021-11 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5007215)",
 		"2022-12 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5021234)",
-		"2021-12 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5008215)",
 		"2022-04 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5012592)",
-		"2022-06 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5014697)",
 		"2022-05 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5013943)",
-		"2021-10 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5006674)",
-		"2022-07 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5015814)",
-		"2023-03 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5023698)",
-		"2022-08 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5016629)",
-		"2022-11 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5019961)",
-		"2023-06 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5027223)",
+		"2021-12 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5008215)",
+		"2022-06 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5014697)",
 		"2022-10 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5018418)",
-		"2023-08 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5029253)",
+		"2022-07 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5015814)",
+		"2022-08 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5016629)",
+		"2021-10 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5006674)",
+		"2022-11 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5019961)",
 		"2023-09 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5030217)",
+		"2023-03 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5023698)",
+		"2023-06 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5027223)",
+		"2023-08 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5029253)",
 		"2023-02 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5022836)",
 		"2023-05 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5026368)",
 		"2023-04 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5025224)",
 		"2023-07 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5028182)",
+		"2022-03 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5011493)",
 		"2023-01 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5022287)",
 		"2022-02 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5010386)",
-		"2022-03 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5011493)",
 		"2022-01 Dynamic Cumulative Update for Windows 11 for x64-based Systems (KB5009566)"
 	],
 	"reboot_behavior": "Can request restart",

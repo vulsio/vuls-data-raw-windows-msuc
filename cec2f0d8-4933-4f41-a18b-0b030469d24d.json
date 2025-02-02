@@ -21,20 +21,20 @@
 			"update_id": "193458cc-02fe-4f84-beb7-a770412cfe3c"
 		},
 		{
-			"title": "2024-03 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5035854)",
-			"update_id": "be995e09-447a-409a-9bee-04f860852096"
+			"title": "2024-07 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5040431)",
+			"update_id": "bb1c7ded-850a-4b91-b10d-f78eab6ef745"
 		},
 		{
 			"title": "2024-09 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5043067)",
 			"update_id": "164d465c-9edf-4b3b-a174-3f1773172637"
 		},
 		{
-			"title": "2024-04 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5036894)",
-			"update_id": "aaffcc29-f131-4dae-9ed8-7c3e3346e72c"
+			"title": "2024-03 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5035854)",
+			"update_id": "be995e09-447a-409a-9bee-04f860852096"
 		},
 		{
-			"title": "2024-07 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5040431)",
-			"update_id": "bb1c7ded-850a-4b91-b10d-f78eab6ef745"
+			"title": "2024-04 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5036894)",
+			"update_id": "aaffcc29-f131-4dae-9ed8-7c3e3346e72c"
 		},
 		{
 			"title": "2024-06 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5039213)",
@@ -50,18 +50,18 @@
 		}
 	],
 	"supersedes": [
-		"2022-05 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5013943)",
 		"2021-11 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5007215)",
 		"2022-11 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5019961)",
+		"2022-05 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5013943)",
 		"2023-06 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5027223)",
-		"2023-03 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5023698)",
 		"2022-04 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5012592)",
+		"2023-03 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5023698)",
 		"2021-12 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5008215)",
 		"2022-12 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5021234)",
 		"2022-10 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5018418)",
 		"2023-12 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5033369)",
-		"2023-02 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5022836)",
 		"2023-09 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5030217)",
+		"2023-02 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5022836)",
 		"2022-03 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5011493)",
 		"2022-01 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5009566)",
 		"2022-02 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5010386)",
@@ -69,12 +69,12 @@
 		"2023-08 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5029253)",
 		"2023-07 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5028182)",
 		"2023-04 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5025224)",
-		"2023-05 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5026368)",
-		"2022-08 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5016629)",
 		"2023-10 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5031358)",
+		"2022-08 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5016629)",
 		"2022-07 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5015814)",
-		"2022-06 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5016138)",
+		"2023-05 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5026368)",
 		"2022-09 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5017328)",
+		"2022-06 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5016138)",
 		"2023-01 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5022287)",
 		"2021-10 Dynamic Cumulative Update for Windows 11 for ARM64-based Systems (KB5006674)"
 	],
