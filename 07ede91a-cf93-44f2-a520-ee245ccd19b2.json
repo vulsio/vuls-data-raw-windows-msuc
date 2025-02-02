@@ -13,16 +13,12 @@
 	"support_url": "https://support.microsoft.com/help/5018427",
 	"supersededby": [
 		{
-			"title": "2023-04 Dynamic Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5025239)",
-			"update_id": "956de4ea-8101-4661-97e1-ef487d130f3b"
-		},
-		{
 			"title": "2022-12 Dynamic Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5021255)",
 			"update_id": "300f2e4e-b5a1-4c94-a0b0-a478db1d0583"
 		},
 		{
-			"title": "2023-03 Dynamic Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5023706)",
-			"update_id": "5303b223-0404-4b80-b05e-a621d6b74a97"
+			"title": "2023-04 Dynamic Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5025239)",
+			"update_id": "956de4ea-8101-4661-97e1-ef487d130f3b"
 		},
 		{
 			"title": "2023-01 Dynamic Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5022303)",
@@ -35,6 +31,10 @@
 		{
 			"title": "2023-02 Dynamic Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5022845)",
 			"update_id": "fb5a0dc1-5fa0-48f9-8065-a9bc2c8ed6c8"
+		},
+		{
+			"title": "2023-03 Dynamic Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5023706)",
+			"update_id": "5303b223-0404-4b80-b05e-a621d6b74a97"
 		}
 	],
 	"supersedes": [
