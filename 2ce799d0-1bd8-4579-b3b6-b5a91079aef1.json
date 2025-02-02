@@ -13,20 +13,20 @@
 	"support_url": "https://support.microsoft.com/help/4594440",
 	"supersededby": [
 		{
-			"title": "2022-04 Dynamic Cumulative Update for Windows 10 Version 20H2 for x86-based Systems (KB5012599)",
-			"update_id": "d344c2c4-4c9f-45b0-aa2d-96526fa1e80e"
-		},
-		{
 			"title": "2022-03 Dynamic Cumulative Update for Windows 10 Version 20H2 for x86-based Systems (KB5011487)",
 			"update_id": "480c2a29-2c22-48f2-85c9-bfdfcb1b6000"
 		},
 		{
-			"title": "2022-08 Dynamic Cumulative Update for Windows 10 Version 20H2 for x86-based Systems (KB5016616)",
-			"update_id": "dd214637-7c6b-4534-b946-5056190d37a7"
+			"title": "2022-04 Dynamic Cumulative Update for Windows 10 Version 20H2 for x86-based Systems (KB5012599)",
+			"update_id": "d344c2c4-4c9f-45b0-aa2d-96526fa1e80e"
 		},
 		{
 			"title": "2022-05 Dynamic Cumulative Update for Windows 10 Version 20H2 for x86-based Systems (KB5013942)",
 			"update_id": "c2eb3e80-9eb5-466e-924f-502a74e734fc"
+		},
+		{
+			"title": "2022-08 Dynamic Cumulative Update for Windows 10 Version 20H2 for x86-based Systems (KB5016616)",
+			"update_id": "dd214637-7c6b-4534-b946-5056190d37a7"
 		}
 	],
 	"reboot_behavior": "Can request restart",
