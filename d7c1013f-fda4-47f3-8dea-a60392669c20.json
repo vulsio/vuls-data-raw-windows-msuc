@@ -13,28 +13,24 @@
 	"support_url": "https://support.microsoft.com/help/4338817",
 	"supersededby": [
 		{
+			"title": "2019-01 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4480967)",
+			"update_id": "c18651cf-ea79-4281-b0a1-1185030c02e7"
+		},
+		{
 			"title": "2018-08 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4343893)",
 			"update_id": "c86473f8-a79f-4371-9627-19be4c8ce416"
 		},
 		{
-			"title": "2019-01 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4480967)",
-			"update_id": "c18651cf-ea79-4281-b0a1-1185030c02e7"
+			"title": "2019-04 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4493440)",
+			"update_id": "34fca056-368c-4b12-a833-fb62f4b9fbc6"
 		},
 		{
 			"title": "2019-03 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4489890)",
 			"update_id": "27eeaf6d-0fba-4c9c-b5f6-d67a50a92b29"
 		},
 		{
-			"title": "2018-10 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4462932)",
-			"update_id": "cf570bb5-02b0-4916-8618-cf6d55450527"
-		},
-		{
 			"title": "2018-11 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4467681)",
 			"update_id": "523ad1d9-7234-4d03-80f6-4d46276d77af"
-		},
-		{
-			"title": "2019-04 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4493440)",
-			"update_id": "34fca056-368c-4b12-a833-fb62f4b9fbc6"
 		},
 		{
 			"title": "2018-09 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4464217)",
@@ -45,19 +41,23 @@
 			"update_id": "a65aaeaa-8a21-4652-a9d4-a8f68ac8e97c"
 		},
 		{
+			"title": "2018-10 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4462932)",
+			"update_id": "cf570bb5-02b0-4916-8618-cf6d55450527"
+		},
+		{
 			"title": "2018-09 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4457136)",
 			"update_id": "d4e0f13b-716b-4000-a57d-dded33f503d9"
 		}
 	],
 	"supersedes": [
 		"2018-07 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4345420)",
-		"2018-01 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4073290)",
 		"2018-03 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4090913)",
-		"2018-04 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4093105)",
-		"2017-11 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4051963)",
+		"2018-01 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4073290)",
 		"2018-03 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4089848)",
-		"2018-01 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4058258)",
+		"2017-11 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4051963)",
+		"2018-04 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4093105)",
 		"2018-05 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4103714)",
+		"2018-01 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4058258)",
 		"2018-06 Cumulative Update for Windows Server 2016 (1709) for x64-based Systems (KB4284822)"
 	],
 	"reboot_behavior": "Can request restart",
