@@ -13,40 +13,40 @@
 	"support_url": "https://support.microsoft.com/help/5020953",
 	"supersededby": [
 		{
-			"title": "2022-11 Cumulative Update for Windows 10 Version 21H1 for ARM64-based Systems (KB5019959)",
-			"update_id": "8abf6f7f-1734-43f9-bfff-e8454696ae9d"
+			"title": "2022-11 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5020030)",
+			"update_id": "2bc00b71-befb-4160-8bd6-e277309b8485"
 		},
 		{
 			"title": "2022-12 Cumulative Update for Windows 10 Version 21H1 for ARM64-based Systems (KB5021233)",
 			"update_id": "74b6417e-79db-4ced-971e-61d56c953890"
 		},
 		{
-			"title": "2022-11 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5020030)",
-			"update_id": "2bc00b71-befb-4160-8bd6-e277309b8485"
+			"title": "2022-11 Cumulative Update for Windows 10 Version 21H1 for ARM64-based Systems (KB5019959)",
+			"update_id": "8abf6f7f-1734-43f9-bfff-e8454696ae9d"
 		}
 	],
 	"supersedes": [
-		"2022-01 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5009596)",
 		"2021-09 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5005611)",
+		"2022-01 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5009596)",
+		"2022-05 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5014023)",
 		"2022-06 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5014666)",
 		"2022-05 Cumulative Update for Windows 10 Version 21H1 for ARM64-based Systems (KB5015020)",
-		"2022-05 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5014023)",
 		"2022-04 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5011831)",
 		"2022-08 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5016688)",
-		"2022-07 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5015878)",
 		"2022-10 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5018482)",
+		"2022-07 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5015878)",
 		"2021-11 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5007253)",
 		"2021-10 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5006738)",
-		"2022-09 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5017380)",
-		"2021-07 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5004296)",
-		"2022-03 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5011543)",
 		"2022-10 Cumulative Update for Windows 10 Version 21H1 for ARM64-based Systems (KB5020435)",
+		"2022-09 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5017380)",
 		"2021-06 Cumulative Update for Windows 10 Version 21H1 for ARM64-based Systems (KB5004760)",
+		"2022-03 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5011543)",
+		"2022-02 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5010415)",
+		"2021-07 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5004296)",
 		"2021-08 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5005101)",
 		"2021-06 Cumulative Update for Windows 10 Version 21H1 for ARM64-based Systems (KB5004476)",
-		"2022-02 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5010415)",
-		"2021-05 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5003214)",
-		"2022-01 Cumulative Update for Windows 10 Version 21H1 for ARM64-based Systems (KB5010793)"
+		"2022-01 Cumulative Update for Windows 10 Version 21H1 for ARM64-based Systems (KB5010793)",
+		"2021-05 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5003214)"
 	],
 	"reboot_behavior": "Can request restart",
 	"user_input": "No",
