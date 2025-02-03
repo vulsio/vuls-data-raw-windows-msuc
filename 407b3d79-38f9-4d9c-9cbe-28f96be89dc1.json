@@ -34,9 +34,9 @@
 		}
 	],
 	"supersedes": [
-		"2018-05 Cumulative Update for Windows 10 Version 1803 for x86-based Systems (KB4100403)",
 		"2018-07 Cumulative Update for Windows 10 Version 1803 for x86-based Systems (KB4345421)",
 		"2018-06 Cumulative Update for Windows 10 Version 1803 for x86-based Systems (KB4338548)",
+		"2018-05 Cumulative Update for Windows 10 Version 1803 for x86-based Systems (KB4100403)",
 		"2018-06 Cumulative Update for Windows 10 Version 1803 for x86-based Systems (KB4284848)",
 		"2018-07 Cumulative Update for Windows 10 Version 1803 for x86-based Systems (KB4340917)"
 	],
