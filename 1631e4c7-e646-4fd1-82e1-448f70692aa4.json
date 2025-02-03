@@ -17,52 +17,52 @@
 			"update_id": "996d551f-a530-499e-8bd0-169e7ae96358"
 		},
 		{
-			"title": "2020-03 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4541330)",
-			"update_id": "b1500a38-7889-48e3-a1be-78e374567557"
-		},
-		{
 			"title": "2019-06 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4503281)",
 			"update_id": "aa97ce2e-b0d3-4f4f-a1a2-dc5285b5990f"
+		},
+		{
+			"title": "2020-03 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4541330)",
+			"update_id": "b1500a38-7889-48e3-a1be-78e374567557"
 		},
 		{
 			"title": "2019-07 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4507465)",
 			"update_id": "ca8db2fb-e5c6-47a7-b2d4-cfef7f1cde13"
 		},
 		{
-			"title": "2020-09 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4577041)",
-			"update_id": "92a489ff-3e71-4b8a-93d2-d11344cf680c"
-		},
-		{
 			"title": "2020-08 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4571741)",
 			"update_id": "821804e3-a34d-4a92-bcf8-e9f8904540ab"
-		},
-		{
-			"title": "2019-10 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4520006)",
-			"update_id": "9f20fb1a-6fc2-445b-9a4d-45ad39e3cdef"
 		},
 		{
 			"title": "2019-08 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4512494)",
 			"update_id": "4b4700a2-1785-4c59-b2e3-7c7ea0436253"
 		},
 		{
-			"title": "2020-07 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4565508)",
-			"update_id": "cbdd311f-9094-4a87-a5ce-8c10c46070be"
+			"title": "2019-10 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4520006)",
+			"update_id": "9f20fb1a-6fc2-445b-9a4d-45ad39e3cdef"
 		},
 		{
-			"title": "2020-06 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4567515)",
-			"update_id": "dc02c5d1-0477-4a7a-aab5-9b5c7fbbc406"
+			"title": "2020-09 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4577041)",
+			"update_id": "92a489ff-3e71-4b8a-93d2-d11344cf680c"
+		},
+		{
+			"title": "2020-07 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4565508)",
+			"update_id": "cbdd311f-9094-4a87-a5ce-8c10c46070be"
 		},
 		{
 			"title": "2019-09 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4522012)",
 			"update_id": "ea60d452-3147-4666-ad92-87bf23d65162"
 		},
 		{
-			"title": "2020-03 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4554342)",
-			"update_id": "d86250c1-eb42-4fed-8a30-f5efd15e875a"
+			"title": "2020-06 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4567515)",
+			"update_id": "dc02c5d1-0477-4a7a-aab5-9b5c7fbbc406"
 		},
 		{
 			"title": "2019-06 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4509477)",
 			"update_id": "df151220-81ac-40f2-84c8-c4b5c4fd7086"
+		},
+		{
+			"title": "2020-03 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4554342)",
+			"update_id": "d86250c1-eb42-4fed-8a30-f5efd15e875a"
 		},
 		{
 			"title": "2020-01 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4534318)",
@@ -75,8 +75,8 @@
 	],
 	"supersedes": [
 		"2017-11 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4051963)",
-		"2018-06 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4284822)",
 		"2019-01 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4480967)",
+		"2018-06 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4284822)",
 		"2018-01 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4058258)",
 		"2019-05 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4505062)",
 		"2018-03 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4090913)",
@@ -86,13 +86,13 @@
 		"2018-03 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4089848)",
 		"2018-09 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4457136)",
 		"2018-09 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4464217)",
-		"2018-07 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4345420)",
 		"2018-04 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4093105)",
+		"2018-07 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4345420)",
 		"2019-04 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4493440)",
-		"2019-02 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4487021)",
 		"2018-07 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4338817)",
-		"2018-05 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4103714)",
-		"2019-03 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4489890)"
+		"2019-02 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4487021)",
+		"2019-03 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4489890)",
+		"2018-05 Cumulative Update for Windows 10 Version 1709 for x86-based Systems (KB4103714)"
 	],
 	"reboot_behavior": "Can request restart",
 	"user_input": "No",

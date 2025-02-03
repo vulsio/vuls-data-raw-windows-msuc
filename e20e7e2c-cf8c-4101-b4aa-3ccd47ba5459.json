@@ -25,46 +25,46 @@
 			"update_id": "ad607b23-d208-4459-9ece-62bdd7824510"
 		},
 		{
-			"title": "2020-08 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4571741)",
-			"update_id": "e73df191-2791-492b-acc4-0914e852f0ea"
-		},
-		{
 			"title": "2020-07 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4565508)",
 			"update_id": "785b1349-3f0c-4bd5-9026-82852f0f9be3"
 		},
 		{
 			"title": "2020-10 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4580328)",
 			"update_id": "f01aa891-eec2-4390-9974-dc226f4d6bf4"
+		},
+		{
+			"title": "2020-08 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4571741)",
+			"update_id": "e73df191-2791-492b-acc4-0914e852f0ea"
 		}
 	],
 	"supersedes": [
+		"2020-01 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4534318)",
 		"2019-06 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4509477)",
+		"2018-06 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4284822)",
 		"2018-01 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4058258)",
 		"2019-08 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4512494)",
-		"2020-01 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4534318)",
-		"2018-06 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4284822)",
 		"2019-07 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4507465)",
 		"2019-06 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4503281)",
-		"2020-02 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4537816)",
-		"2018-10 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4462932)",
-		"2018-07 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4338817)",
 		"2019-04 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4493440)",
+		"2018-10 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4462932)",
 		"2018-03 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4089848)",
 		"2019-03 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4489890)",
 		"2018-03 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4090913)",
 		"2019-05 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4505062)",
+		"2019-05 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4499147)",
 		"2019-01 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4480967)",
 		"2018-09 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4457136)",
 		"2018-01 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4073290)",
-		"2019-05 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4499147)",
+		"2018-07 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4338817)",
 		"2019-09 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4522012)",
-		"2018-05 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4103714)",
 		"2018-09 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4464217)",
+		"2018-05 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4103714)",
 		"2018-07 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4345420)",
+		"2020-02 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4537816)",
 		"2019-02 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4487021)",
 		"2017-11 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4051963)",
-		"2019-10 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4520006)",
 		"2018-04 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4093105)",
+		"2019-10 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4520006)",
 		"2018-11 Cumulative Update for Windows 10 Version 1709 for x64-based Systems (KB4467681)"
 	],
 	"reboot_behavior": "Can request restart",
