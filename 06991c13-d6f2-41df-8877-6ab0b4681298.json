@@ -13,24 +13,24 @@
 	"support_url": "https://support.microsoft.com/help/4550945",
 	"supersededby": [
 		{
-			"title": "2020-12 Cumulative Update for Windows Server, version 1903 for ARM64-based Systems (KB4592449)",
-			"update_id": "8bfe9d23-7481-48e1-abe3-8ff901bb28a1"
+			"title": "2020-11 Cumulative Update Preview for Windows Server, version 1903 for ARM64-based Systems (KB4586819)",
+			"update_id": "2128ddb6-bfa5-4f82-91e9-baeec3090e8d"
 		},
 		{
 			"title": "2020-06 Cumulative Update for Windows Server, version 1903 for ARM64-based Systems (KB4567512)",
 			"update_id": "2a8d00c1-d54e-4fe1-b34a-e87e9139aa03"
 		},
 		{
-			"title": "2020-11 Cumulative Update Preview for Windows Server, version 1903 for ARM64-based Systems (KB4586819)",
-			"update_id": "2128ddb6-bfa5-4f82-91e9-baeec3090e8d"
+			"title": "2020-11 Cumulative Update for Windows Server, version 1903 for ARM64-based Systems (KB4594443)",
+			"update_id": "0fd9189b-5ee3-44a7-b9e2-8360ef91d312"
+		},
+		{
+			"title": "2020-12 Cumulative Update for Windows Server, version 1903 for ARM64-based Systems (KB4592449)",
+			"update_id": "8bfe9d23-7481-48e1-abe3-8ff901bb28a1"
 		},
 		{
 			"title": "2020-10 Cumulative Update Preview for Windows Server, version 1903 for ARM64-based Systems (KB4580386)",
 			"update_id": "8fc75d73-7079-4ba6-b643-84e4c7ee3e6c"
-		},
-		{
-			"title": "2020-11 Cumulative Update for Windows Server, version 1903 for ARM64-based Systems (KB4594443)",
-			"update_id": "0fd9189b-5ee3-44a7-b9e2-8360ef91d312"
 		},
 		{
 			"title": "2020-08 Cumulative Update Preview for Windows Server, version 1903 for ARM64-based Systems (KB4566116)",
