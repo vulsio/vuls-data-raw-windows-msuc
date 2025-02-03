@@ -25,8 +25,8 @@
 		"2020-09 Cumulative Update Preview for Windows Server, version 1903 for ARM64-based Systems (KB4577062)",
 		"2020-10 Cumulative Update Preview for Windows Server, version 1903 for ARM64-based Systems (KB4580386)",
 		"2020-10 Cumulative Update for Windows Server, version 1903 for ARM64-based Systems (KB4577671)",
-		"2020-11 Cumulative Update for Windows Server, version 1903 for ARM64-based Systems (KB4586786)",
 		"2020-06 Cumulative Update for Windows Server, version 1903 for ARM64-based Systems (KB4567512)",
+		"2020-11 Cumulative Update for Windows Server, version 1903 for ARM64-based Systems (KB4586786)",
 		"2020-03 Cumulative Update for Windows Server, version 1903 for ARM64-based Systems (KB4554364)"
 	],
 	"reboot_behavior": "Can request restart",
