@@ -13,10 +13,6 @@
 	"support_url": "https://support.microsoft.com/help/4338548",
 	"supersededby": [
 		{
-			"title": "2019-02 Cumulative Update for Windows 10 Version 1803 for ARM64-based Systems (KB4487029)",
-			"update_id": "2144e3e8-ba8a-4aea-b15d-3ced90e9ff05"
-		},
-		{
 			"title": "2019-01 Cumulative Update for Windows 10 Version 1803 for ARM64-based Systems (KB4480976)",
 			"update_id": "1f1d9c12-1ca9-4ee4-b02b-deabd0c32ba4"
 		},
@@ -25,24 +21,36 @@
 			"update_id": "33bf2293-6fdf-462f-953c-0aacdd68bb56"
 		},
 		{
-			"title": "2018-07 Cumulative Update for Windows 10 Version 1803 for ARM64-based Systems (KB4340917)",
-			"update_id": "38be8cb3-6092-4f03-ace2-b2f00f08b87b"
+			"title": "2019-02 Cumulative Update for Windows 10 Version 1803 for ARM64-based Systems (KB4487029)",
+			"update_id": "2144e3e8-ba8a-4aea-b15d-3ced90e9ff05"
 		},
 		{
 			"title": "2021-04 Cumulative Update for Windows 10 Version 1803 for ARM64-based Systems (KB5001339)",
 			"update_id": "1432562a-c9a7-4e28-9496-22d56c614588"
 		},
 		{
-			"title": "2020-04 Cumulative Update for Windows 10 Version 1803 for ARM64-based Systems (KB4550944)",
-			"update_id": "3b783ce8-130b-43cd-bde8-686741da0401"
-		},
-		{
 			"title": "2018-06 Cumulative Update for Windows 10 Version 1803 for ARM64-based Systems (KB4284848)",
 			"update_id": "2db0362f-cf28-4de5-ab23-8eda033c4a2f"
 		},
 		{
+			"title": "2018-07 Cumulative Update for Windows 10 Version 1803 for ARM64-based Systems (KB4340917)",
+			"update_id": "38be8cb3-6092-4f03-ace2-b2f00f08b87b"
+		},
+		{
+			"title": "2020-04 Cumulative Update for Windows 10 Version 1803 for ARM64-based Systems (KB4550944)",
+			"update_id": "3b783ce8-130b-43cd-bde8-686741da0401"
+		},
+		{
 			"title": "2020-01 Cumulative Update for Windows 10 Version 1803 for ARM64-based Systems (KB4534308)",
 			"update_id": "246f703c-c606-4144-82cc-bc37c90906e2"
+		},
+		{
+			"title": "2021-05 Cumulative Update for Windows 10 Version 1803 for ARM64-based Systems (KB5003174)",
+			"update_id": "4d1ec349-a134-48a7-aa86-d9706fa939ae"
+		},
+		{
+			"title": "2020-02 Cumulative Update for Windows 10 Version 1803 for ARM64-based Systems (KB4537795)",
+			"update_id": "5b936bea-ba7c-4bc5-9494-0a92a55a07ca"
 		},
 		{
 			"title": "2019-06 Cumulative Update for Windows 10 Version 1803 for ARM64-based Systems (KB4503288)",
@@ -51,14 +59,6 @@
 		{
 			"title": "2019-03 Cumulative Update for Windows 10 Version 1803 for ARM64-based Systems (KB4489894)",
 			"update_id": "48d95860-73ac-4a18-b8a7-32f204ec2b55"
-		},
-		{
-			"title": "2020-02 Cumulative Update for Windows 10 Version 1803 for ARM64-based Systems (KB4537795)",
-			"update_id": "5b936bea-ba7c-4bc5-9494-0a92a55a07ca"
-		},
-		{
-			"title": "2021-05 Cumulative Update for Windows 10 Version 1803 for ARM64-based Systems (KB5003174)",
-			"update_id": "4d1ec349-a134-48a7-aa86-d9706fa939ae"
 		},
 		{
 			"title": "2019-09 Cumulative Update for Windows 10 Version 1803 for ARM64-based Systems (KB4516045)",
@@ -81,20 +81,12 @@
 			"update_id": "6517df2a-9fe3-49db-bef5-2d632889e5c1"
 		},
 		{
-			"title": "2018-09 Cumulative Update for Windows 10 Version 1803 for ARM64-based Systems (KB4464218)",
-			"update_id": "66fee07b-e4a2-4c23-a58b-5c5507326651"
-		},
-		{
 			"title": "2019-07 Cumulative Update for Windows 10 Version 1803 for ARM64-based Systems (KB4507466)",
 			"update_id": "8d42e0a8-a90b-4357-a78d-f9eafe0b26ec"
 		},
 		{
-			"title": "2020-02 Cumulative Update for Windows 10 Version 1803 for ARM64-based Systems (KB4537762)",
-			"update_id": "9b6ace81-176e-4e0c-9eab-72f3ecf6353f"
-		},
-		{
-			"title": "2018-07 Cumulative Update for Windows 10 Version 1803 for ARM64-based Systems (KB4345421)",
-			"update_id": "8a050590-25bd-4b55-b26b-52128af91fcf"
+			"title": "2018-09 Cumulative Update for Windows 10 Version 1803 for ARM64-based Systems (KB4464218)",
+			"update_id": "66fee07b-e4a2-4c23-a58b-5c5507326651"
 		},
 		{
 			"title": "2021-03 Cumulative Update for Windows 10 Version 1803 for ARM64-based Systems (KB5000809)",
@@ -103,6 +95,14 @@
 		{
 			"title": "2021-03 Cumulative Update for Windows 10 Version 1803 for ARM64-based Systems (KB5001634)",
 			"update_id": "937f6622-89bc-43f7-b981-147dc2448d9b"
+		},
+		{
+			"title": "2018-07 Cumulative Update for Windows 10 Version 1803 for ARM64-based Systems (KB4345421)",
+			"update_id": "8a050590-25bd-4b55-b26b-52128af91fcf"
+		},
+		{
+			"title": "2020-02 Cumulative Update for Windows 10 Version 1803 for ARM64-based Systems (KB4537762)",
+			"update_id": "9b6ace81-176e-4e0c-9eab-72f3ecf6353f"
 		},
 		{
 			"title": "2020-03 Cumulative Update for Windows 10 Version 1803 for ARM64-based Systems (KB4541333)",
