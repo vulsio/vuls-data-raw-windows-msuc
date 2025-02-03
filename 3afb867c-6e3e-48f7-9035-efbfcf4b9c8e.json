@@ -25,10 +25,6 @@
 			"update_id": "0567353a-d312-44ce-919b-1ea90c36a6ad"
 		},
 		{
-			"title": "2024-04 Cumulative Update for Windows 10 Version 1507 for x86-based Systems (KB5036925)",
-			"update_id": "283b09c3-248a-46e9-b153-0748cc9e2a00"
-		},
-		{
 			"title": "2023-10 Cumulative Update for Windows 10 Version 1507 for x86-based Systems (KB5031377)",
 			"update_id": "22672878-b5e3-4935-97a7-e4425d652195"
 		},
@@ -37,20 +33,24 @@
 			"update_id": "109d80aa-a8f5-49be-8de4-094b664d2bfb"
 		},
 		{
-			"title": "2023-08 Cumulative Update for Windows 10 Version 1507 for x86-based Systems (KB5029259)",
-			"update_id": "3f1355f5-b84b-402d-8b83-6a5f326c783b"
+			"title": "2024-04 Cumulative Update for Windows 10 Version 1507 for x86-based Systems (KB5036925)",
+			"update_id": "283b09c3-248a-46e9-b153-0748cc9e2a00"
 		},
 		{
 			"title": "2023-06 Cumulative Update for Windows 10 Version 1507 for x86-based Systems (KB5027230)",
 			"update_id": "3f6ad596-36ab-4c78-a041-2b28af5404ac"
 		},
 		{
-			"title": "2023-04 Cumulative Update for Windows 10 Version 1507 for x86-based Systems (KB5025234)",
-			"update_id": "564a67c9-4c62-4faa-82c5-7dfa7e0ecf02"
+			"title": "2023-08 Cumulative Update for Windows 10 Version 1507 for x86-based Systems (KB5029259)",
+			"update_id": "3f1355f5-b84b-402d-8b83-6a5f326c783b"
 		},
 		{
 			"title": "2023-11 Cumulative Update for Windows 10 Version 1507 for x86-based Systems (KB5032199)",
 			"update_id": "41b12843-a97e-4d53-8c89-be47dbeed25f"
+		},
+		{
+			"title": "2023-04 Cumulative Update for Windows 10 Version 1507 for x86-based Systems (KB5025234)",
+			"update_id": "564a67c9-4c62-4faa-82c5-7dfa7e0ecf02"
 		},
 		{
 			"title": "2023-02 Cumulative Update for Windows 10 Version 1507 for x86-based Systems (KB5022858)",
@@ -85,12 +85,12 @@
 			"update_id": "affc419c-cbe0-4aa3-b834-2cd73be180d7"
 		},
 		{
-			"title": "2023-06 Cumulative Update for Windows 10 Version 1507 for x86-based Systems (KB5028622)",
-			"update_id": "ae23d8c1-d32e-4990-b702-c413dcfa6d84"
-		},
-		{
 			"title": "2024-07 Cumulative Update for Windows 10 Version 1507 for x86-based Systems (KB5040448)",
 			"update_id": "9a44e97e-8843-4db4-9328-822eca6750f9"
+		},
+		{
+			"title": "2023-06 Cumulative Update for Windows 10 Version 1507 for x86-based Systems (KB5028622)",
+			"update_id": "ae23d8c1-d32e-4990-b702-c413dcfa6d84"
 		},
 		{
 			"title": "2022-01 Cumulative Update for Windows 10 Version 1507 for x86-based Systems (KB5010789)",
@@ -113,10 +113,6 @@
 			"update_id": "b7a1143e-ac30-490b-9860-63565fee131d"
 		},
 		{
-			"title": "2024-06 Cumulative Update for Windows 10 Version 1507 for x86-based Systems (KB5039225)",
-			"update_id": "dfe2bc38-841e-4a1c-920c-d53caa0d0896"
-		},
-		{
 			"title": "2024-09 Cumulative Update for Windows 10 Version 1507 for x86-based Systems (KB5043083)",
 			"update_id": "c42bd454-579b-4bbe-8710-9a9dea83c2ac"
 		},
@@ -127,6 +123,10 @@
 		{
 			"title": "2023-12 Cumulative Update for Windows 10 Version 1507 for x86-based Systems (KB5033379)",
 			"update_id": "ccbb0ef8-f671-4088-8044-458525c4fafa"
+		},
+		{
+			"title": "2024-06 Cumulative Update for Windows 10 Version 1507 for x86-based Systems (KB5039225)",
+			"update_id": "dfe2bc38-841e-4a1c-920c-d53caa0d0896"
 		},
 		{
 			"title": "2022-10 Cumulative Update for Windows 10 Version 1507 for x86-based Systems (KB5020440)",
@@ -150,8 +150,8 @@
 		"2019-04 Cumulative Update for Windows 10 Version 1507 for x86-based Systems (KB4498375)",
 		"2019-08 Cumulative Update for Windows 10 Version 1507 for x86-based Systems (KB4517276)",
 		"2017-06 Cumulative Update for Windows 10 Version 1507 for x86-based Systems (KB4032695)",
-		"2018-01 Cumulative Update for Windows 10 Version 1507 for x86-based Systems (KB4075199)",
 		"2019-02 Cumulative Update for Windows 10 Version 1507 for x86-based Systems (KB4491101)",
+		"2018-01 Cumulative Update for Windows 10 Version 1507 for x86-based Systems (KB4075199)",
 		"2019-05 Cumulative Update for Windows 10 Version 1507 for x86-based Systems (KB4505051)",
 		"2019-09 Cumulative Update for Windows 10 Version 1507 for x86-based Systems (KB4522009)",
 		"Cumulative Update for Windows 10 (KB3199125)",
