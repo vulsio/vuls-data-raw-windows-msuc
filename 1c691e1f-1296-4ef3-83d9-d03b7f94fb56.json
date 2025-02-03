@@ -13,16 +13,16 @@
 	"support_url": "https://support.microsoft.com/help/5004760",
 	"supersededby": [
 		{
-			"title": "2022-08 Cumulative Update for Windows Server, version 20H2 for ARM64-based Systems (KB5016616)",
-			"update_id": "8dc400be-9e57-4d7d-9e60-1a5182c1c85f"
+			"title": "2022-01 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB5009596)",
+			"update_id": "3b405186-4dd9-47dd-ada1-3491c723383f"
 		},
 		{
-			"title": "2022-04 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB5011831)",
-			"update_id": "09ea7c63-6cfa-4b13-b21c-02d3fd8af1a3"
+			"title": "2022-05 Cumulative Update for Windows Server, version 20H2 for ARM64-based Systems (KB5013942)",
+			"update_id": "2270c4f6-96dc-47ee-aee0-2116a51dd627"
 		},
 		{
-			"title": "2022-03 Cumulative Update for Windows Server, version 20H2 for ARM64-based Systems (KB5011487)",
-			"update_id": "6148e885-1d05-434a-8cdc-b64e8467f712"
+			"title": "2021-09 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB5005611)",
+			"update_id": "32dc7416-7039-4eeb-a6bb-0b27d35fed4e"
 		},
 		{
 			"title": "2021-10 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB5006738)",
@@ -33,44 +33,48 @@
 			"update_id": "1502860f-5061-4bf8-b42e-2d4e7e30b9ee"
 		},
 		{
-			"title": "2021-09 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB5005611)",
-			"update_id": "32dc7416-7039-4eeb-a6bb-0b27d35fed4e"
+			"title": "2022-04 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB5011831)",
+			"update_id": "09ea7c63-6cfa-4b13-b21c-02d3fd8af1a3"
 		},
 		{
-			"title": "2022-01 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB5009596)",
-			"update_id": "3b405186-4dd9-47dd-ada1-3491c723383f"
+			"title": "2022-03 Cumulative Update for Windows Server, version 20H2 for ARM64-based Systems (KB5011487)",
+			"update_id": "6148e885-1d05-434a-8cdc-b64e8467f712"
 		},
 		{
-			"title": "2021-07 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB5004296)",
-			"update_id": "9a562797-43d0-49b9-9baa-5985d6a0f8e5"
-		},
-		{
-			"title": "2022-05 Cumulative Update for Windows Server, version 20H2 for ARM64-based Systems (KB5013942)",
-			"update_id": "2270c4f6-96dc-47ee-aee0-2116a51dd627"
+			"title": "2022-08 Cumulative Update for Windows Server, version 20H2 for ARM64-based Systems (KB5016616)",
+			"update_id": "8dc400be-9e57-4d7d-9e60-1a5182c1c85f"
 		},
 		{
 			"title": "2022-03 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB5011543)",
 			"update_id": "b0ee000f-f000-49a8-ad58-7841dfba1106"
 		},
 		{
+			"title": "2022-07 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB5015878)",
+			"update_id": "ab2a63cb-7d54-4572-b661-ead705a9e679"
+		},
+		{
 			"title": "2022-01 Cumulative Update for Windows Server, version 20H2 for ARM64-based Systems (KB5010793)",
 			"update_id": "b86cef80-aa9c-4acc-b9d6-b38f60fc2823"
 		},
 		{
-			"title": "2022-07 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB5015878)",
-			"update_id": "ab2a63cb-7d54-4572-b661-ead705a9e679"
+			"title": "2021-07 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB5004296)",
+			"update_id": "9a562797-43d0-49b9-9baa-5985d6a0f8e5"
+		},
+		{
+			"title": "2022-02 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB5010415)",
+			"update_id": "e3a4e403-6443-415d-ae0b-deba13ed82e9"
 		},
 		{
 			"title": "2022-04 Cumulative Update for Windows Server, version 20H2 for ARM64-based Systems (KB5012599)",
 			"update_id": "dba08f35-7213-47d8-b011-388cd1ac7227"
 		},
 		{
-			"title": "2022-06 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB5014666)",
-			"update_id": "f2069fcf-0ee5-467e-b45e-1a316ec45700"
-		},
-		{
 			"title": "2022-05 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB5014023)",
 			"update_id": "ecbab228-18c3-4f8e-bda6-a236a75b9884"
+		},
+		{
+			"title": "2022-06 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB5014666)",
+			"update_id": "f2069fcf-0ee5-467e-b45e-1a316ec45700"
 		},
 		{
 			"title": "2021-11 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB5007253)",
@@ -79,26 +83,22 @@
 		{
 			"title": "2021-08 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB5005101)",
 			"update_id": "fd2deb22-21ca-4d89-98ec-248f78e08561"
-		},
-		{
-			"title": "2022-02 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB5010415)",
-			"update_id": "e3a4e403-6443-415d-ae0b-deba13ed82e9"
 		}
 	],
 	"supersedes": [
-		"2020-11 Cumulative Update for Windows Server, version 20H2 for ARM64-based Systems (KB4594440)",
-		"2021-01 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB4598291)",
-		"2020-12 Servicing Stack Update for Windows Server, version 20H2 for ARM64-based Systems (KB4593175)",
-		"2021-02 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB4601382)",
 		"2021-03 Cumulative Update for Windows Server, version 20H2 for ARM64-based Systems (KB5001567)",
+		"2021-01 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB4598291)",
 		"2020-11 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB4586853)",
+		"2021-02 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB4601382)",
+		"2020-12 Servicing Stack Update for Windows Server, version 20H2 for ARM64-based Systems (KB4593175)",
+		"2020-10 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB4580364)",
+		"2021-01 Servicing Stack Update for Windows Server, version 20H2 for ARM64-based Systems (KB4598481)",
+		"2020-11 Cumulative Update for Windows Server, version 20H2 for ARM64-based Systems (KB4594440)",
 		"2021-06 Cumulative Update for Windows Server, version 20H2 for ARM64-based Systems (KB5004476)",
 		"2021-05 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB5003214)",
-		"2021-01 Servicing Stack Update for Windows Server, version 20H2 for ARM64-based Systems (KB4598481)",
-		"2020-10 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB4580364)",
+		"2021-03 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB5000842)",
 		"2021-04 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB5001391)",
 		"2020-11 Servicing Stack Update for Windows Server, version 20H2 for ARM64-based Systems (KB4586864)",
-		"2021-03 Cumulative Update Preview for Windows Server, version 20H2 for ARM64-based Systems (KB5000842)",
 		"2021-03 Cumulative Update for Windows Server, version 20H2 for ARM64-based Systems (KB5001649)"
 	],
 	"reboot_behavior": "Can request restart",
