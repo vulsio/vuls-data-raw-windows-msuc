@@ -13,6 +13,10 @@
 	"support_url": "https://support.microsoft.com/help/5020030",
 	"supersededby": [
 		{
+			"title": "2023-01 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB5019275)",
+			"update_id": "ddcc962e-ca9a-4407-9118-04e7ea82cddd"
+		},
+		{
 			"title": "2023-02 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB5022906)",
 			"update_id": "9fdc44b1-1ef9-452c-9140-58838367af43"
 		},
@@ -25,10 +29,6 @@
 			"update_id": "d674559a-6609-4ff0-943b-9d975a1aa375"
 		},
 		{
-			"title": "2023-01 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB5019275)",
-			"update_id": "ddcc962e-ca9a-4407-9118-04e7ea82cddd"
-		},
-		{
 			"title": "2023-05 Cumulative Update for Windows 10 Version 20H2 for ARM64-based Systems (KB5026361)",
 			"update_id": "4423fde5-e91e-407c-93bb-a9b5daaf983c"
 		}
@@ -36,39 +36,39 @@
 	"supersedes": [
 		"2021-03 Cumulative Update for Windows 10 Version 20H2 for ARM64-based Systems (KB5001567)",
 		"2021-02 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB4601382)",
-		"2022-05 Cumulative Update for Windows 10 Version 20H2 for ARM64-based Systems (KB5015020)",
+		"2022-03 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB5011543)",
+		"2022-06 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB5014666)",
 		"2021-03 Cumulative Update for Windows 10 Version 20H2 for ARM64-based Systems (KB5001649)",
 		"2022-04 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB5011831)",
 		"2022-05 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB5014023)",
-		"2022-03 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB5011543)",
-		"2022-06 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB5014666)",
+		"2022-05 Cumulative Update for Windows 10 Version 20H2 for ARM64-based Systems (KB5015020)",
 		"2022-04 Cumulative Update for Windows 10 Version 20H2 for ARM64-based Systems (KB5012599)",
 		"2022-03 Cumulative Update for Windows 10 Version 20H2 for ARM64-based Systems (KB5011487)",
-		"2020-11 Cumulative Update for Windows 10 Version 20H2 for ARM64-based Systems (KB4594440)",
-		"2022-08 Cumulative Update for Windows 10 Version 20H2 for ARM64-based Systems (KB5016616)",
 		"2022-05 Cumulative Update for Windows 10 Version 20H2 for ARM64-based Systems (KB5013942)",
-		"2020-10 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB4580364)",
-		"2020-11 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB4586853)",
+		"2022-08 Cumulative Update for Windows 10 Version 20H2 for ARM64-based Systems (KB5016616)",
 		"2022-11 Cumulative Update for Windows 10 Version 20H2 for ARM64-based Systems (KB5019959)",
-		"2021-07 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB5004296)",
+		"2020-11 Cumulative Update for Windows 10 Version 20H2 for ARM64-based Systems (KB4594440)",
+		"2020-11 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB4586853)",
+		"2020-10 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB4580364)",
 		"2021-01 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB4598291)",
+		"2021-07 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB5004296)",
+		"2021-10 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB5006738)",
+		"2021-09 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB5005611)",
 		"2022-01 Cumulative Update for Windows 10 Version 20H2 for ARM64-based Systems (KB5010793)",
 		"2021-08 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB5005101)",
-		"2021-10 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB5006738)",
 		"2022-01 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB5009596)",
-		"2021-09 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB5005611)",
 		"2021-11 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB5007253)",
 		"2022-02 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB5010415)",
-		"2022-10 Cumulative Update for Windows 10 Version 20H2 for ARM64-based Systems (KB5020435)",
-		"2022-09 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB5017380)",
-		"2022-10 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB5018482)",
 		"2022-08 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB5016688)",
-		"2021-03 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB5000842)",
+		"2022-10 Cumulative Update for Windows 10 Version 20H2 for ARM64-based Systems (KB5020435)",
+		"2022-10 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB5018482)",
+		"2022-09 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB5017380)",
 		"2022-10 Cumulative Update for Windows 10 Version 20H2 for ARM64-based Systems (KB5020953)",
-		"2021-04 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB5001391)",
+		"2021-03 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB5000842)",
 		"2021-05 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB5003214)",
-		"2021-06 Cumulative Update for Windows 10 Version 20H2 for ARM64-based Systems (KB5004760)",
+		"2021-04 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB5001391)",
 		"2021-06 Cumulative Update for Windows 10 Version 20H2 for ARM64-based Systems (KB5004476)",
+		"2021-06 Cumulative Update for Windows 10 Version 20H2 for ARM64-based Systems (KB5004760)",
 		"2022-07 Cumulative Update Preview for Windows 10 Version 20H2 for ARM64-based Systems (KB5015878)"
 	],
 	"reboot_behavior": "Can request restart",
