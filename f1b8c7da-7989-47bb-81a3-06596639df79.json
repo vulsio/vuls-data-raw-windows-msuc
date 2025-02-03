@@ -13,12 +13,12 @@
 	"support_url": "https://support.microsoft.com/help/5027222",
 	"supersededby": [
 		{
-			"title": "2023-09 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5030214)",
-			"update_id": "037b8342-0a13-4957-85a7-64bcfc129c56"
+			"title": "2024-02 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5034768)",
+			"update_id": "17d82212-b12b-43b6-be0f-92d8d652e0da"
 		},
 		{
-			"title": "2024-05 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5037765)",
-			"update_id": "37d5533e-c420-4b25-b29b-e86925f4aa00"
+			"title": "2024-12 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5048661)",
+			"update_id": "2ac2b20a-80f3-4ebf-b2d8-4351576b8b03"
 		},
 		{
 			"title": "2023-07 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5028168)",
@@ -29,56 +29,60 @@
 			"update_id": "3052aae6-ec0f-47b6-9a54-6d603b1a2a72"
 		},
 		{
-			"title": "2024-09 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5043050)",
-			"update_id": "30f2e8dc-c007-48b0-8f78-bb3a8c1466e9"
-		},
-		{
 			"title": "2025-01 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5050008)",
 			"update_id": "09d27fa2-3a1a-435a-9d26-ed3b345b9482"
 		},
 		{
-			"title": "2024-02 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5034768)",
-			"update_id": "17d82212-b12b-43b6-be0f-92d8d652e0da"
+			"title": "2024-05 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5037765)",
+			"update_id": "37d5533e-c420-4b25-b29b-e86925f4aa00"
 		},
 		{
-			"title": "2024-12 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5048661)",
-			"update_id": "2ac2b20a-80f3-4ebf-b2d8-4351576b8b03"
+			"title": "2023-09 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5030214)",
+			"update_id": "037b8342-0a13-4957-85a7-64bcfc129c56"
 		},
 		{
-			"title": "2023-12 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5033371)",
-			"update_id": "59129683-9d2c-472a-9395-ecd9ab4287b2"
+			"title": "2024-09 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5043050)",
+			"update_id": "30f2e8dc-c007-48b0-8f78-bb3a8c1466e9"
 		},
 		{
 			"title": "2024-06 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5039217)",
 			"update_id": "4912449a-54f3-462e-880a-24272f568a29"
 		},
 		{
-			"title": "2024-03 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5037425)",
-			"update_id": "90908876-e575-462c-bbe6-786a2a0e56e3"
-		},
-		{
 			"title": "2023-10 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5031361)",
 			"update_id": "5f40e81a-c6f4-49e3-8993-f5ebbb419179"
 		},
 		{
-			"title": "2024-04 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5036896)",
-			"update_id": "8855dfcc-3f43-46ab-a235-e71c0057b496"
+			"title": "2023-12 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5033371)",
+			"update_id": "59129683-9d2c-472a-9395-ecd9ab4287b2"
 		},
 		{
 			"title": "2024-01 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5034127)",
 			"update_id": "63efc888-b3dd-4b7b-aa3f-6e29a67acdea"
 		},
 		{
-			"title": "2024-05 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5039705)",
-			"update_id": "93fc576c-21e5-4670-b5f1-11c37a0e252b"
+			"title": "2024-04 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5036896)",
+			"update_id": "8855dfcc-3f43-46ab-a235-e71c0057b496"
 		},
 		{
 			"title": "2024-08 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5041578)",
 			"update_id": "8ee52fd6-f859-412b-b231-2834e8c6ab66"
 		},
 		{
+			"title": "2024-03 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5037425)",
+			"update_id": "90908876-e575-462c-bbe6-786a2a0e56e3"
+		},
+		{
+			"title": "2023-08 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5029247)",
+			"update_id": "bc0a2ca4-da41-4a8c-be37-8bd7b2d40ba1"
+		},
+		{
 			"title": "2024-03 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5035849)",
 			"update_id": "dffddef9-def1-42e9-804d-f1007a46dc32"
+		},
+		{
+			"title": "2024-07 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5040430)",
+			"update_id": "fd602ada-2cf3-4d69-880f-b939c6d0cccf"
 		},
 		{
 			"title": "2024-10 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5044277)",
@@ -89,79 +93,75 @@
 			"update_id": "9cc2a29c-9765-47bb-b58e-da398c2d7f02"
 		},
 		{
-			"title": "2024-07 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5040430)",
-			"update_id": "fd602ada-2cf3-4d69-880f-b939c6d0cccf"
-		},
-		{
-			"title": "2023-08 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5029247)",
-			"update_id": "bc0a2ca4-da41-4a8c-be37-8bd7b2d40ba1"
+			"title": "2024-05 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5039705)",
+			"update_id": "93fc576c-21e5-4670-b5f1-11c37a0e252b"
 		}
 	],
 	"supersedes": [
+		"2021-11 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5008602)",
 		"2022-08 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB5016690)",
+		"2021-10 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB5006744)",
 		"2022-07 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB5015880)",
 		"2021-11 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB5007266)",
+		"2022-01 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5010196)",
 		"2022-06 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB5014669)",
 		"2022-10 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5018419)",
-		"2022-01 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5010196)",
-		"2021-11 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5008602)",
+		"2019-04 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB4495667)",
+		"2022-05 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB5014022)",
 		"2022-09 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5017315)",
-		"2021-10 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB5006744)",
-		"2021-09 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB5005625)",
 		"2019-03 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB4490481)",
 		"2019-05 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB4505056)",
 		"2019-05 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB4501835)",
-		"2019-04 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB4495667)",
-		"2022-01 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5010791)",
-		"2022-05 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB5014022)",
+		"2021-09 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB5005625)",
 		"2022-05 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5015018)",
 		"2022-04 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB5012636)",
-		"2022-09 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB5017379)",
 		"2022-03 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB5011551)",
 		"2018-10 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB4464455)",
+		"2021-03 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB5000854)",
+		"2022-09 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB5017379)",
+		"2022-01 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5010791)",
 		"2021-03 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5001638)",
 		"2020-09 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB4577069)",
-		"2021-03 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB5000854)",
+		"2020-08 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB4571748)",
 		"2020-07 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB4559003)",
+		"2020-03 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB4541331)",
+		"2019-02 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB4482887)",
 		"2020-04 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB4550969)",
 		"2020-01 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB4534321)",
-		"2020-08 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB4571748)",
 		"2020-02 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB4537818)",
-		"2020-03 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB4541331)",
+		"2019-01 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB4476976)",
 		"2021-06 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB5003703)",
 		"2021-07 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB5004308)",
-		"2019-02 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB4482887)",
-		"2019-01 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB4476976)",
-		"2021-01 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB4598296)",
-		"2021-04 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB5001384)",
 		"2021-05 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5003171)",
-		"2021-02 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB4601383)",
-		"2020-11 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB4586839)",
+		"2021-04 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB5001384)",
 		"2021-05 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB5003217)",
+		"2021-02 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB4601383)",
+		"2021-01 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB4598296)",
+		"2020-11 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB4586839)",
 		"2020-10 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB4580390)",
-		"2021-07 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5005394)",
-		"2023-04 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5025229)",
-		"2023-05 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5026362)",
-		"2020-06 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB4567513)",
-		"2022-11 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5021655)",
-		"2021-03 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5001568)",
-		"2022-10 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5020438)",
-		"2020-03 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB4554354)",
 		"2020-11 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB4594442)",
-		"2023-01 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5022286)",
-		"2019-07 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB4505658)",
-		"2019-10 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB4520062)",
-		"2023-02 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5022840)",
-		"2022-12 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5022554)",
+		"2020-03 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB4554354)",
+		"2021-07 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5005394)",
+		"2020-06 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB4567513)",
+		"2023-05 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5026362)",
+		"2023-04 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5025229)",
+		"2022-11 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5021655)",
+		"2022-10 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5020438)",
 		"2019-08 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB4512534)",
-		"2022-11 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5019966)",
+		"2019-10 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB4520062)",
+		"2021-03 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5001568)",
+		"2019-07 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB4505658)",
+		"2023-02 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5022840)",
 		"2018-11 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB4469342)",
-		"2019-05 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB4497934)",
-		"2022-12 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5021237)",
-		"2021-08 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB5005102)",
-		"2019-06 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB4509479)",
+		"2023-01 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5022286)",
 		"2019-06 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB4501371)",
+		"2019-06 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB4509479)",
+		"2022-12 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5021237)",
+		"2022-12 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5022554)",
+		"2021-08 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB5005102)",
+		"2022-11 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5019966)",
 		"2022-02 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB5010427)",
+		"2019-05 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB4497934)",
 		"2022-01 Cumulative Update Preview for Windows 10 Version 1809 for x86-based Systems (KB5009616)",
 		"2023-03 Cumulative Update for Windows 10 Version 1809 for x86-based Systems (KB5023702)"
 	],
