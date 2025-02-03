@@ -13,12 +13,12 @@
 	"support_url": "https://support.microsoft.com/help/4532695",
 	"supersededby": [
 		{
-			"title": "2020-09 Cumulative Update Preview for Windows 10 Version 1903 for ARM64-based Systems (KB4577062)",
-			"update_id": "8a227ad1-cb39-46ab-80a7-7ad5c931c4d6"
-		},
-		{
 			"title": "2020-03 Cumulative Update for Windows 10 Version 1903 for ARM64-based Systems (KB4554364)",
 			"update_id": "97183038-8c8d-44a4-84a1-250ae26b2579"
+		},
+		{
+			"title": "2020-12 Cumulative Update for Windows 10 Version 1903 for ARM64-based Systems (KB4592449)",
+			"update_id": "35afaa5f-e4b9-41b5-802e-ccf3e143aa45"
 		},
 		{
 			"title": "2020-11 Cumulative Update for Windows 10 Version 1903 for ARM64-based Systems (KB4586786)",
@@ -27,6 +27,10 @@
 		{
 			"title": "2020-08 Cumulative Update Preview for Windows 10 Version 1903 for ARM64-based Systems (KB4566116)",
 			"update_id": "6168b633-9ea8-4854-8d2b-e6771fa3c903"
+		},
+		{
+			"title": "2020-09 Cumulative Update Preview for Windows 10 Version 1903 for ARM64-based Systems (KB4577062)",
+			"update_id": "8a227ad1-cb39-46ab-80a7-7ad5c931c4d6"
 		},
 		{
 			"title": "2020-03 Cumulative Update for Windows 10 Version 1903 for ARM64-based Systems (KB4541335)",
@@ -41,12 +45,12 @@
 			"update_id": "12acf55f-a9ce-4f8a-b70a-5546876180d9"
 		},
 		{
-			"title": "2020-12 Cumulative Update for Windows 10 Version 1903 for ARM64-based Systems (KB4592449)",
-			"update_id": "35afaa5f-e4b9-41b5-802e-ccf3e143aa45"
-		},
-		{
 			"title": "2020-04 Cumulative Update for Windows 10 Version 1903 for ARM64-based Systems (KB4550945)",
 			"update_id": "af3f4b48-2587-4c09-96e7-0c88dd6904b8"
+		},
+		{
+			"title": "2020-11 Cumulative Update for Windows 10 Version 1903 for ARM64-based Systems (KB4594443)",
+			"update_id": "a7e8c07a-f44a-4341-8cbb-9d3701e80dc4"
 		},
 		{
 			"title": "2020-10 Cumulative Update for Windows 10 Version 1903 for ARM64-based Systems (KB4577671)",
@@ -57,26 +61,22 @@
 			"update_id": "f0af3ebd-07a9-48ad-af6c-1bf65346e555"
 		},
 		{
-			"title": "2020-07 Cumulative Update Preview for Windows 10 Version 1903 for ARM64-based Systems (KB4559004)",
-			"update_id": "f5fe71e4-dfb6-426e-9b44-3fdfc008f0e1"
-		},
-		{
 			"title": "2020-10 Cumulative Update Preview for Windows 10 Version 1903 for ARM64-based Systems (KB4580386)",
 			"update_id": "ffceea09-ea0b-4f60-ae8e-2fdabf9519a1"
 		},
 		{
-			"title": "2020-11 Cumulative Update for Windows 10 Version 1903 for ARM64-based Systems (KB4594443)",
-			"update_id": "a7e8c07a-f44a-4341-8cbb-9d3701e80dc4"
+			"title": "2020-07 Cumulative Update Preview for Windows 10 Version 1903 for ARM64-based Systems (KB4559004)",
+			"update_id": "f5fe71e4-dfb6-426e-9b44-3fdfc008f0e1"
 		}
 	],
 	"supersedes": [
-		"2019-08 Cumulative Update for Windows 10 Version 1903 for ARM64-based Systems (KB4512941)",
 		"2019-11 Cumulative Update for Windows 10 Version 1903 for ARM64-based Systems (KB4524570)",
 		"2019-05 Cumulative Update for Windows 10 Version 1903 for ARM64-based Systems (KB4497935)",
+		"2019-08 Cumulative Update for Windows 10 Version 1903 for ARM64-based Systems (KB4512941)",
 		"2019-09 Cumulative Update for Windows 10 Version 1903 for ARM64-based Systems (KB4517211)",
 		"2019-05 Cumulative Update for Windows 10 Version 1903 for ARM64-based Systems (KB4505057)",
-		"2019-10 Cumulative Update for Windows 10 Version 1903 for ARM64-based Systems (KB4517389)",
-		"2019-04 Cumulative Update for Windows 10 Version 1903 for ARM64-based Systems (KB4497093)"
+		"2019-04 Cumulative Update for Windows 10 Version 1903 for ARM64-based Systems (KB4497093)",
+		"2019-10 Cumulative Update for Windows 10 Version 1903 for ARM64-based Systems (KB4517389)"
 	],
 	"reboot_behavior": "Can request restart",
 	"user_input": "No",

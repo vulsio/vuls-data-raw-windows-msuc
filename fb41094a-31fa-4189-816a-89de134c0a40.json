@@ -13,24 +13,12 @@
 	"support_url": "https://support.microsoft.com/help/5001566",
 	"supersededby": [
 		{
-			"title": "2021-04 Cumulative Update for Windows 10 Version 1909 for x86-based Systems (KB5001337)",
-			"update_id": "6ec13d2d-306c-41fe-83bf-9789346721bf"
-		},
-		{
 			"title": "2021-05 Cumulative Update Preview for Windows 10 Version 1909 for x86-based Systems (KB5003212)",
 			"update_id": "be537173-c89f-4f01-9174-0829d1e60f4b"
 		},
 		{
-			"title": "2021-09 Cumulative Update Preview for Windows 10 Version 1909 for x86-based Systems (KB5005624)",
-			"update_id": "3a93fdee-19c0-4efb-90b2-40eda80ae44d"
-		},
-		{
-			"title": "2021-03 Cumulative Update Preview for Windows 10 Version 1909 for x86-based Systems (KB5000850)",
-			"update_id": "3d2577dc-7225-4df0-9e49-6cfaa7e1e2ca"
-		},
-		{
-			"title": "2021-06 Cumulative Update Preview for Windows 10 Version 1909 for x86-based Systems (KB5003698)",
-			"update_id": "7778edc3-4fef-47b3-986b-96c9b8cb92b0"
+			"title": "2021-04 Cumulative Update for Windows 10 Version 1909 for x86-based Systems (KB5001337)",
+			"update_id": "6ec13d2d-306c-41fe-83bf-9789346721bf"
 		},
 		{
 			"title": "2021-03 Cumulative Update for Windows 10 Version 1909 for x86-based Systems (KB5001648)",
@@ -41,8 +29,16 @@
 			"update_id": "0727d9e5-66f2-46f0-9777-84fbe7eb247f"
 		},
 		{
-			"title": "2022-01 Cumulative Update for Windows 10 Version 1909 for x86-based Systems (KB5010792)",
-			"update_id": "7f7de453-1835-48a2-ba9c-7f31d356dd1b"
+			"title": "2021-03 Cumulative Update Preview for Windows 10 Version 1909 for x86-based Systems (KB5000850)",
+			"update_id": "3d2577dc-7225-4df0-9e49-6cfaa7e1e2ca"
+		},
+		{
+			"title": "2021-09 Cumulative Update Preview for Windows 10 Version 1909 for x86-based Systems (KB5005624)",
+			"update_id": "3a93fdee-19c0-4efb-90b2-40eda80ae44d"
+		},
+		{
+			"title": "2021-06 Cumulative Update Preview for Windows 10 Version 1909 for x86-based Systems (KB5003698)",
+			"update_id": "7778edc3-4fef-47b3-986b-96c9b8cb92b0"
 		},
 		{
 			"title": "2021-07 Cumulative Update Preview for Windows 10 Version 1909 for x86-based Systems (KB5004293)",
@@ -55,18 +51,22 @@
 		{
 			"title": "2021-04 Cumulative Update Preview for Windows 10 Version 1909 for x86-based Systems (KB5001396)",
 			"update_id": "db890480-9ba3-46bd-9e93-f20cdd3aa82f"
+		},
+		{
+			"title": "2022-01 Cumulative Update for Windows 10 Version 1909 for x86-based Systems (KB5010792)",
+			"update_id": "7f7de453-1835-48a2-ba9c-7f31d356dd1b"
 		}
 	],
 	"supersedes": [
-		"2021-01 Cumulative Update Preview for Windows 10 Version 1909 for x86-based Systems (KB4598298)",
 		"2020-04 Cumulative Update for Windows 10 Version 1909 for x86-based Systems (KB4550945)",
+		"2021-01 Cumulative Update Preview for Windows 10 Version 1909 for x86-based Systems (KB4598298)",
 		"2020-07 Cumulative Update Preview for Windows 10 Version 1909 for x86-based Systems (KB4559004)",
-		"2020-11 Cumulative Update Preview for Windows 10 Version 1909 for x86-based Systems (KB4586819)",
-		"2020-09 Cumulative Update Preview for Windows 10 Version 1909 for x86-based Systems (KB4577062)",
 		"2020-08 Cumulative Update Preview for Windows 10 Version 1909 for x86-based Systems (KB4566116)",
+		"2020-09 Cumulative Update Preview for Windows 10 Version 1909 for x86-based Systems (KB4577062)",
+		"2020-11 Cumulative Update Preview for Windows 10 Version 1909 for x86-based Systems (KB4586819)",
+		"2020-01 Cumulative Update for Windows 10 Version 1909 for x86-based Systems (KB4532695)",
 		"2020-06 Cumulative Update for Windows 10 Version 1909 for x86-based Systems (KB4567512)",
 		"2021-02 Cumulative Update Preview for Windows 10 Version 1909 for x86-based Systems (KB4601380)",
-		"2020-01 Cumulative Update for Windows 10 Version 1909 for x86-based Systems (KB4532695)",
 		"2020-03 Cumulative Update for Windows 10 Version 1909 for x86-based Systems (KB4541335)",
 		"2020-11 Cumulative Update for Windows 10 Version 1909 for x86-based Systems (KB4594443)",
 		"2020-10 Cumulative Update Preview for Windows 10 Version 1909 for x86-based Systems (KB4580386)",
