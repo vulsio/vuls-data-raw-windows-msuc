@@ -21,28 +21,28 @@
 			"update_id": "2bc00b71-befb-4160-8bd6-e277309b8485"
 		},
 		{
-			"title": "2022-11 Cumulative Update for Windows 10 Version 21H1 for ARM64-based Systems (KB5019959)",
-			"update_id": "8abf6f7f-1734-43f9-bfff-e8454696ae9d"
-		},
-		{
 			"title": "2022-09 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5017380)",
 			"update_id": "6667504c-3f78-43e7-991e-22c4bebe45a8"
 		},
 		{
-			"title": "2022-06 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5014666)",
-			"update_id": "76aa6984-b9cf-40d8-8690-b4e044b4c0e6"
+			"title": "2022-11 Cumulative Update for Windows 10 Version 21H1 for ARM64-based Systems (KB5019959)",
+			"update_id": "8abf6f7f-1734-43f9-bfff-e8454696ae9d"
 		},
 		{
 			"title": "2022-05 Cumulative Update for Windows 10 Version 21H1 for ARM64-based Systems (KB5015020)",
 			"update_id": "75896a90-a022-42a4-9e3a-8b457a4628d7"
 		},
 		{
-			"title": "2022-10 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5018482)",
-			"update_id": "8f3c280d-bc27-4e71-957e-bc09f1b62d37"
-		},
-		{
 			"title": "2022-12 Cumulative Update for Windows 10 Version 21H1 for ARM64-based Systems (KB5021233)",
 			"update_id": "74b6417e-79db-4ced-971e-61d56c953890"
+		},
+		{
+			"title": "2022-06 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5014666)",
+			"update_id": "76aa6984-b9cf-40d8-8690-b4e044b4c0e6"
+		},
+		{
+			"title": "2022-10 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5018482)",
+			"update_id": "8f3c280d-bc27-4e71-957e-bc09f1b62d37"
 		},
 		{
 			"title": "2022-10 Cumulative Update for Windows 10 Version 21H1 for ARM64-based Systems (KB5020953)",
@@ -62,8 +62,8 @@
 		}
 	],
 	"supersedes": [
-		"2021-11 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5007253)",
 		"2022-01 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5009596)",
+		"2021-11 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5007253)",
 		"2022-02 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5010415)",
 		"2021-09 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5005611)",
 		"2021-08 Cumulative Update Preview for Windows 10 Version 21H1 for ARM64-based Systems (KB5005101)",
