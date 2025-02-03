@@ -21,20 +21,20 @@
 			"update_id": "27c3ef92-6f33-46c8-946d-4fcf226f5ec2"
 		},
 		{
-			"title": "2021-11 Cumulative Update for Windows 10 Version 2004 for x86-based Systems (KB5007186)",
-			"update_id": "017acdeb-7f06-473a-96bf-6fc5e45e0cf0"
-		},
-		{
 			"title": "2021-06 Cumulative Update for Windows 10 Version 2004 for x86-based Systems (KB5004476)",
 			"update_id": "1b0b7a46-34ed-4794-9276-a042e52b7721"
 		},
 		{
-			"title": "2021-04 Cumulative Update Preview for Windows 10 Version 2004 for x86-based Systems (KB5001391)",
-			"update_id": "247ee098-0a8a-4545-9031-6555656b0551"
-		},
-		{
 			"title": "2021-05 Cumulative Update Preview for Windows 10 Version 2004 for x86-based Systems (KB5003214)",
 			"update_id": "13f76957-b753-4ab9-9403-a7aca971bbef"
+		},
+		{
+			"title": "2021-11 Cumulative Update for Windows 10 Version 2004 for x86-based Systems (KB5007186)",
+			"update_id": "017acdeb-7f06-473a-96bf-6fc5e45e0cf0"
+		},
+		{
+			"title": "2021-04 Cumulative Update Preview for Windows 10 Version 2004 for x86-based Systems (KB5001391)",
+			"update_id": "247ee098-0a8a-4545-9031-6555656b0551"
 		},
 		{
 			"title": "2021-11 Cumulative Update Preview for Windows 10 Version 2004 for x86-based Systems (KB5007253)",
@@ -45,20 +45,16 @@
 			"update_id": "0148bcc0-f881-4b22-b133-e318fe0f8efd"
 		},
 		{
-			"title": "2021-12 Cumulative Update for Windows 10 Version 2004 for x86-based Systems (KB5008212)",
-			"update_id": "bba7d9f7-3ba9-4e17-b866-33ff4d1a786d"
+			"title": "2021-06 Cumulative Update for Windows 10 Version 2004 for x86-based Systems (KB5004760)",
+			"update_id": "4a81d497-0545-46f5-bee9-fe0dcb33e7df"
 		},
 		{
 			"title": "2021-08 Cumulative Update Preview for Windows 10 Version 2004 for x86-based Systems (KB5005101)",
 			"update_id": "c7b0030e-3d6f-48c2-a711-dd06b1a2172e"
 		},
 		{
-			"title": "2021-06 Cumulative Update for Windows 10 Version 2004 for x86-based Systems (KB5004760)",
-			"update_id": "4a81d497-0545-46f5-bee9-fe0dcb33e7df"
-		},
-		{
-			"title": "2021-02 Cumulative Update Preview for Windows 10 Version 2004 for x86-based Systems (KB4601382)",
-			"update_id": "4bd3a331-98dc-45e1-8c48-9d5d738e925e"
+			"title": "2021-12 Cumulative Update for Windows 10 Version 2004 for x86-based Systems (KB5008212)",
+			"update_id": "bba7d9f7-3ba9-4e17-b866-33ff4d1a786d"
 		},
 		{
 			"title": "2021-03 Cumulative Update for Windows 10 Version 2004 for x86-based Systems (KB5001649)",
@@ -73,6 +69,10 @@
 			"update_id": "92d83190-f853-4931-a20d-1637e749a102"
 		},
 		{
+			"title": "2021-02 Cumulative Update Preview for Windows 10 Version 2004 for x86-based Systems (KB4601382)",
+			"update_id": "4bd3a331-98dc-45e1-8c48-9d5d738e925e"
+		},
+		{
 			"title": "2021-07 Cumulative Update Preview for Windows 10 Version 2004 for x86-based Systems (KB5004296)",
 			"update_id": "d3c76fd5-260b-4933-92a6-e925c55516bb"
 		},
@@ -82,11 +82,11 @@
 		}
 	],
 	"supersedes": [
-		"2020-09 Cumulative Update Preview for Windows 10 Version 2004 for x86-based Systems (KB4577063)",
-		"2020-10 Cumulative Update Preview for Windows 10 Version 2004 for x86-based Systems (KB4580364)",
 		"2020-07 Cumulative Update Preview for Windows 10 Version 2004 for x86-based Systems (KB4568831)",
-		"2020-06 Cumulative Update for Windows 10 Version 2004 for x86-based Systems (KB4567523)",
-		"2020-08 Cumulative Update Preview for Windows 10 Version 2004 for x86-based Systems (KB4571744)"
+		"2020-09 Cumulative Update Preview for Windows 10 Version 2004 for x86-based Systems (KB4577063)",
+		"2020-08 Cumulative Update Preview for Windows 10 Version 2004 for x86-based Systems (KB4571744)",
+		"2020-10 Cumulative Update Preview for Windows 10 Version 2004 for x86-based Systems (KB4580364)",
+		"2020-06 Cumulative Update for Windows 10 Version 2004 for x86-based Systems (KB4567523)"
 	],
 	"reboot_behavior": "Can request restart",
 	"user_input": "No",
