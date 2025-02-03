@@ -13,12 +13,12 @@
 	"support_url": "https://support.microsoft.com/help/5010195",
 	"supersededby": [
 		{
-			"title": "2024-06 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5039214)",
-			"update_id": "41417020-edf6-40bd-94bd-cac5c2a5b673"
-		},
-		{
 			"title": "2024-07 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5040434)",
 			"update_id": "29e720bd-ebf8-41ff-9cdb-57dd925bfc12"
+		},
+		{
+			"title": "2024-06 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5039214)",
+			"update_id": "41417020-edf6-40bd-94bd-cac5c2a5b673"
 		},
 		{
 			"title": "2022-11 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5021654)",
@@ -53,10 +53,6 @@
 			"update_id": "46ad616c-2da9-4767-baed-b155bf0d3905"
 		},
 		{
-			"title": "2023-06 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5027219)",
-			"update_id": "51024e5b-39a4-43eb-aa4e-5a9486fbcbcf"
-		},
-		{
 			"title": "2023-05 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5026363)",
 			"update_id": "523eb119-c710-4192-830e-3b54e169e7ae"
 		},
@@ -65,8 +61,12 @@
 			"update_id": "54a3dd89-48da-47cc-a665-a314c36107bc"
 		},
 		{
-			"title": "2022-08 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5016622)",
-			"update_id": "52c6b241-63ce-444a-9b88-1aa0bb567eec"
+			"title": "2024-01 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5034119)",
+			"update_id": "60443365-9000-401d-90a5-86cc3c19b91f"
+		},
+		{
+			"title": "2023-06 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5027219)",
+			"update_id": "51024e5b-39a4-43eb-aa4e-5a9486fbcbcf"
 		},
 		{
 			"title": "2022-06 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5014702)",
@@ -77,8 +77,12 @@
 			"update_id": "5dd55b3d-890d-49aa-94d3-9289ab1366ab"
 		},
 		{
-			"title": "2024-01 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5034119)",
-			"update_id": "60443365-9000-401d-90a5-86cc3c19b91f"
+			"title": "2022-08 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5016622)",
+			"update_id": "52c6b241-63ce-444a-9b88-1aa0bb567eec"
+		},
+		{
+			"title": "2023-03 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5023697)",
+			"update_id": "686eeda0-602f-4d9f-8a0d-2a93fd556de9"
 		},
 		{
 			"title": "2022-05 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5015019)",
@@ -87,10 +91,6 @@
 		{
 			"title": "2024-04 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5036899)",
 			"update_id": "69faac54-5812-4113-a88d-d52fd8acefd1"
-		},
-		{
-			"title": "2023-03 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5023697)",
-			"update_id": "686eeda0-602f-4d9f-8a0d-2a93fd556de9"
 		},
 		{
 			"title": "2024-11 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5046612)",
@@ -105,20 +105,16 @@
 			"update_id": "70f93ea5-b70a-4fe6-b87f-6edc21405ddb"
 		},
 		{
-			"title": "2023-11 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5032197)",
-			"update_id": "80bdc166-b91b-4627-a5e9-563bcb64a228"
+			"title": "2023-09 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5030213)",
+			"update_id": "8a70d83a-8fb5-4fec-a989-9ca8a6ebd163"
 		},
 		{
 			"title": "2024-03 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5035855)",
 			"update_id": "7c253f60-337d-4d47-915e-559103e4775c"
 		},
 		{
-			"title": "2023-09 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5030213)",
-			"update_id": "8a70d83a-8fb5-4fec-a989-9ca8a6ebd163"
-		},
-		{
-			"title": "2024-02 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5034767)",
-			"update_id": "874e015a-6df4-419b-a700-90adf4f90d64"
+			"title": "2023-11 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5032197)",
+			"update_id": "80bdc166-b91b-4627-a5e9-563bcb64a228"
 		},
 		{
 			"title": "2023-08 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5029242)",
@@ -127,6 +123,10 @@
 		{
 			"title": "2023-02 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5022838)",
 			"update_id": "99d129fc-49f0-4286-bdcf-cbbed7efda65"
+		},
+		{
+			"title": "2024-02 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5034767)",
+			"update_id": "874e015a-6df4-419b-a700-90adf4f90d64"
 		},
 		{
 			"title": "2022-12 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5021235)",
@@ -145,6 +145,10 @@
 			"update_id": "c063d253-2a4c-4640-b33a-d9be02ad0a92"
 		},
 		{
+			"title": "2024-12 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5048671)",
+			"update_id": "eee914b6-43b8-494d-99ad-2baa57ec1f50"
+		},
+		{
 			"title": "2023-12 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5033373)",
 			"update_id": "e1b3f961-fe8a-4139-8e69-793eec79b618"
 		},
@@ -161,45 +165,41 @@
 			"update_id": "ee46c806-1dd0-496d-bf42-fbff7b223b9a"
 		},
 		{
-			"title": "2024-12 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5048671)",
-			"update_id": "eee914b6-43b8-494d-99ad-2baa57ec1f50"
+			"title": "2023-01 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5022289)",
+			"update_id": "fffa106f-6d8e-4e6f-8375-0c58cb9b5948"
 		},
 		{
 			"title": "2022-01 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5010790)",
 			"update_id": "f9379ccc-edca-44f2-a983-837ce1970ac5"
-		},
-		{
-			"title": "2023-01 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5022289)",
-			"update_id": "fffa106f-6d8e-4e6f-8375-0c58cb9b5948"
 		}
 	],
 	"supersedes": [
 		"2018-05 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB4103720)",
-		"2019-05 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB4494440)",
-		"2018-10 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB4462928)",
-		"2019-04 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB4493470)",
+		"2018-05 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB4103723)",
 		"2020-01 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB4534307)",
 		"2018-11 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB4467691)",
-		"2018-05 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB4103723)",
+		"2019-05 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB4494440)",
 		"2018-10 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB4462917)",
+		"2019-04 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB4493470)",
+		"2018-10 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB4462928)",
 		"2020-02 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB4537806)",
 		"2020-03 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB4541329)",
 		"2020-04 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB4550947)",
-		"Cumulative Update for Windows 10 Version 1607 (KB3213522)",
-		"Cumulative Update for Windows 10 Version 1607 (KB3216755)",
-		"Cumulative Update for Windows 10 Version 1607 (KB4016635)",
 		"2018-11 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB4478877)",
-		"2018-07 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB4346877)",
-		"2017-05 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB4023680)",
-		"2020-06 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB4567517)",
+		"Cumulative Update for Windows 10 Version 1607 (KB3213522)",
+		"Cumulative Update for Windows 10 Version 1607 (KB4016635)",
 		"2019-04 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB4499418)",
+		"2020-06 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB4567517)",
+		"Cumulative Update for Windows 10 Version 1607 (KB3216755)",
+		"2017-05 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB4023680)",
+		"2018-07 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB4346877)",
+		"2021-07 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5005393)",
 		"2020-11 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB4594441)",
 		"2021-03 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5001633)",
-		"2021-07 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5005393)",
 		"2021-11 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB5008601)",
 		"2018-04 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB4093119)",
-		"Cumulative Update for Windows 10 Version 1607 (KB3206632)",
-		"2018-04 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB4093120)"
+		"2018-04 Cumulative Update for Windows 10 Version 1607 for x86-based Systems (KB4093120)",
+		"Cumulative Update for Windows 10 Version 1607 (KB3206632)"
 	],
 	"reboot_behavior": "Can request restart",
 	"user_input": "No",
