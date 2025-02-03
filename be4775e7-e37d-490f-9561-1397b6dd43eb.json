@@ -13,49 +13,49 @@
 	"support_url": "https://support.microsoft.com/help/5047767",
 	"supersededby": [
 		{
-			"title": "2025-01 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5049983)",
-			"update_id": "cdd1638c-a1e4-4aa8-abb7-9df2cf5909e9"
+			"title": "2024-12 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5048654)",
+			"update_id": "3cddf83e-f964-4ff5-998d-f72eda29554b"
 		},
 		{
 			"title": "2024-11 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5046616)",
 			"update_id": "3c6b952a-4c28-4791-9ae7-3520c2f21ff1"
 		},
 		{
-			"title": "2024-12 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5048654)",
-			"update_id": "3cddf83e-f964-4ff5-998d-f72eda29554b"
+			"title": "2025-01 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5049983)",
+			"update_id": "cdd1638c-a1e4-4aa8-abb7-9df2cf5909e9"
 		}
 	],
 	"supersedes": [
-		"2022-10 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5020436)",
-		"2022-12 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5021249)",
-		"2022-10 Cumulative Update Preview for Microsoft server operating system, version 22H2 for x64-based Systems (KB5018485)",
-		"2023-05 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5026370)",
-		"2023-02 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5022842)",
+		"2022-11 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5021656)",
 		"2022-11 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5019081)",
 		"2023-01 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5022291)",
-		"2022-11 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5021656)",
+		"2023-05 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5026370)",
+		"2022-12 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5021249)",
+		"2023-02 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5022842)",
+		"2022-10 Cumulative Update Preview for Microsoft server operating system, version 22H2 for x64-based Systems (KB5018485)",
+		"2023-06 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5027225)",
+		"2022-10 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5020436)",
+		"2023-10 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5031364)",
+		"2023-07 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5028171)",
 		"2023-08 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5029250)",
 		"2023-09 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5030216)",
-		"2023-07 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5028171)",
 		"2023-11 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5032198)",
-		"2023-12 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5033118)",
 		"2024-02 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5034770)",
-		"2023-10 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5031364)",
-		"2023-06 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5027225)",
-		"2024-04 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5036909)",
-		"2024-05 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5037782)",
 		"2024-03 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5035857)",
-		"2024-06 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5039227)",
-		"2024-09 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5042881)",
-		"2024-07 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5040437)",
-		"2024-08 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5041160)",
+		"2023-12 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5033118)",
 		"2024-10 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5044281)",
+		"2024-05 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5037782)",
+		"2024-07 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5040437)",
+		"2024-04 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5036909)",
+		"2024-08 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5041160)",
+		"2024-09 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5042881)",
+		"2024-06 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5039227)",
 		"2022-11 Cumulative Update Preview for Microsoft server operating system, version 22H2 for x64-based Systems (KB5020032)",
+		"2022-10 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5018421)",
 		"2024-06 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5041054)",
-		"2023-04 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5025230)",
 		"2023-03 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5023705)",
-		"2024-01 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5034129)",
-		"2022-10 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5018421)"
+		"2023-04 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5025230)",
+		"2024-01 Cumulative Update for Microsoft server operating system, version 22H2 for x64-based Systems (KB5034129)"
 	],
 	"reboot_behavior": "Can request restart",
 	"user_input": "No",
